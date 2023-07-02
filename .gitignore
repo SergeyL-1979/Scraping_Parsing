@@ -160,6 +160,6 @@ cython_debug/
 .idea/
 
 chromedriver
-*.cvs
+*.csv
 *.txt
 *.html
