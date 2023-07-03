@@ -163,3 +163,4 @@ chromedriver
 *.csv
 *.txt
 *.html
+!req.txt
