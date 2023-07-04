@@ -37,14 +37,21 @@ def read_catalog_product():
         for i in cat:
             link_url_list.append(i)
 
-    with open('data/3_name_and_url_product.json', 'w', encoding='utf-8') as file:
+    with open('data/3_collection_of_links.json', 'w', encoding='utf-8') as file:
         json.dump(link_url_list, file, indent=4, ensure_ascii=False)
+
+
+def collection_of_links_to_sections():
+    with open('data/3_collection_of_links.json', encoding='utf-8') as file:
+        collection_of_links = json.load(file)
+        print(collection_of_links)
 
 
 def main():
     # get_catalog()
     # read_catalog_save_url_and_name()
-    read_catalog_product()
+    # read_catalog_product()
+    collection_of_links_to_sections()
 
 
 
