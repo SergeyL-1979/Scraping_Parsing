@@ -27,24 +27,24 @@ def read_catalog_save_url_and_name():
         json.dump([cat for cat in url_link_product], file, indent=4, ensure_ascii=False)
 
 
-# def read_catalog_product():
-#     with open('data/2_name_and_url_product.json', encoding='utf-8') as file:
-#         product_catalog = json.load(file)
-#
-#     link_url_list = []
-#     for cat in product_catalog:
-#         cat = cat.get('categories')
-#         link_url_list.append(cat)
-#     print(link_url_list)
-#
-#     # with open('data/2_name_and_url_product.json', encoding='utf-8') as file:
-#     #     json.dump(link_url, file, indent=4, ensure_ascii=False)
+def read_catalog_product():
+    with open('data/2_name_and_url_product.json', encoding='utf-8') as file:
+        product_catalog = json.load(file)
+
+    link_url_list = []
+    for cat in product_catalog:
+        cat = cat.get('categories')
+        for i in cat:
+            link_url_list.append(i)
+
+    with open('data/3_name_and_url_product.json', 'w', encoding='utf-8') as file:
+        json.dump(link_url_list, file, indent=4, ensure_ascii=False)
 
 
 def main():
     # get_catalog()
-    read_catalog_save_url_and_name()
-    # read_catalog_product()
+    # read_catalog_save_url_and_name()
+    read_catalog_product()
 
 
 
