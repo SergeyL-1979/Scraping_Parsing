@@ -78,6 +78,5 @@ def main():
     links_subcategory()
 
 
-
 if __name__ == '__main__':
     main()
