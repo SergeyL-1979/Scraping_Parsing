@@ -44,14 +44,38 @@ def read_catalog_product():
 def collection_of_links_to_sections():
     with open('data/3_collection_of_links.json', encoding='utf-8') as file:
         collection_of_links = json.load(file)
-        print(collection_of_links)
+
+    collection_list_product = []
+    for collection in collection_of_links:
+        col_name = collection.get('name')
+        col_url = collection.get('url')
+
+        collection_list_product.append({'name': col_name, 'url': col_url})
+
+    with open('data/4_links.json', 'w', encoding='utf-8') as file:
+        json.dump(collection_list_product, file, indent=4, ensure_ascii=False)
+
+
+def links_subcategory():
+    with open('data/3_collection_of_links.json', encoding='utf-8') as file:
+        subcategory_of_links = json.load(file)
+
+    link_url_list = []
+    for cat in subcategory_of_links:
+        cat = cat.get('categories')
+        for i in cat:
+            link_url_list.append(i)
+
+    with open('data/5_links_subcategory.json', 'w', encoding='utf-8') as file:
+        json.dump(link_url_list, file, indent=4, ensure_ascii=False)
 
 
 def main():
     # get_catalog()
     # read_catalog_save_url_and_name()
     # read_catalog_product()
-    collection_of_links_to_sections()
+    # collection_of_links_to_sections()
+    links_subcategory()
 
 
 
