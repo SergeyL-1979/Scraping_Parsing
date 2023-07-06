@@ -80,12 +80,26 @@ def links_subcategory():
         json.dump(collection_list_product, file, indent=4, ensure_ascii=False)
 
 
+def get_following_link():
+    s = requests.Session()
+
+    with open('data/6_links_products.json', encoding='utf-8') as file:
+        card_product = json.load(file)
+
+    for i in card_product:
+        url = i['url']
+        r = s.get(url=url, headers=headers, cookies=cookies)
+        print(r.text)
+    with open('data/test.html', 'w', encoding='utf-8') as file:
+        file.write(r.text)
+
 def main():
     # get_catalog()
     # read_catalog_save_url_and_name()
     # read_catalog_product()
     # collection_of_links_to_sections()
-    links_subcategory()
+    # links_subcategory()
+    get_following_link()
 
 
 if __name__ == '__main__':
