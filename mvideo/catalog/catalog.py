@@ -50,7 +50,7 @@ def collection_of_links_to_sections():
         col_name = collection.get('name')
         col_url = collection.get('url')
 
-        collection_list_product.append({'name': col_name, 'url': col_url})
+        collection_list_product.append({'name': col_name, 'url': f"https://www.mvideo.ru{col_url}"})
 
     with open('data/4_links.json', 'w', encoding='utf-8') as file:
         json.dump(collection_list_product, file, indent=4, ensure_ascii=False)
@@ -68,6 +68,16 @@ def links_subcategory():
 
     with open('data/5_links_subcategory.json', 'w', encoding='utf-8') as file:
         json.dump(link_url_list, file, indent=4, ensure_ascii=False)
+
+    collection_list_product = []
+    for collection in link_url_list:
+        col_name = collection.get('name')
+        col_url = collection.get('url')
+
+        collection_list_product.append({'name': col_name, 'url': f"https://www.mvideo.ru{col_url}"})
+
+    with open('data/6_links_products.json', 'w', encoding='utf-8') as file:
+        json.dump(collection_list_product, file, indent=4, ensure_ascii=False)
 
 
 def main():
