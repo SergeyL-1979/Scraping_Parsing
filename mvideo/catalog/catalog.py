@@ -63,14 +63,15 @@ def links_subcategory():
     link_url_list = []
     for cat in subcategory_of_links:
         cat = cat.get('categories')
-        for i in cat:
-            link_url_list.append(i)
+        for name_and_url in cat:
+            link_url_list.append(name_and_url)
 
     with open('data/5_links_subcategory.json', 'w', encoding='utf-8') as file:
         json.dump(link_url_list, file, indent=4, ensure_ascii=False)
 
     collection_list_product = []
-    for collection in link_url_list:
+    output_data = [v for v in {inp['name']: inp for inp in link_url_list}.values()]
+    for collection in output_data:
         col_name = collection.get('name')
         col_url = collection.get('url')
 
@@ -89,17 +90,20 @@ def get_following_link():
     for i in card_product:
         url = i['url']
         r = s.get(url=url, headers=headers, cookies=cookies)
-        print(r.text)
-    with open('data/test.html', 'w', encoding='utf-8') as file:
-        file.write(r.text)
+        # print(r.text)
+        for count in range(1, 7):
+            with open(f'data/test{count}.html', 'w', encoding='utf-8') as file:
+                file.write(r.text)
+
+        print('[INFO]' f'{r.url}')
 
 def main():
     # get_catalog()
     # read_catalog_save_url_and_name()
     # read_catalog_product()
     # collection_of_links_to_sections()
-    # links_subcategory()
-    get_following_link()
+    links_subcategory()
+    # get_following_link()
 
 
 if __name__ == '__main__':
