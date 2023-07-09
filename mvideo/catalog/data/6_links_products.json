@@ -1,7 +1,7 @@
 [
     {
         "name": "Смартфоны",
-        "url": "https://www.mvideo.ru/smartfony-i-svyaz-10/smartfony-205?reff=menu_main"
+        "url": "https://www.mvideo.ru/promo/premium-tehnika-smartfony-mark203286677?reff=menu_main"
     },
     {
         "name": "Apple iPhone",
@@ -101,7 +101,7 @@
     },
     {
         "name": "Спортивные часы",
-        "url": "https://www.mvideo.ru/gadzhety-64/smart-chasy-400/f/category=sportivnye-chasy-1254?reff=menu_main"
+        "url": "https://www.mvideo.ru/gadzhety-64/sportivnye-chasy-333?reff=menu_main"
     },
     {
         "name": "Детские часы",
@@ -117,7 +117,7 @@
     },
     {
         "name": "Чехлы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/chehly-dlya-telefonov-342?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/chehly-dlya-telefonov-342?reff=menu_main_acc"
     },
     {
         "name": "Стёкла и плёнки",
@@ -125,7 +125,7 @@
     },
     {
         "name": "Зарядные устройства",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/zaryadnye-ustroistva-2587?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/zaryadnye-ustroistva-2587?reff=menu_main_acc"
     },
     {
         "name": "Кабели",
@@ -133,7 +133,7 @@
     },
     {
         "name": "Карты памяти",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/karty-pamyati-2590?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/karty-pamyati-2590?reff=menu_main_acc"
     },
     {
         "name": "Держатели и попсокеты",
@@ -149,7 +149,7 @@
     },
     {
         "name": "Наушники",
-        "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967?reff=menu_main"
+        "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967?reff=menu_main_acc"
     },
     {
         "name": "Портативное аудио",
@@ -157,7 +157,7 @@
     },
     {
         "name": "Внешние аккумуляторы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/vneshnie-akkumulyatory-dlya-telefonov-1944?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/vneshnie-akkumulyatory-dlya-telefonov-1944?reff=menu_main_acc"
     },
     {
         "name": "SIM-карты",
@@ -325,31 +325,31 @@
     },
     {
         "name": "Игровые аксессуары",
-        "url": "https://www.mvideo.ru/promo/aksessuary-dlja-igr?reff=menu_main_category"
+        "url": "https://www.mvideo.ru/promo/aksessuary-dlja-igr?reff=menu_main_acc"
     },
     {
         "name": "Клавиатуры и мыши",
-        "url": "https://www.mvideo.ru/klaviatury-i-myshi?reff=menu_main_category"
+        "url": "https://www.mvideo.ru/klaviatury-i-myshi?reff=menu_main_acc"
     },
     {
         "name": "Роутеры и сетевое оборудование",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/routery-i-setevoe-oborudovanie-186?reff=menu_main"
+        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/routery-i-setevoe-oborudovanie-186?reff=menu_main_acc"
     },
     {
         "name": "Внешние жёсткие диски",
-        "url": "https://www.mvideo.ruhttps://www.mvideo.ru/komputernye-aksessuary/vneshnie-zhestkie-diski-i-ssd-184?reff=menu_main_category"
+        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/vneshnie-zhestkie-diski-i-ssd-184?reff=menu_main_acc"
     },
     {
         "name": "Флеш-накопители",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/flesh-nakopiteli-185?reff=menu_main"
+        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/flesh-nakopiteli-185?reff=menu_main_acc"
     },
     {
         "name": "Сумки для ноутбуков",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/sumki-dlya-noutbukov-216?reff=menu_main"
+        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/sumki-dlya-noutbukov-216?reff=menu_main_acc"
     },
     {
         "name": "Компьютерная мебель",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/komputernaya-mebel-1781?reff=menu_main"
+        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/komputernaya-mebel-1781?reff=menu_main_acc"
     },
     {
         "name": "Антивирусы и программное обеспечение",
@@ -452,16 +452,12 @@
         "url": "https://www.mvideo.ru/videotehnika-20/proektory-i-ekrany-74/f/category=videoproektory-dlya-domashnih-kinoteatrov-594?reff=menu_main"
     },
     {
-        "name": "Мультимедийные проекторы",
-        "url": "https://www.mvideo.ru/videotehnika-20/proektory-i-ekrany-74/f/category=multimediinye-proektory-587?reff=menu_main"
-    },
-    {
         "name": "Мультимедийные мини-кинотеатры",
         "url": "https://www.mvideo.ru/videotehnika-20/proektory-i-ekrany-74/f/category=multimediinyi-mini-kinoteatr-6067?reff=menu_main"
     },
     {
         "name": "Экраны для видеопроекторов",
-        "url": "https://www.mvideo.ru/videotehnika-20/proektory-i-ekrany-74/f/category=ekrany-dlya-videoproektorov-879?reff=menu_main"
+        "url": "https://www.mvideo.ru/videotehnika-20/proektory-i-ekrany-74/f/category=ekrany-dlya-videoproektorov-879?reff=menu_main_acc"
     },
     {
         "name": "Подвесы для видеопроекторов",
@@ -473,7 +469,7 @@
     },
     {
         "name": "Кронштейны для TV",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/kronshteiny-i-podvesy-dlya-televizorov-4247?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/kronshteiny-i-podvesy-dlya-televizorov-4247?reff=menu_main_acc"
     },
     {
         "name": "Кабели и переходники",
@@ -493,11 +489,11 @@
     },
     {
         "name": "Антенны",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/televizionnye-antenny-252?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=avtomobilnaya-antenna?reff=menu_main_category"
     },
     {
         "name": "Пульты для телевизоров",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/pulty-dlya-televizora-253?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/pulty-dlya-televizora-253?reff=menu_main_acc"
     },
     {
         "name": "Фирменные рамки для телевизоров",
@@ -521,11 +517,11 @@
     },
     {
         "name": "Тумбы и подставки для телевизоров",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/tumby-i-podstavki-dlya-televizorov-237?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/tumby-i-podstavki-dlya-televizorov-237?reff=menu_main_acc"
     },
     {
         "name": "Батарейки и аккумуляторы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/batareiki-i-akkumulyatory-296?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/batareiki-i-akkumulyatory-296?reff=menu_main_acc"
     },
     {
         "name": "Портативные колонки",
@@ -564,10 +560,6 @@
         "url": "https://www.mvideo.ru/audiotehnika-i-dj-oborudovanie-9/muzykalnye-centry-68?reff=menu_main"
     },
     {
-        "name": "Товары для блогеров",
-        "url": "https://www.mvideo.ru/hobbi-28/tovary-dlya-blogerov-7710?reff=menu_main"
-    },
-    {
         "name": "DJ-наушники",
         "url": "https://www.mvideo.ru/audiotehnika-i-dj-oborudovanie-9/dj-oborudovanie-340/f/category=dj-naushniki-1185?reff=menu_main"
     },
@@ -601,7 +593,7 @@
     },
     {
         "name": "Гарнитуры для телефонов",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/garnitury-dlya-telefonov-343?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/garnitury-dlya-telefonov-343?reff=menu_main_acc"
     },
     {
         "name": "Усилители для наушников",
@@ -665,7 +657,7 @@
     },
     {
         "name": "Подставки и подвесы для колонок",
-        "url": "https://www.mvideo.ru/audiotehnika-i-dj-oborudovanie-9/aksessuary-dlya-audio-2475/f/category=podstavki-dlya-kolonok-492,podvesy-dlya-kolonok-813?reff=menu_main"
+        "url": "https://www.mvideo.ru/audiotehnika-i-dj-oborudovanie-9/aksessuary-dlya-audio-2475?reff=menu_main_acc"
     },
     {
         "name": "Кабели и аксессуары Hi-Fi",
@@ -884,16 +876,12 @@
         "url": "https://www.mvideo.ru/stiralnye-i-sushilnye-mashiny-2427/sushilnye-mashiny-30550?reff=menu_main"
     },
     {
-        "name": "Стиральные машины встраиваемые",
-        "url": "https://www.mvideo.ru/vstraivaemaya-tehnika-4/vstraivaemye-stiralnye-mashiny-201?reff=menu_main"
-    },
-    {
         "name": "Компактные стиральные машины",
         "url": "https://www.mvideo.ru/stiralnye-i-sushilnye-mashiny-2427/stiralnye-mashiny-89/f/category=kompaktnye-stiralnye-mashiny-2450,stiralnye-mashiny-aktivatornogo-tipa-2451?reff=menu_main"
     },
     {
         "name": "Аксессуары для стиральных машин",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/aksessuary-dlya-stiralnyh-mashin-382?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/aksessuary-dlya-stiralnyh-mashin-382?reff=menu_main_acc"
     },
     {
         "name": "Все пылесосы",
@@ -929,7 +917,7 @@
     },
     {
         "name": "Кондиционеры",
-        "url": "https://www.mvideo.ru/klimaticheskaya-tehnika-11/kondicionery-106?reff=menu_main"
+        "url": "https://www.mvideo.ru/klimaticheskaya-tehnika-11/kondicionery-106/f/rabotaet-v-sisteme-umnyi-dom=da?reff=menu_main"
     },
     {
         "name": "Премиум климатическая техника",
@@ -945,7 +933,7 @@
     },
     {
         "name": "Увлажнители воздуха",
-        "url": "https://www.mvideo.ru/klimaticheskaya-tehnika-11/uvlazhniteli-i-ochistiteli-vozduha-124/f/category=uvlazhniteli-vozduha-517?reff=menu_main"
+        "url": "https://www.mvideo.ru/klimaticheskaya-tehnika-11/uvlazhniteli-i-ochistiteli-vozduha-124/f/brand=crane?reff=menu_main"
     },
     {
         "name": "Обогревательные приборы",
@@ -981,7 +969,7 @@
     },
     {
         "name": "Гладильные доски",
-        "url": "https://www.mvideo.ru/tovary-dlya-uhoda-za-odezhdoi-2/gladilnye-doski-292/f/category=gladilnye-doski-napolnye-1645?reff=menu_main"
+        "url": "https://www.mvideo.ru/tovary-dlya-uhoda-za-odezhdoi-2/gladilnye-doski-292?reff=menu_main_acc"
     },
     {
         "name": "Паровой шкаф для одежды",
@@ -1032,12 +1020,8 @@
         "url": "https://www.mvideo.ru/osveshhenie-9375?reff=menu_main"
     },
     {
-        "name": "Батарейки и аккумуляторы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/batareiki-i-akkumulyatory-296?reff=menu_main"
-    },
-    {
         "name": "Сетевые фильтры и удлинители",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/setevye-filtry-i-udliniteli-297?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/setevye-filtry-i-udliniteli-297?reff=menu_main_acc"
     },
     {
         "name": "Метеостанции и термометры",
@@ -1045,7 +1029,7 @@
     },
     {
         "name": "Аксессуары для пылесосов",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/aksessuary-dlya-pylesosov-381?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/aksessuary-dlya-pylesosov-381?reff=menu_main_acc"
     },
     {
         "name": "Аксессуары для климатической техники",
@@ -1121,7 +1105,7 @@
     },
     {
         "name": "Ингаляторы",
-        "url": "https://www.mvideo.ru/tovary-dlya-zdorovya-35/ingalyatory-5567"
+        "url": "https://www.mvideo.ru/tovary-dlya-zdorovya-35/ingalyatory-5567?reff=menu_main"
     },
     {
         "name": "Тонометры ",
@@ -1137,7 +1121,7 @@
     },
     {
         "name": "Эпиляторы",
-        "url": "https://www.mvideo.ru/tovary-dlya-krasoty-14/epilyatory-i-aksessuary-113?reff=menu_main"
+        "url": "https://www.mvideo.ru/promo/premium-tehnika-epilyatory-mark203283806?reff=menu_main"
     },
     {
         "name": "Для ухода за лицом",
@@ -1160,18 +1144,6 @@
         "url": "https://www.mvideo.ru/tovary-dlya-krasoty-14/mini-holodilniki-dlya-kosmetiki-26714"
     },
     {
-        "name": "Смарт-часы",
-        "url": "https://www.mvideo.ru/gadzhety-64/smart-chasy-400?reff=menu_main"
-    },
-    {
-        "name": "Фитнес-браслеты",
-        "url": "https://www.mvideo.ru/gadzhety-64/tovary-dlya-sporta-i-zdorovya-403?reff=menu_main"
-    },
-    {
-        "name": "Спортивные часы",
-        "url": "https://www.mvideo.ru/gadzhety-64/sportivnye-chasy-333?reff=menu_main"
-    },
-    {
         "name": "MP3-плееры",
         "url": "https://www.mvideo.ru/portativnoe-audio-25/mp3-pleery-72?reff=menu_main"
     },
@@ -1185,7 +1157,7 @@
     },
     {
         "name": "Спортивные наушники",
-        "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967/f/category=sportivnye-naushniki-2789?reff=menu_main"
+        "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967?f_category=sportivnye-naushniki-2789,naushniki-s-kostnoi-provodimostu-zvuka-4167?reff=menu_main_acc"
     },
     {
         "name": "Электрические велосипеды ",
@@ -1198,14 +1170,6 @@
     {
         "name": "Зубные щетки",
         "url": "https://www.mvideo.ru/tovary-dlya-zdorovya-35/zubnye-shhetki-114/f/collection_top=detskie?reff=menu_main"
-    },
-    {
-        "name": "Увлажнители воздуха",
-        "url": "https://www.mvideo.ru/klimaticheskaya-tehnika-11/uvlazhniteli-i-ochistiteli-vozduha-124/f/brand=crane?reff=menu_main"
-    },
-    {
-        "name": "Ингаляторы",
-        "url": "https://www.mvideo.ru/tovary-dlya-zdorovya-35/ingalyatory-5567?reff=menu_main"
     },
     {
         "name": "Детские светильники",
@@ -1242,10 +1206,6 @@
     {
         "name": "Прочие",
         "url": "https://www.mvideo.ru/portativnoe-audio-25/portativnaya-akustika-202/f/category=umnye-kolonki-7487/tolko-v-nalichii=da?reff=menu_main"
-    },
-    {
-        "name": "Умный свет",
-        "url": "https://www.mvideo.ru/ustroistva-dlya-umnogo-doma-7672/umnyi-svet-30562?reff=menu_main"
     },
     {
         "name": "Умные розетки",
@@ -1312,30 +1272,6 @@
         "url": "https://www.mvideo.ru/pylesosy-i-aksessuary-2428/pylesosy-2438/f/rabotaet-v-sisteme-umnyi-dom=da?reff=menu_main"
     },
     {
-        "name": "Кондиционеры",
-        "url": "https://www.mvideo.ru/klimaticheskaya-tehnika-11/kondicionery-106/f/rabotaet-v-sisteme-umnyi-dom=da?reff=menu_main"
-    },
-    {
-        "name": "Смарт-часы",
-        "url": "https://www.mvideo.ru/gadzhety-64/smart-chasy-400?reff=menu_main"
-    },
-    {
-        "name": "Фитнес-браслеты",
-        "url": "https://www.mvideo.ru/gadzhety-64/fitnes-braslety-403?reff=menu_main"
-    },
-    {
-        "name": "Спортивные часы",
-        "url": "https://www.mvideo.ru/gadzhety-64/sportivnye-chasy-333?reff=menu_main"
-    },
-    {
-        "name": "Детские часы",
-        "url": "https://www.mvideo.ru/gadzhety-64/chasy-s-gps-trekerom-5547?reff=menu_main"
-    },
-    {
-        "name": "Очки виртуальной реальности",
-        "url": "https://www.mvideo.ru/gadzhety-64/ochki-virtualnoi-realnosti-2207?reff=menu_main"
-    },
-    {
         "name": "Предзаказы",
         "url": "https://www.mvideo.ru/promo/predzakazy-v-m-video-tolko-hity-mark129324083?reff=menu_main"
     },
@@ -1365,7 +1301,7 @@
     },
     {
         "name": "Мягкие игрушки",
-        "url": "https://www.mvideo.ru/hobbi-28/suvenirnaya-produkciya-6427/f/category=myagkie-igrushki-7488"
+        "url": "https://www.mvideo.ru/igrushki-igry-i-tvorchestvo-31034/myagkie-igrushki-31035?reff=menu_main"
     },
     {
         "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Resident Evil 4",
@@ -1440,16 +1376,8 @@
         "url": "https://www.mvideo.ru/promo/steam-deck?reff=menu_main"
     },
     {
-        "name": "Игровые ноутбуки",
-        "url": "https://www.mvideo.ru/noutbuki-planshety-komputery-8/noutbuki-118/f/category=igrovye-noutbuki-3607?reff=menu_main"
-    },
-    {
         "name": "Игровые системные блоки ",
         "url": "https://www.mvideo.ru/komputernaya-tehnika-4107/sistemnye-bloki-80/f/category=sistemnye-bloki-igrovye-3188?reff=menu_main"
-    },
-    {
-        "name": "Игровые мониторы",
-        "url": "https://www.mvideo.ru/komputernaya-tehnika-4107/monitory-101/f/category=igrovye-monitory-3587?reff=menu_main"
     },
     {
         "name": "Игры, валюта, подписки",
@@ -1457,10 +1385,6 @@
     },
     {
         "name": "Клавиатуры, мыши и гарнитуры",
-        "url": "https://www.mvideo.ru/promo/aksessuary-dlja-igr?reff=menu_main"
-    },
-    {
-        "name": "Игровые аксессуары",
         "url": "https://www.mvideo.ru/promo/aksessuary-dlja-igr?reff=menu_main"
     },
     {
@@ -1505,7 +1429,7 @@
     },
     {
         "name": "Встраиваемая техника",
-        "url": "https://www.mvideo.ru/promo/premium-tehnika-vstraivaemaya-tehnika-mark203283860?reff=menu_main"
+        "url": "https://www.mvideo.ru/service/built-in?reff=menu_main"
     },
     {
         "name": "Мелкая бытовая техника",
@@ -1529,7 +1453,7 @@
     },
     {
         "name": "Климатическая техника",
-        "url": "https://www.mvideo.ru/promo/premium-tehnika-klimaticheskaya-tehnika-mark203280016?reff=menu_main"
+        "url": "https://www.mvideo.ru/service/klimaticheskaya-tehnika?reff=menu_main"
     },
     {
         "name": "Лазерные телевизоры",
@@ -1552,16 +1476,8 @@
         "url": "https://www.mvideo.ru/promo/premium-tehnika-feny-i-fen-shhetki-mark203283805?reff=menu_main"
     },
     {
-        "name": "Эпиляторы",
-        "url": "https://www.mvideo.ru/promo/premium-tehnika-epilyatory-mark203283806?reff=menu_main"
-    },
-    {
         "name": "Компьютеры и ноутбуки",
         "url": "https://www.mvideo.ru/promo/premium-tehnika-komputery-i-noutbuki-mark203286676?reff=menu_main"
-    },
-    {
-        "name": "Смартфоны",
-        "url": "https://www.mvideo.ru/promo/premium-tehnika-smartfony-mark203286677?reff=menu_main"
     },
     {
         "name": "Гаджеты",
@@ -1593,19 +1509,15 @@
     },
     {
         "name": "Конструкторы",
-        "url": "https://www.mvideo.ru/radioupravlyaemye-ustroistva-56/radioupravlyaemye-konstruktory-5247?reff=menu_main"
+        "url": "https://www.mvideo.ru/igrushki-igry-i-tvorchestvo-31034/konstruktory-31036?reff=menu_main"
     },
     {
         "name": "Животные",
-        "url": "https://www.mvideo.ru/radioupravlyaemye-ustroistva-56/radioupravlyaemye-zhivotnye-23545?reff=menu_main"
+        "url": "https://www.mvideo.ru/servisy-1461/strahovanie-1462/f/category=zhivotnye-30956?reff=menu_main"
     },
     {
         "name": "Электросамокаты",
         "url": "https://www.mvideo.ru/elektrotransport-4507/elektrosamokaty-6527?reff=menu_main"
-    },
-    {
-        "name": "Гироскутеры",
-        "url": "https://www.mvideo.ru/elektrotransport-4507/giroskutery-3627?reff=menu_main"
     },
     {
         "name": "Аксессуары для гироскутеров",
@@ -1628,24 +1540,8 @@
         "url": "https://www.mvideo.ru/elektrotransport-4507/giroskutery-3627/f/category=elektroroliki-23970?reff=menu_main"
     },
     {
-        "name": "Синтезаторы",
-        "url": "https://www.mvideo.ru/muzykalnye-instrumenty-55/sintezatory-315?reff=menu_main"
-    },
-    {
         "name": "Ударные установки",
         "url": "https://www.mvideo.ru/muzykalnye-instrumenty-55/udarnye-ustanovki-4342?reff=menu_main"
-    },
-    {
-        "name": "Гитары",
-        "url": "https://www.mvideo.ru/muzykalnye-instrumenty-55/gitary-6907?reff=menu_main"
-    },
-    {
-        "name": "Укулеле",
-        "url": "https://www.mvideo.ru/muzykalnye-instrumenty-55/ukulele-25498?reff=menu_main"
-    },
-    {
-        "name": "Аксессуары для музыкальных инструментов",
-        "url": "https://www.mvideo.ru/muzykalnye-instrumenty-55/aksessuary-dlya-muzykalnyh-instrumentov-9288?reff=menu_main"
     },
     {
         "name": "Книги",
@@ -1668,10 +1564,6 @@
         "url": "https://www.mvideo.ru/komputernye-aksessuary-24/graficheskie-planshety-287?reff=menu_main"
     },
     {
-        "name": "Товары для блогеров",
-        "url": "https://www.mvideo.ru/hobbi-28/tovary-dlya-blogerov-7710?reff=menu_main"
-    },
-    {
         "name": "Бинокли и телескопы",
         "url": "https://www.mvideo.ru/hobbi-28/binokli-i-teleskopy-2268?reff=menu_main"
     },
@@ -1689,15 +1581,15 @@
     },
     {
         "name": "Игровые столы",
-        "url": "https://www.mvideo.ru/hobbi-28/igrovye-stoly-25312?reff=menu_main"
+        "url": "https://www.mvideo.ru/tovary-dlya-aktivnogo-otdyha-31018/igrovye-stoly-25312?reff=menu_main"
     },
     {
         "name": "Бассейны",
-        "url": "https://www.mvideo.ru/hobbi-28/basseiny-23962?reff=menu_main"
+        "url": "https://www.mvideo.ru/tovary-dlya-aktivnogo-otdyha-31018/basseiny-23962?reff=menu_main"
     },
     {
         "name": "Батуты",
-        "url": "https://www.mvideo.ru/tovary-dlya-sporta-8410/batuty-23715?reff=menu_main"
+        "url": "https://www.mvideo.ru/tovary-dlya-aktivnogo-otdyha-31018/batuty-23715?reff=menu_main"
     },
     {
         "name": "Рисование и творчество",
@@ -1712,16 +1604,8 @@
         "url": "https://www.mvideo.ru/hobbi-28/zimnie-tovary-26023?reff=menu_main"
     },
     {
-        "name": "Конструкторы",
-        "url": "https://www.mvideo.ru/igrushki-igry-i-tvorchestvo-31034/konstruktory-31036?reff=menu_main"
-    },
-    {
         "name": "Интерактивные игрушки",
         "url": "https://www.mvideo.ru/igrushki-igry-i-tvorchestvo-31034/interaktivnye-igrushki-31038?reff=menu_main"
-    },
-    {
-        "name": "Мягкие игрушки",
-        "url": "https://www.mvideo.ru/igrushki-igry-i-tvorchestvo-31034/myagkie-igrushki-31035?reff=menu_main"
     },
     {
         "name": "Куклы",
@@ -1792,18 +1676,6 @@
         "url": "https://www.mvideo.ru/elektrotransport-4507/elektrovelosipedy-6508?reff=menu_main"
     },
     {
-        "name": "Электросамокаты",
-        "url": "https://www.mvideo.ru/elektrotransport-4507/elektrosamokaty-6527?reff=menu_main"
-    },
-    {
-        "name": "Гироскутеры",
-        "url": "https://www.mvideo.ru/elektrotransport-4507/giroskutery-3627?reff=menu_main"
-    },
-    {
-        "name": "Детский электротранспорт",
-        "url": "https://www.mvideo.ru/elektrotransport-4507/detskii-elektrotransport-22935?reff=menu_main"
-    },
-    {
         "name": "Коврики и маты",
         "url": "https://www.mvideo.ru/tovary-dlya-sporta-8410/tovary-dlya-fitnesa-30416/f/tip-tovara=kovrik-dlya-fitnesa?reff=menu_main"
     },
@@ -1840,18 +1712,6 @@
         "url": "https://www.mvideo.ru/tovary-dlya-aktivnogo-otdyha-31018/tovary-dlya-letnego-otdyha-31167/f/category=krugi-i-igrushki-dlya-plavaniya-31169?reff=menu_main"
     },
     {
-        "name": "Бассейны",
-        "url": "https://www.mvideo.ru/tovary-dlya-aktivnogo-otdyha-31018/basseiny-23962?reff=menu_main"
-    },
-    {
-        "name": "Батуты",
-        "url": "https://www.mvideo.ru/tovary-dlya-aktivnogo-otdyha-31018/batuty-23715?reff=menu_main"
-    },
-    {
-        "name": "Игровые столы",
-        "url": "https://www.mvideo.ru/tovary-dlya-aktivnogo-otdyha-31018/igrovye-stoly-25312?reff=menu_main"
-    },
-    {
         "name": "Футбольные ворота",
         "url": "https://www.mvideo.ru/tovary-dlya-sporta-8410/futbol-31287/f/category=vorota-futbolnye-31288?reff=menu_main"
     },
@@ -1860,32 +1720,8 @@
         "url": "https://www.mvideo.ru/tovary-dlya-sporta-8410/basketbol-31289?reff=menu_main"
     },
     {
-        "name": "Товары для летнего отдыха",
-        "url": "https://www.mvideo.ru/tovary-dlya-aktivnogo-otdyha-31018/tovary-dlya-letnego-otdyha-31167?reff=menu_main"
-    },
-    {
         "name": "Мячи",
         "url": "https://www.mvideo.ru/tovary-dlya-sporta-8410/myachi-31265?reff=menu_main"
-    },
-    {
-        "name": "Спортивные часы",
-        "url": "https://www.mvideo.ru/gadzhety-64/sportivnye-chasy-333?reff=menu_main"
-    },
-    {
-        "name": "Фитнес-браслеты",
-        "url": "https://www.mvideo.ru/gadzhety-64/fitnes-braslety-403?reff=menu_main"
-    },
-    {
-        "name": "Смарт-часы",
-        "url": "https://www.mvideo.ru/gadzhety-64/smart-chasy-400?reff=menu_main"
-    },
-    {
-        "name": "Спортивные наушники",
-        "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967/f/category=sportivnye-naushniki-2789?reff=menu_main"
-    },
-    {
-        "name": "Умные весы",
-        "url": "https://www.mvideo.ru/tovary-dlya-zdorovya-35/vesy-140/f/category=umnye-vesy-4911?reff=menu_main"
     },
     {
         "name": "Умные гаджеты для активного отдыха",
@@ -1961,7 +1797,7 @@
     },
     {
         "name": "Компрессоры",
-        "url": "https://www.mvideo.ru/silovaya-tehnika-i-stroitelnoe-oborudovanie-28153/kompressory-7951?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=avtomobilnyi-kompressor,avtomobilnyi-kompressor,kompressor?reff=menu_main"
     },
     {
         "name": "Бетономешалки",
@@ -2026,10 +1862,6 @@
     {
         "name": "Свёрла, биты, насадки",
         "url": "https://www.mvideo.ru/rashodnye-materialy-i-osnastka-9491/sverla-bity-nasadki-9492?reff=menu_main"
-    },
-    {
-        "name": "Умный свет",
-        "url": "https://www.mvideo.ru/ustroistva-dlya-umnogo-doma-7672/umnyi-svet-30562?reff=menu_main"
     },
     {
         "name": "Люстры и потолочные светильники",
@@ -2120,16 +1952,8 @@
         "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/prochie-hozyaistvennye-tovary-298/f/category=tazy-bytovye-30424,salfetki-608,antiseptiki-maski-i-hozyaistvennye-tovary-7808,vedra-908?reff=menu_main"
     },
     {
-        "name": "IP-камеры",
-        "url": "https://www.mvideo.ru/ustroistva-dlya-umnogo-doma-7672/ip-kamery-30567?reff=menu_main"
-    },
-    {
         "name": "Системы видеонаблюдения",
         "url": "https://www.mvideo.ru/ustroistva-videonabludeniya-59/sistemy-videonabludeniya-353?reff=menu_main"
-    },
-    {
-        "name": "Датчики безопасности",
-        "url": "https://www.mvideo.ru/ustroistva-dlya-umnogo-doma-7672/datchiki-bezopasnosti-i-ohrannye-sistemy-30569?reff=menu_main"
     },
     {
         "name": "Электронные звонки",
@@ -2138,14 +1962,6 @@
     {
         "name": "Видеодомофоны",
         "url": "https://www.mvideo.ru/ustroistva-dlya-umnogo-doma-7672/videodomofony-30568?reff=menu_main"
-    },
-    {
-        "name": "Умные розетки",
-        "url": "https://www.mvideo.ru/ustroistva-dlya-umnogo-doma-7672/umnye-rozetki-30573?reff=menu_main"
-    },
-    {
-        "name": "Умные замки",
-        "url": "https://www.mvideo.ru/ustroistva-dlya-umnogo-doma-7672/umnye-zamki-30572?reff=menu_main"
     },
     {
         "name": "Аромадиффузоры",
@@ -2261,15 +2077,15 @@
     },
     {
         "name": "Объективы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-foto-i-videotehniki-42/obektivy-199?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/obektivy-199?reff=menu_main_acc"
     },
     {
         "name": "Фотовспышки",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-foto-i-videotehniki-42/fotovspyshki-200?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/fotovspyshki-200?reff=menu_main_acc"
     },
     {
         "name": "Светофильтры",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-foto-i-videotehniki-42/svetofiltry-262?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/svetofiltry-262?reff=menu_main_acc"
     },
     {
         "name": "Бинокли",
@@ -2282,14 +2098,6 @@
     {
         "name": "Лазерные дальномеры",
         "url": "https://www.mvideo.ru/instrumenty-7950/lazernye-pribory-8127?reff=menu_main"
-    },
-    {
-        "name": "Микроскопы",
-        "url": "https://www.mvideo.ru/hobbi-28/mikroskopy-6367?reff=menu_main"
-    },
-    {
-        "name": "Компактные фотопринтеры",
-        "url": "https://www.mvideo.ru/cifrovye-fotoramki-i-fotoprintery-2468/fotoprintery-kompaktnye-2478?reff=menu_main"
     },
     {
         "name": "Бумага и картриджи для компактного  фотопринтера",
@@ -2305,7 +2113,7 @@
     },
     {
         "name": "Штативы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-foto-i-videotehniki-42/shtativy-261?reff=menu_main"
+        "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/shtativy-261?reff=menu_main_acc"
     },
     {
         "name": "Карты памяти и картридеры",
@@ -2317,7 +2125,7 @@
     },
     {
         "name": "Программы для фото- и видеообработки",
-        "url": "https://www.mvideo.ru/programmy-dlja-foto-i-videoobrabotki?reff=menu_main_category"
+        "url": "https://www.mvideo.ru/programmy-dlja-foto-i-videoobrabotki?reff=menu_main_acc"
     },
     {
         "name": "Чистящие средства для оптики",
@@ -2349,15 +2157,7 @@
     },
     {
         "name": "Радиостанции",
-        "url": "https://www.mvideo.ru/domashnie-i-ofisnye-telefony-radiostancii-4367/radiostancii-163?reff=menu_main"
-    },
-    {
-        "name": "Карты памяти",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/karty-pamyati-2590?reff=menu_main"
-    },
-    {
-        "name": "Автомагнитолы",
-        "url": "https://www.mvideo.ru/avtoakustika-7/avtomagnitoly-224?reff=menu_main"
+        "url": "https://www.mvideo.ru/domashnie-i-ofisnye-telefony-radiostancii-32/radiostancii-163?reff=menu_main"
     },
     {
         "name": "Автомагнитолы с навигацией",
@@ -2372,18 +2172,6 @@
         "url": "https://www.mvideo.ru/avtoakustika-7/avtomagnitoly-224/f/razmer-magnitoly=180x100-mm-2-din?reff=menu_main"
     },
     {
-        "name": "Колонки автомобильные",
-        "url": "https://www.mvideo.ru/avtoakustika-7/avtomobilnye-kolonki-79?reff=menu_main"
-    },
-    {
-        "name": "Сабвуферы",
-        "url": "https://www.mvideo.ru/avtoakustika-7/sabvufery-148?reff=menu_main"
-    },
-    {
-        "name": "Усилители",
-        "url": "https://www.mvideo.ru/avtoakustika-7/usiliteli-78?reff=menu_main"
-    },
-    {
         "name": "Автохолодильники",
         "url": "https://www.mvideo.ru/tovary-dlya-avto-31/avtomobilnye-holodilniki-4987?reff=menu_main"
     },
@@ -2394,10 +2182,6 @@
     {
         "name": "Автомобильные мойки",
         "url": "https://www.mvideo.ru/tovary-dlya-avto-31/moiki-vysokogo-davleniya-214?reff=menu_main"
-    },
-    {
-        "name": "Радиостанции",
-        "url": "https://www.mvideo.ru/domashnie-i-ofisnye-telefony-radiostancii-32/radiostancii-163?reff=menu_main"
     },
     {
         "name": "Наружные и внутрисалонные аксессуары",
@@ -2444,10 +2228,6 @@
         "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=sistema-parkovki?reff=menu_main"
     },
     {
-        "name": "Компрессоры",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=avtomobilnyi-kompressor,avtomobilnyi-kompressor,kompressor?reff=menu_main"
-    },
-    {
         "name": "Алкотестеры",
         "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=alkotester?reff=menu_main"
     },
@@ -2476,10 +2256,6 @@
         "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=organaizer-dlya-avtomobilya?reff=menu_main_category"
     },
     {
-        "name": "Зарядные устройства",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/zaryadnye-ustroistva-2587/f/category=avtomobilnye-zaryadnye-ustroistva-5527,avtomobilnye-zaryadnye-ustroistva-dlya-iphone-1257?reff=menu_main"
-    },
-    {
         "name": "FM-трансмиттеры",
         "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=avtomobilnyi-fm-modulyator?reff=menu_main_category"
     },
@@ -2492,16 +2268,8 @@
         "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=sredstva-dlya-uhoda-za-avtomobilem?reff=menu_main_category"
     },
     {
-        "name": "Антенны",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-avtomobilei-37/avtomobilnye-aksessuary-259/f/tip-tovara=avtomobilnaya-antenna?reff=menu_main_category"
-    },
-    {
         "name": "Беспроводные наушники",
         "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967?f_tip-podklucheniya=bluetooth,true-wireless?reff=menu_main_acc"
-    },
-    {
-        "name": "Спортивные наушники",
-        "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967?f_category=sportivnye-naushniki-2789,naushniki-s-kostnoi-provodimostu-zvuka-4167?reff=menu_main_acc"
     },
     {
         "name": "Наушники накладные и полноразмерные",
@@ -2520,52 +2288,12 @@
         "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967/f/category=naushniki-s-kostnoi-provodimostu-zvuka-4167?reff=menu_main_acc"
     },
     {
-        "name": "Гарнитуры для телефонов",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/garnitury-dlya-telefonov-343?reff=menu_main_acc"
-    },
-    {
         "name": "Аксессуары для наушников",
         "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967?f_category=aksessuary-dlya-naushnikov-22745,usiliteli-dlya-naushnikov-3488?reff=menu_main_acc"
     },
     {
-        "name": "Клавиатуры и мыши",
-        "url": "https://www.mvideo.ru/klaviatury-i-myshi?reff=menu_main_acc"
-    },
-    {
-        "name": "Роутеры и сетевое оборудование",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/routery-i-setevoe-oborudovanie-186?reff=menu_main_acc"
-    },
-    {
-        "name": "Флеш-накопители",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/flesh-nakopiteli-185?reff=menu_main_acc"
-    },
-    {
-        "name": "Игровые аксессуары",
-        "url": "https://www.mvideo.ru/promo/aksessuary-dlja-igr?reff=menu_main_acc"
-    },
-    {
         "name": "Компьютерные колонки",
         "url": "https://www.mvideo.ru/komputernye-aksessuary-24/komputernye-kolonki-182?reff=menu_main_acc"
-    },
-    {
-        "name": "Компьютерная мебель",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/komputernaya-mebel-1781?reff=menu_main_acc"
-    },
-    {
-        "name": "Внешние жёсткие диски",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/vneshnie-zhestkie-diski-i-ssd-184?reff=menu_main_acc"
-    },
-    {
-        "name": "Сумки для ноутбуков",
-        "url": "https://www.mvideo.ru/komputernye-aksessuary-24/sumki-dlya-noutbukov-216?reff=menu_main_acc"
-    },
-    {
-        "name": "Кронштейны для TV",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/kronshteiny-i-podvesy-dlya-televizorov-4247?reff=menu_main_acc"
-    },
-    {
-        "name": "Тумбы и подставки для телевизоров",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/tumby-i-podstavki-dlya-televizorov-237?reff=menu_main_acc"
     },
     {
         "name": "Комплекты модулей",
@@ -2576,44 +2304,12 @@
         "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/televizionnye-antenny-252?reff=menu_main_acc"
     },
     {
-        "name": "Пульты для телевизоров",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-televizorov-41/pulty-dlya-televizora-253?reff=menu_main_acc"
-    },
-    {
         "name": "Аксессуары для Hi-Fi",
         "url": "https://www.mvideo.ru/hi-fi-tehnika-5/aksessuary-hi-fi-190?reff=menu_main_acc"
     },
     {
-        "name": "Подставки и подвесы для колонок",
-        "url": "https://www.mvideo.ru/audiotehnika-i-dj-oborudovanie-9/aksessuary-dlya-audio-2475?reff=menu_main_acc"
-    },
-    {
-        "name": "Экраны для видеопроекторов",
-        "url": "https://www.mvideo.ru/videotehnika-20/proektory-i-ekrany-74/f/category=ekrany-dlya-videoproektorov-879?reff=menu_main_acc"
-    },
-    {
-        "name": "Наушники",
-        "url": "https://www.mvideo.ru/naushniki-54/naushniki-3967?reff=menu_main_acc"
-    },
-    {
-        "name": "Чехлы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/chehly-dlya-telefonov-342?reff=menu_main_acc"
-    },
-    {
-        "name": "Внешние аккумуляторы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/vneshnie-akkumulyatory-dlya-telefonov-1944?reff=menu_main_acc"
-    },
-    {
-        "name": "Зарядные устройства",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/zaryadnye-ustroistva-2587?reff=menu_main_acc"
-    },
-    {
         "name": "Плёнки и стёкла",
         "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/plenki-i-stekla-dlya-telefonov-2589?reff=menu_main_acc"
-    },
-    {
-        "name": "Карты памяти",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/karty-pamyati-2590?reff=menu_main_acc"
     },
     {
         "name": "Медиа стримеры",
@@ -2632,48 +2328,12 @@
         "url": "https://www.mvideo.ru/osveshhenie-9375?reff=menu_main"
     },
     {
-        "name": "Гладильные доски",
-        "url": "https://www.mvideo.ru/tovary-dlya-uhoda-za-odezhdoi-2/gladilnye-doski-292?reff=menu_main_acc"
-    },
-    {
-        "name": "Батарейки и аккумуляторы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/batareiki-i-akkumulyatory-296?reff=menu_main_acc"
-    },
-    {
-        "name": "Сетевые фильтры и удлинители",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/setevye-filtry-i-udliniteli-297?reff=menu_main_acc"
-    },
-    {
         "name": "Уход за вещами",
         "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/uhod-za-veshhami-141?reff=menu_main_acc"
     },
     {
-        "name": "Аксессуары для пылесосов",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/aksessuary-dlya-pylesosov-381?reff=menu_main_acc"
-    },
-    {
-        "name": "Аксессуары для стиральных машин",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-doma-50/aksessuary-dlya-stiralnyh-mashin-382?reff=menu_main_acc"
-    },
-    {
-        "name": "Объективы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/obektivy-199?reff=menu_main_acc"
-    },
-    {
-        "name": "Фотовспышки",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/fotovspyshki-200?reff=menu_main_acc"
-    },
-    {
         "name": "Карты памяти и кардридеры",
         "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/karty-pamyati-i-kartridery-260?reff=menu_main_acc"
-    },
-    {
-        "name": "Штативы",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/shtativy-261?reff=menu_main_acc"
-    },
-    {
-        "name": "Светофильтры",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/svetofiltry-262?reff=menu_main_acc"
     },
     {
         "name": "Сумки для фотоаппаратов и видеокамер",
@@ -2682,10 +2342,6 @@
     {
         "name": "Все аксессуары для фотоаппаратов и видеокамер",
         "url": "https://www.mvideo.ru/aksessuary-dlya-foto--i-videotehniki-42/akkumulyatory-i-prochie-foto-i-video-aksessuary-266?reff=menu_main_acc"
-    },
-    {
-        "name": "Программы для фото- и видеообработки",
-        "url": "https://www.mvideo.ru/programmy-dlja-foto-i-videoobrabotki?reff=menu_main_acc"
     },
     {
         "name": "Программы Office и Windows",
@@ -2702,10 +2358,6 @@
     {
         "name": "Электронная библиотека",
         "url": "https://www.mvideo.ru/kody-dlya-filmov-muzyki-i-knig-3787/cifrovye-kody-dlya-filmov-muzyki-i-knig-3792/f/category=knigi-7588?reff=menu_main"
-    },
-    {
-        "name": "Видеокурсы",
-        "url": "https://www.mvideo.ru/pc-igry-i-soft-19/videokursy-24281?reff=menu_main"
     },
     {
         "name": "Игры и дополнения",
@@ -2752,10 +2404,6 @@
         "url": "https://www.mvideo.ru/servisy-1461/strahovanie-1462/f/category=avto-30954?reff=menu_main"
     },
     {
-        "name": "Животные",
-        "url": "https://www.mvideo.ru/servisy-1461/strahovanie-1462/f/category=zhivotnye-30956?reff=menu_main"
-    },
-    {
         "name": "Финансы",
         "url": "https://www.mvideo.ru/servisy-1461/strahovanie-1462/f/category=finansy-30955?reff=menu_main"
     },
@@ -2788,16 +2436,8 @@
         "url": "https://www.mvideo.ru/service/home?reff=menu_main"
     },
     {
-        "name": "Климатическая техника",
-        "url": "https://www.mvideo.ru/service/klimaticheskaya-tehnika?reff=menu_main"
-    },
-    {
         "name": "Техника для кухни",
         "url": "https://www.mvideo.ru/service/kitchen?reff=menu_main"
-    },
-    {
-        "name": "Встраиваемая техника",
-        "url": "https://www.mvideo.ru/service/built-in?reff=menu_main"
     },
     {
         "name": "Телевизоры",
@@ -2814,10 +2454,6 @@
     {
         "name": "Сопутствующие услуги",
         "url": "https://www.mvideo.ru/service/other?reff=menu_main"
-    },
-    {
-        "name": "SIM-карты",
-        "url": "https://www.mvideo.ru/aksessuary-dlya-telefonov-58/sim-karty-9068?reff=menu_main"
     },
     {
         "name": "Подарочные карты",
