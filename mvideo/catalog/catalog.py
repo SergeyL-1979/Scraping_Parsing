@@ -89,21 +89,22 @@ def get_following_link():
 
     for i in card_product:
         url = i['url']
-        r = s.get(url=url, headers=headers, cookies=cookies)
+        # r = s.get(url=url, headers=headers, cookies=cookies)
         # print(r.text)
-        for count in range(1, 7):
-            with open(f'data/test{count}.html', 'w', encoding='utf-8') as file:
-                file.write(r.text)
+        # for count in range(1, 7):
+        # with open(f'data/test.txt', 'w', encoding='utf-8', newline='') as file:
+        #     file.write(f'{i}\n')
+    for lin_url in card_product:
+        print('[INFO]' f'{lin_url["url"]}')
 
-        print('[INFO]' f'{r.url}')
 
 def main():
     # get_catalog()
     # read_catalog_save_url_and_name()
     # read_catalog_product()
     # collection_of_links_to_sections()
-    links_subcategory()
-    # get_following_link()
+    # links_subcategory()
+    get_following_link()
 
 
 if __name__ == '__main__':
