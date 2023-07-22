@@ -3,14 +3,14 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 
 
-def filters_data():
+def filters_data(path):
     t_date = datetime.now().strftime('%d_%m_%Y')
 
     # with open("info_27_09_2022_1.json", 'r', encoding='utf-8') as file:
     #     data = json.load(file)
     # fragments = data['fragments']['containerBreadcrumb']
 
-    with open("info_27_09_2022.html", 'r', encoding='utf-8') as file:
+    with open(path, 'r', encoding='utf-8') as file:
         data = file.read()
 
     # soul = BeautifulSoup(fragments, "lxml")

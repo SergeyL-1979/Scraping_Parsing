@@ -71,7 +71,7 @@ def collect_data():
                 [l_contact, l_phone, l_price, l_room, f'{l_size}m2', l_location, l_county, l_city, l_description, l_create.replace("T", " "), l_status, f'https://www.zingat.com/en/{l_link}-{l_id}i']
             )
 
-        with open(f'result_{t_date}_{i}.csv', 'a', newline='') as file:
+        with open(f'result_{t_date}_{i}.csv', 'a', encoding='utf-8', newline='') as file:
             writer = csv.writer(file, delimiter=";")
 
             writer.writerow(
@@ -98,7 +98,7 @@ def collect_data():
 
 def main():
     collect_data()
-    filters_data()
+    filters_data('info_23_07_2023.html')
 
 
 if __name__ == '__main__':
