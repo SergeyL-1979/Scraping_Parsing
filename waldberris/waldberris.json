@@ -1392,7 +1392,7 @@
                 "parent": 629,
                 "name": "Ортопедическая обувь",
                 "url": "/catalog/obuv/ortopedicheskaya-obuv",
-                "shard": "shealth1",
+                "shard": "shealth8",
                 "query": "cat=128335"
             },
             {
@@ -3451,6 +3451,14 @@
                         "query": "cat=8462"
                     },
                     {
+                        "id": 130831,
+                        "parent": 294,
+                        "name": "Аксессуары",
+                        "url": "/catalog/dom/shtory/aksessuary",
+                        "shard": "housecraft10",
+                        "query": "cat=130831"
+                    },
+                    {
                         "id": 8467,
                         "parent": 294,
                         "name": "Картины и постеры",
@@ -3476,87 +3484,263 @@
                                 "query": "subject=374",
                                 "childs": [
                                     {
-                                        "id": 130478,
+                                        "id": 130773,
                                         "parent": 130143,
-                                        "name": "3D",
-                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/3d",
-                                        "shard": "interior10",
-                                        "query": "cat=130478"
+                                        "name": "Арт и абстракция",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/art-i-abstraktsiya",
+                                        "shard": "interior14",
+                                        "query": "cat=130773"
                                     },
                                     {
-                                        "id": 130568,
+                                        "id": 130819,
                                         "parent": 130143,
-                                        "name": "В раме",
-                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/v-rame",
-                                        "shard": "interior10",
-                                        "query": "cat=130568"
+                                        "name": "Архитектура",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/arkxitektura",
+                                        "shard": "interior17",
+                                        "query": "cat=130819"
                                     },
                                     {
-                                        "id": 130471,
+                                        "id": 130774,
                                         "parent": 130143,
-                                        "name": "Гобелены",
-                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/gobeleny",
-                                        "shard": "interior10",
-                                        "query": "cat=130471"
+                                        "name": "Аниме",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/anime",
+                                        "shard": "interior15",
+                                        "query": "cat=130774"
+                                    },
+                                    {
+                                        "id": 130775,
+                                        "parent": 130143,
+                                        "name": "Города и страны",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/goroda-i-strany",
+                                        "shard": "interior15",
+                                        "query": "cat=130775"
                                     },
                                     {
                                         "id": 130470,
                                         "parent": 130143,
                                         "name": "Детские",
                                         "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/detskie",
-                                        "shard": "interior10",
+                                        "shard": "interior16",
                                         "query": "cat=130470"
                                     },
                                     {
-                                        "id": 130472,
+                                        "id": 130776,
                                         "parent": 130143,
-                                        "name": "Интерьерные",
-                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/interernye",
-                                        "shard": "interior9",
-                                        "query": "cat=130472"
+                                        "name": "Еда и напитки",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/eda-i-napitki",
+                                        "shard": "interior16",
+                                        "query": "cat=130776"
                                     },
                                     {
-                                        "id": 130473,
+                                        "id": 130777,
                                         "parent": 130143,
-                                        "name": "Модульные",
-                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/modulnye",
-                                        "shard": "interior8",
-                                        "query": "cat=130473"
+                                        "name": "Животные и птицы",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/zhivotnye-i-ptitsy",
+                                        "shard": "interior16",
+                                        "query": "cat=130777"
                                     },
                                     {
-                                        "id": 130474,
+                                        "id": 130796,
                                         "parent": 130143,
-                                        "name": "Панно",
-                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/panno",
-                                        "shard": "interior10",
-                                        "query": "cat=130474"
+                                        "name": "Интерьеры",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/interery",
+                                        "shard": "interior16",
+                                        "query": "cat=130796"
+                                    },
+                                    {
+                                        "id": 130778,
+                                        "parent": 130143,
+                                        "name": "Карты",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/karty",
+                                        "shard": "interior16",
+                                        "query": "cat=130778"
+                                    },
+                                    {
+                                        "id": 130779,
+                                        "parent": 130143,
+                                        "name": "Кино и музыка",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/kino-i-muzyka",
+                                        "shard": "interior17",
+                                        "query": "cat=130779"
+                                    },
+                                    {
+                                        "id": 130780,
+                                        "parent": 130143,
+                                        "name": "Коллажи",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/kollazhi",
+                                        "shard": "interior18",
+                                        "query": "cat=130780"
+                                    },
+                                    {
+                                        "id": 130781,
+                                        "parent": 130143,
+                                        "name": "Комиксы",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/komiksy",
+                                        "shard": "interior18",
+                                        "query": "cat=130781"
+                                    },
+                                    {
+                                        "id": 130782,
+                                        "parent": 130143,
+                                        "name": "Компьютерные игры",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/kompyuternye-igry",
+                                        "shard": "interior18",
+                                        "query": "cat=130782"
+                                    },
+                                    {
+                                        "id": 130783,
+                                        "parent": 130143,
+                                        "name": "Космос",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/kosmos",
+                                        "shard": "interior18",
+                                        "query": "cat=130783"
+                                    },
+                                    {
+                                        "id": 130784,
+                                        "parent": 130143,
+                                        "name": "Люди",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/lyudi",
+                                        "shard": "interior18",
+                                        "query": "cat=130784"
+                                    },
+                                    {
+                                        "id": 130785,
+                                        "parent": 130143,
+                                        "name": "Надписи",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/nadpisi",
+                                        "shard": "interior19",
+                                        "query": "cat=130785"
+                                    },
+                                    {
+                                        "id": 130786,
+                                        "parent": 130143,
+                                        "name": "Натюрморты",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/natyurmorty",
+                                        "shard": "interior19",
+                                        "query": "cat=130786"
+                                    },
+                                    {
+                                        "id": 130787,
+                                        "parent": 130143,
+                                        "name": "Природа",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/priroda",
+                                        "shard": "interior19",
+                                        "query": "cat=130787"
+                                    },
+                                    {
+                                        "id": 130788,
+                                        "parent": 130143,
+                                        "name": "Праздники",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/prazdniki",
+                                        "shard": "interior18",
+                                        "query": "cat=130788"
+                                    },
+                                    {
+                                        "id": 130789,
+                                        "parent": 130143,
+                                        "name": "Религия",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/religiya",
+                                        "shard": "interior18",
+                                        "query": "cat=130789"
                                     },
                                     {
                                         "id": 130475,
                                         "parent": 130143,
                                         "name": "Репродукции",
                                         "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/reproduktsii",
-                                        "shard": "interior10",
+                                        "shard": "interior14",
                                         "query": "cat=130475"
                                     },
                                     {
-                                        "id": 130476,
+                                        "id": 130790,
                                         "parent": 130143,
-                                        "name": "Фотокартины",
-                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/fotokartiny",
-                                        "shard": "interior10",
-                                        "query": "cat=130476"
+                                        "name": "Ретро",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/retro",
+                                        "shard": "interior18",
+                                        "query": "cat=130790"
                                     },
                                     {
-                                        "id": 130477,
+                                        "id": 130791,
                                         "parent": 130143,
-                                        "name": "Прочие",
-                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/prochie",
-                                        "shard": "interior10",
-                                        "query": "cat=130477"
+                                        "name": "Спорт",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/sport",
+                                        "shard": "interior18",
+                                        "query": "cat=130791"
+                                    },
+                                    {
+                                        "id": 130795,
+                                        "parent": 130143,
+                                        "name": "Транспорт",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/transport",
+                                        "shard": "interior18",
+                                        "query": "cat=130795"
+                                    },
+                                    {
+                                        "id": 130792,
+                                        "parent": 130143,
+                                        "name": "Фотография",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/fotografiya",
+                                        "shard": "interior18",
+                                        "query": "cat=130792"
+                                    },
+                                    {
+                                        "id": 130793,
+                                        "parent": 130143,
+                                        "name": "Фэнтези",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/fentezi",
+                                        "shard": "interior18",
+                                        "query": "cat=130793"
+                                    },
+                                    {
+                                        "id": 130820,
+                                        "parent": 130143,
+                                        "name": "Цветы и растения",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/tsvety-i-rasteniya",
+                                        "shard": "interior17",
+                                        "query": "cat=130820"
+                                    },
+                                    {
+                                        "id": 130794,
+                                        "parent": 130143,
+                                        "name": "Юмор",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/yumor",
+                                        "shard": "interior18",
+                                        "query": "cat=130794"
+                                    },
+                                    {
+                                        "id": 130471,
+                                        "parent": 130143,
+                                        "name": "Гобелены",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/gobeleny",
+                                        "shard": "interior16",
+                                        "query": "cat=130471"
+                                    },
+                                    {
+                                        "id": 130474,
+                                        "parent": 130143,
+                                        "name": "Панно",
+                                        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/panno",
+                                        "shard": "interior15",
+                                        "query": "cat=130474"
                                     }
                                 ],
                                 "isDenyLink": true
+                            },
+                            {
+                                "id": 130797,
+                                "parent": 8467,
+                                "name": "Картины 3D",
+                                "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny-3d",
+                                "shard": "interior14",
+                                "query": "subject=8470"
+                            },
+                            {
+                                "id": 130760,
+                                "parent": 8467,
+                                "name": "Картины в рамах",
+                                "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny-v-ramakx",
+                                "shard": "interior14",
+                                "query": "subject=8461"
                             },
                             {
                                 "id": 130758,
@@ -4206,7 +4390,7 @@
                         "parent": 60545,
                         "name": "Безопасность",
                         "url": "/catalog/dom/detskaya/bezopasnost",
-                        "shard": "children_room5",
+                        "shard": "children_room8",
                         "query": "cat=60578"
                     },
                     {
@@ -4214,7 +4398,7 @@
                         "parent": 60545,
                         "name": "Мебель",
                         "url": "/catalog/dom/detskaya/mebel",
-                        "shard": "children_room5",
+                        "shard": "children_room8",
                         "query": "cat=60562"
                     },
                     {
@@ -4223,7 +4407,7 @@
                         "name": "Освещение",
                         "seo": "Освещение для детской комнаты",
                         "url": "/catalog/dom/detskaya/osveshchenie",
-                        "shard": "children_room5",
+                        "shard": "children_room8",
                         "query": "cat=60558"
                     },
                     {
@@ -4399,6 +4583,14 @@
                                         "query": "subject=1751"
                                     },
                                     {
+                                        "id": 130815,
+                                        "parent": 61599,
+                                        "name": "Красители и жидкости",
+                                        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/krasiteli-i-zhidkosti",
+                                        "shard": "creativity14",
+                                        "query": "cat=130815"
+                                    },
+                                    {
                                         "id": 130593,
                                         "parent": 61599,
                                         "name": "Кожа",
@@ -4487,7 +4679,7 @@
                                 "name": "Аппликация",
                                 "seo": "Товары для аппликаций",
                                 "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/applikatsiya",
-                                "shard": "creativity5",
+                                "shard": "creativity19",
                                 "query": "cat=61602"
                             },
                             {
@@ -4496,7 +4688,7 @@
                                 "name": "Бисероплетение",
                                 "seo": "Товары для бисероплетения",
                                 "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/biseropletenie",
-                                "shard": "creativity5",
+                                "shard": "creativity19",
                                 "query": "cat=61609"
                             },
                             {
@@ -4505,7 +4697,7 @@
                                 "name": "Валяние",
                                 "seo": "Товары для валяния",
                                 "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/valyanie",
-                                "shard": "creativity5",
+                                "shard": "creativity19",
                                 "query": "cat=61708"
                             },
                             {
@@ -4605,6 +4797,14 @@
                                 "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/kvilling",
                                 "shard": "creativity9",
                                 "query": "cat=61723"
+                            },
+                            {
+                                "id": 130816,
+                                "parent": 8054,
+                                "name": "Кожевенное дело",
+                                "url": "/catalog/dom-i-dacha/tvorchestvo-rukodelie/kozhevennoe-delo",
+                                "shard": "creativity9",
+                                "query": "cat=130816"
                             },
                             {
                                 "id": 61731,
@@ -4953,7 +5153,7 @@
                         "parent": 60672,
                         "name": "Фитолампы для растений",
                         "url": "/catalog/dom/sad-i-dacha/gorshki-opory-i-vse-dlya-rassady/fitolampy-i-fitosvetilniki-dlya-rasteniy",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "subject=6355"
                     },
                     {
@@ -5594,8 +5794,59 @@
                 "parent": 258,
                 "name": "Шторы",
                 "url": "/catalog/dom/shtory",
-                "shard": "housecraft5",
-                "query": "cat=62836"
+                "shard": "blackhole",
+                "query": "cat=62836",
+                "childs": [
+                    {
+                        "id": 130836,
+                        "parent": 62836,
+                        "name": "Жалюзи",
+                        "url": "/catalog/dom/shtory/zhalyuzi",
+                        "shard": "housecraft11",
+                        "query": "subject=1619"
+                    },
+                    {
+                        "id": 130835,
+                        "parent": 62836,
+                        "name": "Карнизы",
+                        "url": "/catalog/dom/shtory/karnizy",
+                        "shard": "housecraft11",
+                        "query": "cat=130835"
+                    },
+                    {
+                        "id": 130837,
+                        "parent": 62836,
+                        "name": "Римские и рулонные шторы",
+                        "url": "/catalog/dom/shtory/rimskie-i-rulonnye-shtory",
+                        "shard": "housecraft11",
+                        "query": "cat=130837"
+                    },
+                    {
+                        "id": 130832,
+                        "parent": 62836,
+                        "name": "Тюли и гардины",
+                        "url": "/catalog/dom/shtory/tyuli-i-gardiny",
+                        "shard": "housecraft10",
+                        "query": "cat=130832"
+                    },
+                    {
+                        "id": 130833,
+                        "parent": 62836,
+                        "name": "Фотошторы",
+                        "url": "/catalog/dom/shtory/fotoshtory",
+                        "shard": "housecraft10",
+                        "query": "subject=1617"
+                    },
+                    {
+                        "id": 130834,
+                        "parent": 62836,
+                        "name": "Шторы и портьеры",
+                        "url": "/catalog/dom/shtory/shtory-i-portery",
+                        "shard": "housecraft11",
+                        "query": "cat=130834"
+                    }
+                ],
+                "isDenyLink": true
             }
         ]
     },
@@ -7260,16 +7511,150 @@
                                 "parent": 9466,
                                 "name": "Чехлы для телефонов Xiaomi",
                                 "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi",
-                                "shard": "electronic8",
-                                "query": "cat=129324"
+                                "shard": "blackhole",
+                                "query": "cat=129324",
+                                "childs": [
+                                    {
+                                        "id": 130804,
+                                        "parent": 129324,
+                                        "name": "Серия Mi Note",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/mi-note",
+                                        "shard": "electronic25",
+                                        "query": "cat=130804"
+                                    },
+                                    {
+                                        "id": 130806,
+                                        "parent": 129324,
+                                        "name": "Серия Redmi",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/redmi",
+                                        "shard": "electronic26",
+                                        "query": "cat=130806"
+                                    },
+                                    {
+                                        "id": 130805,
+                                        "parent": 129324,
+                                        "name": "Серия Redmi Note",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/redmi-note",
+                                        "shard": "electronic25",
+                                        "query": "cat=130805"
+                                    },
+                                    {
+                                        "id": 130808,
+                                        "parent": 129324,
+                                        "name": "Серия Т",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/t",
+                                        "shard": "electronic27",
+                                        "query": "cat=130808"
+                                    },
+                                    {
+                                        "id": 130807,
+                                        "parent": 129324,
+                                        "name": "Серия MIX",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/mix",
+                                        "shard": "electronic27",
+                                        "query": "cat=130807"
+                                    },
+                                    {
+                                        "id": 130809,
+                                        "parent": 129324,
+                                        "name": "Прочие",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/prochie",
+                                        "shard": "electronic27",
+                                        "query": "cat=130809"
+                                    }
+                                ],
+                                "isDenyLink": true
                             },
                             {
                                 "id": 129325,
                                 "parent": 9466,
                                 "name": "Чехлы для телефонов Samsung",
                                 "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung",
-                                "shard": "electronic9",
-                                "query": "cat=129325"
+                                "shard": "blackhole",
+                                "query": "cat=129325",
+                                "childs": [
+                                    {
+                                        "id": 130821,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy A",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-a",
+                                        "shard": "electronic34",
+                                        "query": "cat=130821"
+                                    },
+                                    {
+                                        "id": 130830,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy Ax0",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax0",
+                                        "shard": "electronic34",
+                                        "query": "cat=130830"
+                                    },
+                                    {
+                                        "id": 130826,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy Ax1",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax1",
+                                        "shard": "electronic33",
+                                        "query": "cat=130826"
+                                    },
+                                    {
+                                        "id": 130827,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy Ax2",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax2",
+                                        "shard": "electronic33",
+                                        "query": "cat=130827"
+                                    },
+                                    {
+                                        "id": 130828,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy Ax3",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax3",
+                                        "shard": "electronic34",
+                                        "query": "cat=130828"
+                                    },
+                                    {
+                                        "id": 130829,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy Ax4",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax4",
+                                        "shard": "electronic34",
+                                        "query": "cat=130829"
+                                    },
+                                    {
+                                        "id": 130822,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy S",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-s",
+                                        "shard": "electronic31",
+                                        "query": "cat=130822"
+                                    },
+                                    {
+                                        "id": 130823,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy Z Flip",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-z-flip",
+                                        "shard": "electronic34",
+                                        "query": "cat=130823"
+                                    },
+                                    {
+                                        "id": 130824,
+                                        "parent": 129325,
+                                        "name": "Серия Galaxy Z Fold",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-z-fold",
+                                        "shard": "electronic34",
+                                        "query": "cat=130824"
+                                    },
+                                    {
+                                        "id": 130825,
+                                        "parent": 129325,
+                                        "name": "Прочие",
+                                        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/prochie",
+                                        "shard": "electronic32",
+                                        "query": "cat=130825"
+                                    }
+                                ],
+                                "isDenyLink": true
                             },
                             {
                                 "id": 129326,
@@ -7288,6 +7673,14 @@
                                 "query": "cat=129327"
                             },
                             {
+                                "id": 130811,
+                                "parent": 9466,
+                                "name": "Чехлы для телефонов Infinix",
+                                "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-infinix",
+                                "shard": "electronic29",
+                                "query": "cat=130811"
+                            },
+                            {
                                 "id": 129328,
                                 "parent": 9466,
                                 "name": "Чехлы для телефонов Oppo",
@@ -7302,6 +7695,14 @@
                                 "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-philips",
                                 "shard": "electronic11",
                                 "query": "cat=129329"
+                            },
+                            {
+                                "id": 130810,
+                                "parent": 9466,
+                                "name": "Чехлы для телефонов Realme",
+                                "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-realme",
+                                "shard": "electronic28",
+                                "query": "cat=130810"
                             },
                             {
                                 "id": 129330,
@@ -7320,11 +7721,19 @@
                                 "query": "cat=129331"
                             },
                             {
+                                "id": 130812,
+                                "parent": 9466,
+                                "name": "Чехлы для телефонов TECNO",
+                                "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-tecno",
+                                "shard": "electronic29",
+                                "query": "cat=130812"
+                            },
+                            {
                                 "id": 129332,
                                 "parent": 9466,
                                 "name": "Чехлы для прочих телефонов",
                                 "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-prochikx-telefonov",
-                                "shard": "electronic12",
+                                "shard": "electronic30",
                                 "query": "cat=129332"
                             },
                             {
@@ -8117,6 +8526,14 @@
                 "query": "cat=129028",
                 "childs": [
                     {
+                        "id": 130817,
+                        "parent": 129028,
+                        "name": "Банкетки",
+                        "url": "/catalog/dom/mebel/divany-i-kresla/banketki",
+                        "shard": "rooms",
+                        "query": "subject=7699"
+                    },
+                    {
                         "id": 129044,
                         "parent": 129028,
                         "name": "Диваны",
@@ -8133,12 +8550,12 @@
                         "query": "cat=129045"
                     },
                     {
-                        "id": 129315,
+                        "id": 130818,
                         "parent": 129028,
-                        "name": "Кресла-качалки",
-                        "url": "/catalog/mebel/divany-i-kresla/kresla-kachalki",
+                        "name": "Кушетки",
+                        "url": "/catalog/dom/mebel/divany-i-kresla/kushetki",
                         "shard": "rooms",
-                        "query": "subject=3854"
+                        "query": "subject=7701"
                     },
                     {
                         "id": 129102,
@@ -12764,7 +13181,7 @@
                 "parent": 6994,
                 "name": "Мойки высокого давления и аксессуары",
                 "url": "/catalog/dom/dachniy-sezon/moyki-vysokogo-davleniya-i-aksessuary",
-                "shard": "garden8",
+                "shard": "garden10",
                 "query": "cat=128767"
             },
             {
@@ -12844,11 +13261,600 @@
         ]
     },
     {
+        "id": 250,
+        "name": "Школа",
+        "seo": "Школьные товары",
+        "url": "/catalog/detyam/shkola",
+        "shard": "blackhole",
+        "query": "cat=250",
+        "landing": true,
+        "childs": [
+            {
+                "id": 130001,
+                "parent": 250,
+                "name": "Одежда для девочек",
+                "seo": "Школьная одежда для девочек",
+                "url": "/catalog/detyam/shkola/odezhda-dlya-devochek",
+                "shard": "school1",
+                "query": "cat=130001",
+                "childs": [
+                    {
+                        "id": 130017,
+                        "parent": 130001,
+                        "name": "Блузки и рубашки",
+                        "seo": "Школьные блузки и рубашки для девочек",
+                        "url": "/catalog/shkola/odezhda-dlya-devochek/bluzki-i-rubashki",
+                        "shard": "school1",
+                        "query": "cat=130017"
+                    },
+                    {
+                        "id": 130018,
+                        "parent": 130001,
+                        "name": "Брюки и шорты",
+                        "seo": "Школьные брюки и шорты для девочек",
+                        "url": "/catalog/shkola/odezhda-dlya-devochek/bryuki-i-shorty",
+                        "shard": "school1",
+                        "query": "cat=130018"
+                    },
+                    {
+                        "id": 130019,
+                        "parent": 130001,
+                        "name": "Водолазки",
+                        "seo": "Школьные водолазки для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/vodolazki",
+                        "shard": "school1",
+                        "query": "cat=130019"
+                    },
+                    {
+                        "id": 130020,
+                        "parent": 130001,
+                        "name": "Джемперы и кардиганы",
+                        "seo": "Школьные джемперы и кардиганы для девочек",
+                        "url": "/catalog/shkola/odezhda-dlya-devochek/dzhempery-i-kardigany",
+                        "shard": "school1",
+                        "query": "cat=130020"
+                    },
+                    {
+                        "id": 130021,
+                        "parent": 130001,
+                        "name": "Жилеты",
+                        "seo": "Школьные жилеты для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/zhilety",
+                        "shard": "school1",
+                        "query": "cat=130021"
+                    },
+                    {
+                        "id": 130022,
+                        "parent": 130001,
+                        "name": "Колготки и гольфы",
+                        "seo": "Школьные колготки",
+                        "url": "/catalog/shkola/odezhda-dlya-devochek/kolgotki",
+                        "shard": "school1",
+                        "query": "cat=130022"
+                    },
+                    {
+                        "id": 130023,
+                        "parent": 130001,
+                        "name": "Костюмы",
+                        "seo": "Школьные костюмы для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/kostyumy",
+                        "shard": "school1",
+                        "query": "cat=130023"
+                    },
+                    {
+                        "id": 130024,
+                        "parent": 130001,
+                        "name": "Лонгсливы и толстовки",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/longslivy-i-tolstovki",
+                        "shard": "school1",
+                        "query": "cat=130024"
+                    },
+                    {
+                        "id": 130025,
+                        "parent": 130001,
+                        "name": "Пиджаки и жакеты",
+                        "seo": "Школьные пиджаки и жакеты для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/pidzhaki-i-zhakety",
+                        "shard": "school1",
+                        "query": "cat=130025"
+                    },
+                    {
+                        "id": 130026,
+                        "parent": 130001,
+                        "name": "Платья",
+                        "seo": "Школьные платья для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/platya",
+                        "shard": "school1",
+                        "query": "cat=130026"
+                    },
+                    {
+                        "id": 130045,
+                        "parent": 130001,
+                        "name": "Сарафаны",
+                        "seo": "Школьные сарафаны для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/sarafany",
+                        "shard": "school1",
+                        "query": "cat=130045"
+                    },
+                    {
+                        "id": 130046,
+                        "parent": 130001,
+                        "name": "Топы",
+                        "seo": "Школьные топы для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/topy",
+                        "shard": "school1",
+                        "query": "cat=130046"
+                    },
+                    {
+                        "id": 130027,
+                        "parent": 130001,
+                        "name": "Туники",
+                        "seo": "Школьные туники для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/tuniki",
+                        "shard": "school1",
+                        "query": "cat=130027"
+                    },
+                    {
+                        "id": 130028,
+                        "parent": 130001,
+                        "name": "Фартуки детские",
+                        "seo": "Школьные фартуки для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/fartuki-detskie",
+                        "shard": "school1",
+                        "query": "cat=130028"
+                    },
+                    {
+                        "id": 130029,
+                        "parent": 130001,
+                        "name": "Футболки",
+                        "seo": "Школьные футболки для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/futbolki",
+                        "shard": "school1",
+                        "query": "cat=130029"
+                    },
+                    {
+                        "id": 130063,
+                        "parent": 130001,
+                        "name": "Футболки-поло",
+                        "seo": "Школьные футболки-поло для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/futbolki-polo",
+                        "shard": "school1",
+                        "query": "cat=130063"
+                    },
+                    {
+                        "id": 130044,
+                        "parent": 130001,
+                        "name": "Юбки",
+                        "seo": "Школьные юбки для девочек",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-devochek/yubki",
+                        "shard": "school1",
+                        "query": "cat=130044"
+                    }
+                ],
+                "isDenyLink": true
+            },
+            {
+                "id": 130002,
+                "parent": 250,
+                "name": "Одежда для мальчиков",
+                "seo": "Школьная одежда для мальчиков",
+                "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov",
+                "shard": "school1",
+                "query": "cat=130002",
+                "childs": [
+                    {
+                        "id": 130030,
+                        "parent": 130002,
+                        "name": "Брюки и шорты",
+                        "seo": "Школьные брюки и шорты для мальчиков",
+                        "url": "/catalog/shkola/odezhda-dlya-malchikov/bryuki-i-shorty",
+                        "shard": "school1",
+                        "query": "cat=130030"
+                    },
+                    {
+                        "id": 130031,
+                        "parent": 130002,
+                        "name": "Джемперы и кардиганы",
+                        "seo": "Школьные джемперы и кардиганы для мальчиков",
+                        "url": "/catalog/shkola/odezhda-dlya-malchikov/dzhempery-i-kardigany",
+                        "shard": "school1",
+                        "query": "cat=130031"
+                    },
+                    {
+                        "id": 130032,
+                        "parent": 130002,
+                        "name": "Водолазки",
+                        "seo": "Школьные водолазки для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/vodolazki",
+                        "shard": "school1",
+                        "query": "cat=130032"
+                    },
+                    {
+                        "id": 130033,
+                        "parent": 130002,
+                        "name": "Колготки и носки",
+                        "seo": "Колготки для мальчиков школьные",
+                        "url": "/catalog/shkola/odezhda-dlya-malchikov/kolgotki",
+                        "shard": "school1",
+                        "query": "cat=130033"
+                    },
+                    {
+                        "id": 130034,
+                        "parent": 130002,
+                        "name": "Жилеты",
+                        "seo": "Школьные жилеты для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/zhilety",
+                        "shard": "school1",
+                        "query": "cat=130034"
+                    },
+                    {
+                        "id": 130035,
+                        "parent": 130002,
+                        "name": "Костюмы",
+                        "seo": "Школьные костюмы для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/kostyumy",
+                        "shard": "school1",
+                        "query": "cat=130035"
+                    },
+                    {
+                        "id": 130036,
+                        "parent": 130002,
+                        "name": "Лонгсливы",
+                        "seo": "Школьные лонгсливы для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/longslivy",
+                        "shard": "school1",
+                        "query": "cat=130036"
+                    },
+                    {
+                        "id": 130037,
+                        "parent": 130002,
+                        "name": "Пиджаки и жакеты",
+                        "seo": "Школьные пиджаки и жакеты для мальчиков",
+                        "url": "/catalog/shkola/odezhda-dlya-malchikov/pidzhaki-i-zhakety",
+                        "shard": "school1",
+                        "query": "cat=130037"
+                    },
+                    {
+                        "id": 130038,
+                        "parent": 130002,
+                        "name": "Рубашки",
+                        "seo": "Школьные рубашки для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/rubashki",
+                        "shard": "school1",
+                        "query": "cat=130038"
+                    },
+                    {
+                        "id": 130039,
+                        "parent": 130002,
+                        "name": "Свитшоты",
+                        "seo": "Школьные свитшоты для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/svitshoty",
+                        "shard": "school1",
+                        "query": "cat=130039"
+                    },
+                    {
+                        "id": 130040,
+                        "parent": 130002,
+                        "name": "Толстовки",
+                        "seo": "Школьные толстовки для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/tolstovki",
+                        "shard": "school1",
+                        "query": "cat=130040"
+                    },
+                    {
+                        "id": 130041,
+                        "parent": 130002,
+                        "name": "Фартуки школьные",
+                        "seo": "Школьные фартуки для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/fartuki-detskie",
+                        "shard": "school1",
+                        "query": "cat=130041"
+                    },
+                    {
+                        "id": 130042,
+                        "parent": 130002,
+                        "name": "Футболки",
+                        "seo": "Школьные футболки для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/futbolki",
+                        "shard": "school1",
+                        "query": "cat=130042"
+                    },
+                    {
+                        "id": 130064,
+                        "parent": 130002,
+                        "name": "Футболки-поло",
+                        "seo": "Школьные футболки-поло для мальчиков",
+                        "url": "/catalog/detyam/shkola/odezhda-dlya-malchikov/futbolki-polo",
+                        "shard": "school1",
+                        "query": "cat=130064"
+                    }
+                ],
+                "isDenyLink": true
+            },
+            {
+                "id": 130043,
+                "parent": 250,
+                "name": "Банты",
+                "url": "/catalog/detyam/shkola/banty",
+                "shard": "school2",
+                "query": "cat=130043"
+            },
+            {
+                "id": 130003,
+                "parent": 250,
+                "name": "Галстуки и бабочки",
+                "seo": "Школьные галстуки и бабочки",
+                "url": "/catalog/detyam/shkola/galstuki-i-babochki",
+                "shard": "school2",
+                "query": "cat=130003"
+            },
+            {
+                "id": 130004,
+                "parent": 250,
+                "name": "Дошкольные рюкзаки",
+                "url": "/catalog/aksessuary/sumki-i-ryukzaki/ryukzaki-i-rantsy/doshkolnye-ryukzaki",
+                "shard": "school2",
+                "query": "cat=130004"
+            },
+            {
+                "id": 130005,
+                "parent": 250,
+                "name": "Ленты выпускника",
+                "seo": "Ленты для выпускников",
+                "url": "/catalog/shkola/lenty-vypusknika",
+                "shard": "school2",
+                "query": "subject=3952"
+            },
+            {
+                "id": 130814,
+                "parent": 250,
+                "name": "Мешки для обуви",
+                "url": "/catalog/detyam/shkola/meshki-dlya-obuvi",
+                "shard": "school4",
+                "query": "cat=130814"
+            },
+            {
+                "id": 130006,
+                "parent": 250,
+                "name": "Обувь для девочек",
+                "seo": "Школьная обувь для девочек",
+                "url": "/catalog/detyam/shkola/obuv-dlya-devochek",
+                "shard": "school4",
+                "query": "cat=130006"
+            },
+            {
+                "id": 130007,
+                "parent": 250,
+                "name": "Обувь для мальчиков",
+                "seo": "Школьная обувь для мальчиков",
+                "url": "/catalog/detyam/shkola/obuv-dlya-malchikov",
+                "shard": "school4",
+                "query": "cat=130007"
+            },
+            {
+                "id": 130008,
+                "parent": 250,
+                "name": "Ранцы",
+                "seo": "Школьные ранцы",
+                "url": "/catalog/detyam/shkola/rantsy",
+                "shard": "school2",
+                "query": "subject=2637"
+            },
+            {
+                "id": 130047,
+                "parent": 250,
+                "name": "Спорт",
+                "seo": "Одежда и аксессуары для физкультуры",
+                "url": "/catalog/detyam/shkola/sport",
+                "shard": "school3",
+                "query": "cat=130047",
+                "childs": [
+                    {
+                        "id": 130048,
+                        "parent": 130047,
+                        "name": "Боди и купальники",
+                        "url": "/catalog/detyam/shkola/sport/bodi-i-kupalniki",
+                        "shard": "school3",
+                        "query": "cat=130048"
+                    },
+                    {
+                        "id": 130049,
+                        "parent": 130047,
+                        "name": "Брюки и шорты",
+                        "url": "/catalog/detyam/shkola/sport/bryuki-i-shorty",
+                        "shard": "school3",
+                        "query": "cat=130049"
+                    },
+                    {
+                        "id": 130050,
+                        "parent": 130047,
+                        "name": "Джемперы и толстовки",
+                        "url": "/catalog/detyam/shkola/sport/dzhempery-i-tolstovki",
+                        "shard": "school3",
+                        "query": "cat=130050"
+                    },
+                    {
+                        "id": 130051,
+                        "parent": 130047,
+                        "name": "Костюмы и комбинезоны",
+                        "url": "/catalog/detyam/shkola/sport/kostyumy-i-kombinezony",
+                        "shard": "school3",
+                        "query": "cat=130051"
+                    },
+                    {
+                        "id": 130009,
+                        "parent": 130047,
+                        "name": "Обувь",
+                        "seo": "Обувь для физкультуры",
+                        "url": "/catalog/detyam/shkola/sport/obuv",
+                        "shard": "school3",
+                        "query": "cat=130009"
+                    },
+                    {
+                        "id": 130052,
+                        "parent": 130047,
+                        "name": "Платья и юбки",
+                        "url": "/catalog/detyam/shkola/sport/platya-i-yubki",
+                        "shard": "school3",
+                        "query": "cat=130052"
+                    },
+                    {
+                        "id": 130053,
+                        "parent": 130047,
+                        "name": "Топы и футболки",
+                        "url": "/catalog/detyam/shkola/sport/topy-i-futbolki",
+                        "shard": "school3",
+                        "query": "cat=130053"
+                    }
+                ]
+            },
+            {
+                "id": 130010,
+                "parent": 250,
+                "name": "Тележки для ранцев",
+                "url": "/catalog/aksessuary/sumki-i-ryukzaki/ryukzaki/telezhki-dlya-rantsev",
+                "shard": "school2",
+                "query": "subject=3013"
+            },
+            {
+                "id": 130011,
+                "parent": 250,
+                "name": "Учебная литература",
+                "seo": "Учебники и учебная литература",
+                "url": "/catalog/detyam/shkola/uchebnaya-literatura",
+                "shard": "school2",
+                "query": "cat=130011",
+                "childs": [
+                    {
+                        "id": 130012,
+                        "parent": 130011,
+                        "name": "1-4 классы",
+                        "seo": "Учебники и учебная литература для 1-4 классов",
+                        "url": "/catalog/detyam/shkola/uchebnaya-literatura/1-4-klassy",
+                        "shard": "school2",
+                        "query": "cat=130012"
+                    },
+                    {
+                        "id": 130013,
+                        "parent": 130011,
+                        "name": "5-9 классы",
+                        "seo": "Учебники и учебная литература для 5-9 классов",
+                        "url": "/catalog/detyam/shkola/uchebnaya-literatura/5-9-klassy",
+                        "shard": "school2",
+                        "query": "cat=130013"
+                    },
+                    {
+                        "id": 130014,
+                        "parent": 130011,
+                        "name": "10-11 классы",
+                        "seo": "Учебники и учебная литература для 10-11 классов",
+                        "url": "/catalog/detyam/shkola/uchebnaya-literatura/10-11-klassy",
+                        "shard": "school2",
+                        "query": "cat=130014"
+                    }
+                ]
+            },
+            {
+                "id": 130015,
+                "parent": 250,
+                "name": "Школьные принадлежности",
+                "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti",
+                "shard": "school5",
+                "query": "cat=130015",
+                "childs": [
+                    {
+                        "id": 130054,
+                        "parent": 130015,
+                        "name": "Бумажная продукция",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/bumazhnaya-produktsiya",
+                        "shard": "school5",
+                        "query": "cat=130054"
+                    },
+                    {
+                        "id": 130055,
+                        "parent": 130015,
+                        "name": "Глобусы",
+                        "seo": "Школьные глобусы",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/globusy",
+                        "shard": "school5",
+                        "query": "cat=130055"
+                    },
+                    {
+                        "id": 130062,
+                        "parent": 130015,
+                        "name": "Держатели и подставки",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/derzhateli-i-podstavki",
+                        "shard": "school5",
+                        "query": "cat=130062"
+                    },
+                    {
+                        "id": 130061,
+                        "parent": 130015,
+                        "name": "Микроскопы",
+                        "seo": "Школьные микроскопы",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/mikroskopy",
+                        "shard": "school5",
+                        "query": "cat=130061"
+                    },
+                    {
+                        "id": 130059,
+                        "parent": 130015,
+                        "name": "Пеналы",
+                        "seo": "Школьные пеналы",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/penaly",
+                        "shard": "school5",
+                        "query": "cat=130059"
+                    },
+                    {
+                        "id": 130056,
+                        "parent": 130015,
+                        "name": "Письменные принадлежности",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/pismennye-prinadlezhnosti",
+                        "shard": "school5",
+                        "query": "cat=130056"
+                    },
+                    {
+                        "id": 130057,
+                        "parent": 130015,
+                        "name": "Счетный материал",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/schetnyy-material",
+                        "shard": "school5",
+                        "query": "cat=130057"
+                    },
+                    {
+                        "id": 130060,
+                        "parent": 130015,
+                        "name": "Творчество",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/tvorchestvo",
+                        "shard": "school5",
+                        "query": "cat=130060"
+                    },
+                    {
+                        "id": 130058,
+                        "parent": 130015,
+                        "name": "Чертежные принадлежности",
+                        "url": "/catalog/detyam/shkola/shkolnye-prinadlezhnosti/chertezhnye-prinadlezhnosti",
+                        "shard": "school5",
+                        "query": "cat=130058"
+                    }
+                ]
+            },
+            {
+                "id": 130016,
+                "parent": 250,
+                "name": "Школьные рюкзаки",
+                "url": "/catalog/detyam/shkola/shkolnye-ryukzaki",
+                "shard": "school2",
+                "query": "cat=130016"
+            }
+        ]
+    },
+    {
         "id": 519,
         "name": "Книги",
         "seo": "Книги и диски",
         "url": "/catalog/knigi",
-        "shard": "books4",
+        "shard": "books5",
         "query": "cat=519",
         "landing": true,
         "childs": [
@@ -13190,7 +14196,7 @@
                         "name": "Изучение иностранных языков",
                         "seo": "Книги для изучения иностранных языков",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/izuchenie-inostrannyh-yazykov",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9134"
                     },
                     {
@@ -13199,7 +14205,7 @@
                         "name": "Саморазвитие",
                         "seo": "Книги для саморазвития",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/samorazvitie",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9153"
                     },
                     {
@@ -13208,7 +14214,7 @@
                         "name": "Психология",
                         "seo": "Книги по психологии",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/psihologiya",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9146"
                     },
                     {
@@ -13216,7 +14222,7 @@
                         "parent": 129275,
                         "name": "Как писать тексты",
                         "url": "/catalog/knigi/samoobrazovanie-i-razvitie/kak-pisat-teksty",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=129276"
                     }
                 ]
@@ -13227,7 +14233,7 @@
                 "name": "Бизнес и менеджмент",
                 "seo": "Книги для бизнеса и по менеджменту",
                 "url": "/catalog/knigi/nehudozhestvennaya-literatura/biznes-i-menedzhment",
-                "shard": "books4",
+                "shard": "books5",
                 "query": "cat=9127"
             },
             {
@@ -13235,7 +14241,7 @@
                 "parent": 519,
                 "name": "Хобби и досуг",
                 "url": "/catalog/knigi/hobbi-i-dosug",
-                "shard": "books4",
+                "shard": "books5",
                 "query": "cat=129273",
                 "childs": [
                     {
@@ -13244,7 +14250,7 @@
                         "name": "Рисование",
                         "seo": "Книги по рисованию",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/risovanie",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9150",
                         "childs": [
                             {
@@ -13252,7 +14258,7 @@
                                 "parent": 9150,
                                 "name": "Обучение рисованию",
                                 "url": "/catalog/knigi/risovanie/obuchenie-risovaniyu",
-                                "shard": "books4",
+                                "shard": "books5",
                                 "query": "cat=129270"
                             },
                             {
@@ -13260,7 +14266,7 @@
                                 "parent": 9150,
                                 "name": "Раскраски",
                                 "url": "/catalog/knigi/risovanie/raskraski",
-                                "shard": "books4",
+                                "shard": "books5",
                                 "query": "subject=338"
                             }
                         ]
@@ -13271,7 +14277,7 @@
                         "name": "Рукоделие и досуг",
                         "seo": "Книги по рукоделию и для досуга",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/rukodelie-i-dosug",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9151"
                     },
                     {
@@ -13280,7 +14286,7 @@
                         "name": "Коллекционирование",
                         "seo": "Книги для коллекционеров",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/kollektsionirovanie",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9138"
                     },
                     {
@@ -13289,7 +14295,7 @@
                         "name": "Кулинария",
                         "seo": "Книги по кулинарии",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/kulinariya",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9140"
                     },
                     {
@@ -13298,7 +14304,7 @@
                         "name": "Искусство и культура",
                         "seo": "Книги по искусству и культуре",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/iskusstvo-i-kultura",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9136"
                     },
                     {
@@ -13307,7 +14313,7 @@
                         "name": "Туризм и страноведение",
                         "seo": "Книги по туризму и страноведению",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/turizm-i-stranovedenie",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9155"
                     },
                     {
@@ -13315,7 +14321,7 @@
                         "parent": 129273,
                         "name": "Охота и рыболовство",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/ohota-i-rybolovstvo",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9143"
                     },
                     {
@@ -13324,7 +14330,7 @@
                         "name": "Домашние животные и ветеринария",
                         "seo": "Книги о домашних животных и ветеринарии",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/domashnie-zhivotnye-i-veterinariya",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9130"
                     },
                     {
@@ -13333,7 +14339,7 @@
                         "name": "Вождение и транспорт",
                         "seo": "Книги по вождению и о транспорте",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/vozhdenie-i-transport",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9129"
                     },
                     {
@@ -13341,7 +14347,7 @@
                         "parent": 129273,
                         "name": "Родословные книги",
                         "url": "/catalog/knigi/knigi-rodoslovnye",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "subject=3806"
                     },
                     {
@@ -13349,7 +14355,7 @@
                         "parent": 129273,
                         "name": "Журналы",
                         "url": "/catalog/knigi/zhurnaly",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "subject=397"
                     },
                     {
@@ -13358,7 +14364,7 @@
                         "name": "Блокноты творческие",
                         "seo": "Творческие блокноты",
                         "url": "/catalog/knigi-i-diski/kantstovary/bloknoty-tvorcheskie",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "subject=2964"
                     },
                     {
@@ -13366,7 +14372,7 @@
                         "parent": 129273,
                         "name": "Интеллект-карты",
                         "url": "/catalog/knigi/hobbi-i-dosug/intellekt-karty",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "subject=6710"
                     }
                 ]
@@ -13377,7 +14383,7 @@
                 "name": "Астрология и эзотерика",
                 "seo": "Книги по астрологии и эзотерике",
                 "url": "/catalog/knigi/nehudozhestvennaya-literatura/astrologiya-i-ezoterika",
-                "shard": "books4",
+                "shard": "books5",
                 "query": "cat=9126",
                 "childs": [
                     {
@@ -13385,7 +14391,7 @@
                         "parent": 9126,
                         "name": "Книги по астрологии и эзотерике",
                         "url": "/catalog/knigi/astrologiya-i-ezoterika/knigi-po-astrologii-i-ezoterike",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=129284"
                     },
                     {
@@ -13393,7 +14399,7 @@
                         "parent": 9126,
                         "name": "Карты Таро",
                         "url": "/catalog/knigi/karty-taro",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "subject=4146"
                     },
                     {
@@ -13401,8 +14407,8 @@
                         "parent": 9126,
                         "name": "Метафорические и другие карты",
                         "url": "/catalog/knigi/astrologiya-i-ezoterika/metaforicheskie-i-drugie-karty",
-                        "shard": "books4",
-                        "query": "cat=129285"
+                        "shard": "books5",
+                        "query": "subject=8261"
                     }
                 ]
             },
@@ -13411,7 +14417,7 @@
                 "parent": 519,
                 "name": "Дом, сад и огород",
                 "url": "/catalog/knigi/dom-sad-i-ogorod",
-                "shard": "books4",
+                "shard": "books5",
                 "query": "cat=129269",
                 "childs": [
                     {
@@ -13420,7 +14426,7 @@
                         "name": "Домоводство",
                         "seo": "Книги по домоводству",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/domovodstvo",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9131"
                     },
                     {
@@ -13429,7 +14435,7 @@
                         "name": "Ремонт, дизайн жилья",
                         "seo": "Книги по ремонту и дизайн жилья",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/remont-dizayn-zhilya",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9149"
                     },
                     {
@@ -13438,7 +14444,7 @@
                         "name": "Сад и огород",
                         "seo": "Книги для сада и огорода",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/sad-i-ogorod",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9152"
                     }
                 ]
@@ -13448,7 +14454,7 @@
                 "parent": 519,
                 "name": "Красота, здоровье и спорт",
                 "url": "/catalog/knigi/krasota-zdorove-i-sport",
-                "shard": "books4",
+                "shard": "books5",
                 "query": "cat=129268",
                 "childs": [
                     {
@@ -13457,7 +14463,7 @@
                         "name": "Здоровье и медицина",
                         "seo": "Книги о здоровье и медицине",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/zdorove-i-meditsina",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9133"
                     },
                     {
@@ -13466,7 +14472,7 @@
                         "name": "Спорт и образ жизни",
                         "seo": "Книги о спорте и о здоровом образе жизни",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/sport-i-obraz-zhizni",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9154"
                     },
                     {
@@ -13475,7 +14481,7 @@
                         "name": "Красота, косметика и макияж",
                         "seo": "Книги о красоте, косметике и макияже",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/krasota-kosmetika-i-makiyazh",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9139"
                     },
                     {
@@ -13483,7 +14489,7 @@
                         "parent": 129268,
                         "name": "Мода и стиль",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/moda-i-stil",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=128334"
                     },
                     {
@@ -13492,7 +14498,7 @@
                         "name": "Сексология и эротика",
                         "seo": "Книги в жанре эротика",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/erotika",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9156"
                     }
                 ]
@@ -13503,7 +14509,7 @@
                 "name": "Научно-популярная литература",
                 "seo": "Книги о науке и технике",
                 "url": "/catalog/knigi/nehudozhestvennaya-literatura/nauka-i-tehnika",
-                "shard": "books4",
+                "shard": "books5",
                 "query": "cat=9142"
             },
             {
@@ -13535,7 +14541,7 @@
                         "parent": 129286,
                         "name": "Публицистика",
                         "url": "/catalog/knigi/nehudozhestvennaya-literatura/publitsistika",
-                        "shard": "books4",
+                        "shard": "books5",
                         "query": "cat=9147"
                     },
                     {
@@ -13637,7 +14643,7 @@
                 "name": "Философия",
                 "seo": "Книги по философии",
                 "url": "/catalog/knigi/nehudozhestvennaya-literatura/filosofiya",
-                "shard": "books4",
+                "shard": "books5",
                 "query": "cat=9235"
             },
             {
@@ -14195,7 +15201,7 @@
                         "parent": 16723,
                         "name": "Сверление, долбление, закручивание",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/sverlenie-dolblenie-zakruchivanie",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128961"
                     },
                     {
@@ -14203,7 +15209,7 @@
                         "parent": 16723,
                         "name": "Измерительные приборы",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/izmeritelnye-pribory",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128960"
                     },
                     {
@@ -14211,7 +15217,7 @@
                         "parent": 16723,
                         "name": "Лестницы и высотные конструкции",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/lestnitsy-i-vysotnye-konstruktsii",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128967"
                     },
                     {
@@ -14219,7 +15225,7 @@
                         "parent": 16723,
                         "name": "Оборудование",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/oborudovanie",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128968"
                     },
                     {
@@ -14227,7 +15233,7 @@
                         "parent": 16723,
                         "name": "Паяльно-термические инструменты",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/payalno-termicheskie-instrumenty",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128962"
                     },
                     {
@@ -14235,7 +15241,7 @@
                         "parent": 16723,
                         "name": "Хранение и переноска инструмента",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/hranenie-i-perenoska-instrumenta",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128969"
                     },
                     {
@@ -14243,7 +15249,7 @@
                         "parent": 16723,
                         "name": "Пильно-отрезные инструменты",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/pilno-otreznye-instrumenty",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128963"
                     },
                     {
@@ -14251,7 +15257,7 @@
                         "parent": 16723,
                         "name": "Шлифовальные инструменты",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/shlifovalnye-instrumenty",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128964"
                     },
                     {
@@ -14259,7 +15265,7 @@
                         "parent": 16723,
                         "name": "Средства индивидуальной защиты и экипировка",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/sredstva-individualnoy-zashchity-i-ekipirovka",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128965"
                     },
                     {
@@ -14267,7 +15273,7 @@
                         "parent": 16723,
                         "name": "Штукатурные инструменты",
                         "url": "/catalog/dlya-remonta/instrumenty-i-osnastka/shtukaturnye-instrumenty",
-                        "shard": "repair8",
+                        "shard": "repair10",
                         "query": "cat=128966"
                     }
                 ],
@@ -14863,7 +15869,7 @@
                 "name": "Бассейны",
                 "seo": "Бассейны и средства для чистки",
                 "url": "/catalog/dachniy-sezon/basseyny",
-                "shard": "garden7",
+                "shard": "garden9",
                 "query": "cat=9038",
                 "childs": [
                     {
@@ -14871,7 +15877,7 @@
                         "parent": 9038,
                         "name": "Аксессуары для бассейнов",
                         "url": "/catalog/dom/dachniy-sezon/basseyny/aksessuary-dlya-basseynov",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128735"
                     },
                     {
@@ -14879,7 +15885,7 @@
                         "parent": 9038,
                         "name": "Каркасные бассейны",
                         "url": "/catalog/dom/dachniy-sezon/basseyny/karkasnye-basseyny",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "subject=8417"
                     },
                     {
@@ -14887,7 +15893,7 @@
                         "parent": 9038,
                         "name": "Надувные бассейны",
                         "url": "/catalog/dom/dachniy-sezon/basseyny/naduvnye-basseyny",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "subject=8416"
                     },
                     {
@@ -14895,7 +15901,7 @@
                         "parent": 9038,
                         "name": "Надувные изделия и аксессуары для плавания",
                         "url": "/catalog/dom/dachniy-sezon/basseyny/naduvnye-izdeliya-i-aksessuary-dlya-plavaniya",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128738"
                     },
                     {
@@ -14903,7 +15909,7 @@
                         "parent": 9038,
                         "name": "Уход за бассейном",
                         "url": "/catalog/dom/dachniy-sezon/basseyny/uhod-za-basseynom",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128739"
                     }
                 ]
@@ -14913,7 +15919,7 @@
                 "parent": 4863,
                 "name": "Горшки, опоры и все для рассады",
                 "url": "/catalog/dom/sad-i-dacha/gorshki-opory-i-vse-dlya-rassady",
-                "shard": "garden8",
+                "shard": "garden10",
                 "query": "cat=128740",
                 "childs": [
                     {
@@ -14921,7 +15927,7 @@
                         "parent": 128740,
                         "name": "Балконные ящики для цветов и держатели",
                         "url": "/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/balkonnye-yashchiki-dlya-tsvetov-i-derzhateli",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128750"
                     },
                     {
@@ -14929,7 +15935,7 @@
                         "parent": 128740,
                         "name": "Все для рассады",
                         "url": "/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/vse-dlya-rassady",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128741"
                     },
                     {
@@ -14937,7 +15943,7 @@
                         "parent": 128740,
                         "name": "Горшки для цветов и поддоны",
                         "url": "/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/gorshki-dlya-tsvetov-i-poddony",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128742"
                     },
                     {
@@ -14945,7 +15951,7 @@
                         "parent": 128740,
                         "name": "Кашпо и вазоны",
                         "url": "/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/kashpo-i-vazony",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128743"
                     },
                     {
@@ -14953,7 +15959,7 @@
                         "parent": 128740,
                         "name": "Опоры, поставки и крепления для растений",
                         "url": "/catalog/dom/dachniy-sezon/gorshki-opory-i-vse-dlya-rassady/opory-postavki-i-krepleniya-dlya-rasteniy",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128744"
                     },
                     {
@@ -14961,7 +15967,7 @@
                         "parent": 128740,
                         "name": "Фитолампы и фитосветильники для растений",
                         "url": "/catalog/dom/sad-i-dacha/gorshki-opory-i-vse-dlya-rassady/fitolampy-i-fitosvetilniki-dlya-rasteniy",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "subject=6355"
                     }
                 ]
@@ -14971,7 +15977,7 @@
                 "parent": 4863,
                 "name": "Грили, мангалы и барбекю",
                 "url": "/catalog/dom/sad-i-dacha/grili-mangaly-i-barbekyu",
-                "shard": "garden8",
+                "shard": "garden10",
                 "query": "cat=128745",
                 "childs": [
                     {
@@ -14979,7 +15985,7 @@
                         "parent": 128745,
                         "name": "Грили газовые и аксессуары к ним",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/grili-gazovye-i-aksessuary-k-nim",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128751"
                     },
                     {
@@ -14987,7 +15993,7 @@
                         "parent": 128745,
                         "name": "Грили угольные",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/grili-ugolnye",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "subject=2799"
                     },
                     {
@@ -14995,7 +16001,7 @@
                         "parent": 128745,
                         "name": "Коптильни и средства для копчения",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/koptilni-i-sredstva-dlya-kopcheniya",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128753"
                     },
                     {
@@ -15003,7 +16009,7 @@
                         "parent": 128745,
                         "name": "Мангалы",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/mangaly",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "subject=602"
                     },
                     {
@@ -15011,7 +16017,7 @@
                         "parent": 128745,
                         "name": "Очаги, чаши и печи для казана",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/ochagi-chashi-i-pechi-dlya-kazana",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128755"
                     },
                     {
@@ -15019,7 +16025,7 @@
                         "parent": 128745,
                         "name": "Решетки и аксессуары для гриля и мангала",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/reshetki-i-aksessuary-dlya-grilya-i-mangala",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128756"
                     },
                     {
@@ -15027,7 +16033,7 @@
                         "parent": 128745,
                         "name": "Тандыры и аксессуары к ним",
                         "url": "/catalog/sad-i-dacha/grili-mangaly-i-barbekyu/tandyry-i-aksessuary-k-nim",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128860"
                     },
                     {
@@ -15035,7 +16041,7 @@
                         "parent": 128745,
                         "name": "Газовые плитки, горелки и нагреватели",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/gazovye-plitki-gorelki-i-nagrevateli",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128757"
                     },
                     {
@@ -15043,7 +16049,7 @@
                         "parent": 128745,
                         "name": "Уголь, дрова и средства для розжига",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/ugol-drova-i-sredstva-dlya-rozzhiga",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128758"
                     },
                     {
@@ -15051,7 +16057,7 @@
                         "parent": 128745,
                         "name": "Шампуры",
                         "url": "/catalog/dom/dachniy-sezon/grili-mangaly-i-barbekyu/shampury",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128759"
                     }
                 ]
@@ -15061,7 +16067,7 @@
                 "parent": 4863,
                 "name": "Дачные умывальники, души и туалеты",
                 "url": "/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety",
-                "shard": "garden8",
+                "shard": "garden10",
                 "query": "cat=128766",
                 "childs": [
                     {
@@ -15069,7 +16075,7 @@
                         "parent": 128766,
                         "name": "Биотуалеты и аксессуары",
                         "url": "/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety/biotualety-i-aksessuary",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128775"
                     },
                     {
@@ -15077,7 +16083,7 @@
                         "parent": 128766,
                         "name": "Дачные туалеты",
                         "url": "/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety/dachnye-tualety",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "subject=2359"
                     },
                     {
@@ -15085,7 +16091,7 @@
                         "parent": 128766,
                         "name": "Души дачные",
                         "url": "/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety/dushi-dachnye",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128777"
                     },
                     {
@@ -15093,7 +16099,7 @@
                         "parent": 128766,
                         "name": "Септики и средства для них",
                         "url": "/catalog/sad-i-dacha/dachnye-umyvalniki-dushi-i-tualety/septiki-i-sredstva-dlya-nih",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128861"
                     },
                     {
@@ -15101,7 +16107,7 @@
                         "parent": 128766,
                         "name": "Умывальники и рукомойники",
                         "url": "/catalog/dom/dachniy-sezon/dachnye-umyvalniki-dushi-i-tualety/umyvalniki-i-rukomoyniki",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128778"
                     }
                 ]
@@ -15111,7 +16117,7 @@
                 "parent": 4863,
                 "name": "Мойки высокого давления и аксессуары",
                 "url": "/catalog/dom/dachniy-sezon/moyki-vysokogo-davleniya-i-aksessuary",
-                "shard": "garden8",
+                "shard": "garden10",
                 "query": "cat=128767"
             },
             {
@@ -15395,10 +16401,10 @@
                     {
                         "id": 128815,
                         "parent": 58530,
-                        "name": "Аэраторы газонные",
+                        "name": "Аэраторы и скарификаторы газонные",
                         "url": "/catalog/dom/dachniy-sezon/sadovaya-tehnika/aeratory-gazonnye",
                         "shard": "garden6",
-                        "query": "subject=2569"
+                        "query": "cat=128815"
                     },
                     {
                         "id": 128869,
@@ -15461,7 +16467,7 @@
                         "parent": 58530,
                         "name": "Мойки высокого давления",
                         "url": "/catalog/dom/dachniy-sezon/moyki-vysokogo-davleniya-i-aksessuary",
-                        "shard": "garden8",
+                        "shard": "garden10",
                         "query": "cat=128767"
                     },
                     {
@@ -15617,7 +16623,7 @@
                 "parent": 4863,
                 "name": "Садовый инструмент",
                 "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument",
-                "shard": "garden7",
+                "shard": "garden9",
                 "query": "cat=128771",
                 "childs": [
                     {
@@ -15625,7 +16631,7 @@
                         "parent": 128771,
                         "name": "Измерительный садовый инструмент",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/izmeritelniy-sadoviy-instrument",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128826"
                     },
                     {
@@ -15633,7 +16639,7 @@
                         "parent": 128771,
                         "name": "Инструмент для обработки почвы",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/instrument-dlya-obrabotki-pochvy",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128827"
                     },
                     {
@@ -15641,7 +16647,7 @@
                         "parent": 128771,
                         "name": "Инструмент для посадки и сбора урожая",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/instrument-dlya-posadki-i-sbora-urozhaya",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128828"
                     },
                     {
@@ -15649,7 +16655,7 @@
                         "parent": 128771,
                         "name": "Инструмент для уборки в саду",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/instrument-dlya-uborki-v-sadu",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128829"
                     },
                     {
@@ -15657,7 +16663,7 @@
                         "parent": 128771,
                         "name": "Инструменты для уборки снега и реагенты",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/instrumenty-dlya-uborki-snega-i-reagenty",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128830"
                     },
                     {
@@ -15665,7 +16671,7 @@
                         "parent": 128771,
                         "name": "Компостеры садовые",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/kompostery-sadovye",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=3135"
                     },
                     {
@@ -15673,7 +16679,7 @@
                         "parent": 128771,
                         "name": "Мелкий садовый инструмент",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/melkiy-sadoviy-instrument",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128832"
                     },
                     {
@@ -15681,7 +16687,7 @@
                         "parent": 128771,
                         "name": "Садовые средства защиты",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/sadovye-sredstva-zashchity",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128833"
                     },
                     {
@@ -15689,7 +16695,7 @@
                         "parent": 128771,
                         "name": "Садовый режущий инструмент",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/sadoviy-rezhushchiy-instrument",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128834"
                     },
                     {
@@ -15697,7 +16703,7 @@
                         "parent": 128771,
                         "name": "Тачки и тележки садовые",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/tachki-i-telezhki-sadovye",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128835"
                     },
                     {
@@ -15705,7 +16711,7 @@
                         "parent": 128771,
                         "name": "Хранение садового инструмента",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/hranenie-sadovogo-instrumenta",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128836"
                     },
                     {
@@ -15713,7 +16719,7 @@
                         "parent": 128771,
                         "name": "Инструменты для пасечников",
                         "url": "/catalog/dom/dachniy-sezon/sadoviy-instrument/instrumenty-dlya-pasechnikov",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128837"
                     }
                 ]
@@ -15723,7 +16729,7 @@
                 "parent": 4863,
                 "name": "Теплицы, парники, укрывной материал",
                 "url": "/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material",
-                "shard": "garden7",
+                "shard": "garden9",
                 "query": "cat=128772",
                 "childs": [
                     {
@@ -15731,7 +16737,7 @@
                         "parent": 128772,
                         "name": "Парники и аксессуары",
                         "url": "/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material/parniki-i-aksessuary",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128807"
                     },
                     {
@@ -15739,7 +16745,7 @@
                         "parent": 128772,
                         "name": "Сетки затеняющие",
                         "url": "/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material/setki-zatenyayushchie",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=5219"
                     },
                     {
@@ -15747,7 +16753,7 @@
                         "parent": 128772,
                         "name": "Теплицы и аксессуары",
                         "url": "/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material/teplitsy-i-aksessuary",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128809"
                     },
                     {
@@ -15755,7 +16761,7 @@
                         "parent": 128772,
                         "name": "Укрывные материалы",
                         "url": "/catalog/dom/dachniy-sezon/teplitsy-parniki-ukryvnoy-material/ukryvnye-materialy",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128810"
                     }
                 ]
@@ -15766,7 +16772,7 @@
                 "name": "Товары для бани и сауны",
                 "seo": "Товары для бани",
                 "url": "/catalog/dom-i-dacha/tovary-dlya-bani",
-                "shard": "garden7",
+                "shard": "garden9",
                 "query": "cat=8744",
                 "childs": [
                     {
@@ -15774,7 +16780,7 @@
                         "parent": 8744,
                         "name": "Банный текстиль",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/banniy-tekstil",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128844"
                     },
                     {
@@ -15782,7 +16788,7 @@
                         "parent": 8744,
                         "name": "Веники для бани",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/veniki-dlya-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=2010"
                     },
                     {
@@ -15790,7 +16796,7 @@
                         "parent": 8744,
                         "name": "Тапочки для бани",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/tapochki-dlya-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=1840"
                     },
                     {
@@ -15798,7 +16804,7 @@
                         "parent": 8744,
                         "name": "Банные массажеры",
                         "url": "/catalog/sad-i-dacha/tovary-dlya-bani-i-sauny/bannye-massazhery",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=6893"
                     },
                     {
@@ -15806,7 +16812,7 @@
                         "parent": 8744,
                         "name": "Наборы аксессуаров для бани",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/nabory-aksessuarov-dlya-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=1002"
                     },
                     {
@@ -15814,7 +16820,7 @@
                         "parent": 8744,
                         "name": "Масла, запарки и соль для бани",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/masla-zaparki-i-sol-dlya-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128848"
                     },
                     {
@@ -15822,7 +16828,7 @@
                         "parent": 8744,
                         "name": "Камни для бани",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/kamni-dlya-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=4332"
                     },
                     {
@@ -15830,7 +16836,7 @@
                         "parent": 8744,
                         "name": "Окна для бани",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/okna-dlya-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=3735"
                     },
                     {
@@ -15838,7 +16844,7 @@
                         "parent": 8744,
                         "name": "Обустройство бани",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/obustroystvo-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128852"
                     },
                     {
@@ -15846,7 +16852,7 @@
                         "parent": 8744,
                         "name": "Освещение для бани",
                         "url": "/catalog/dom-i-dacha/tovary-dlya-bani/osveshchenie-dlya-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=7207"
                     },
                     {
@@ -15854,7 +16860,7 @@
                         "parent": 8744,
                         "name": "Предметы интерьера бани",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/predmety-interera-bani",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128853"
                     },
                     {
@@ -15862,7 +16868,7 @@
                         "parent": 8744,
                         "name": "Аксессуары для дров и золы",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/aksessuary-dlya-drov-i-zoly",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128854"
                     },
                     {
@@ -15870,7 +16876,7 @@
                         "parent": 8744,
                         "name": "Портативная паровая баня",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-bani/portativnaya-parovaya-banya",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=3730"
                     },
                     {
@@ -15878,7 +16884,7 @@
                         "parent": 8744,
                         "name": "Средства для ухода за баней и сауной",
                         "url": "/catalog/sad-i-dacha/tovary-dlya-bani-i-sauny/sredstva-dlya-uhoda-za-baney-i-saunoy",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128863"
                     }
                 ]
@@ -15888,7 +16894,7 @@
                 "parent": 4863,
                 "name": "Товары для кемпинга, пикника и отдыха",
                 "url": "/catalog/dom/dachniy-sezon/tovary-dlya-kempinga-piknika-i-otdyha",
-                "shard": "garden7",
+                "shard": "garden9",
                 "query": "cat=128774",
                 "childs": [
                     {
@@ -15896,7 +16902,7 @@
                         "parent": 128774,
                         "name": "Надувная мебель",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-kempinga-piknika-i-otdyha/naduvnaya-mebel",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128811"
                     },
                     {
@@ -15904,7 +16910,7 @@
                         "parent": 128774,
                         "name": "Аксессуары для кемпинга",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-kempinga-piknika-i-otdyha/aksessuary-dlya-kempinga",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128812"
                     },
                     {
@@ -15912,7 +16918,7 @@
                         "parent": 128774,
                         "name": "Аксессуары для пикника",
                         "url": "/catalog/sad-i-dacha/tovary-dlya-kempinga-piknika-i-otdyha/aksessuary-dlya-piknika",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128873"
                     },
                     {
@@ -15920,7 +16926,7 @@
                         "parent": 128774,
                         "name": "Аксессуары для отдыха",
                         "url": "/catalog/dom/dachniy-sezon/tovary-dlya-kempinga-piknika-i-otdyha/aksessuary-dlya-otdyha",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "cat=128813"
                     },
                     {
@@ -15947,7 +16953,7 @@
                         "parent": 128773,
                         "name": "Побелка садовая",
                         "url": "/catalog/sad-i-dacha/udobreniya-himikaty-i-sredstva-zashchity/pobelka-sadovaya",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=6895"
                     },
                     {
@@ -15955,7 +16961,7 @@
                         "parent": 128773,
                         "name": "Средства от сорняков",
                         "url": "/catalog/sad-i-dacha/udobreniya-himikaty-i-sredstva-zashchity/sredstva-ot-sornyakov",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=6894"
                     },
                     {
@@ -15963,7 +16969,7 @@
                         "parent": 128773,
                         "name": "Средства для борьбы с грызунами",
                         "url": "/catalog/dom/dachniy-sezon/udobreniya-himikaty-i-sredstva-zashchity/sredstva-dlya-borby-s-gryzunami",
-                        "shard": "garden7",
+                        "shard": "garden9",
                         "query": "subject=2357"
                     },
                     {
@@ -16015,7 +17021,7 @@
         "name": "Здоровье",
         "seo": "Товары для здоровья",
         "url": "/catalog/dom-i-dacha/zdorove",
-        "shard": "shealth1",
+        "shard": "shealth8",
         "query": "subject=5222",
         "landing": true,
         "childs": [
@@ -16042,7 +17048,7 @@
                 "name": "Дезинфекция, стерилизация и утилизация",
                 "seo": "Антибактериальные и антисептические препараты",
                 "url": "/catalog/dom-i-dacha/zdorove/lekarstvennye-preparaty/antibakterialnye-i-antisepticheskie-preparaty",
-                "shard": "shealth1",
+                "shard": "shealth8",
                 "query": "cat=10331"
             },
             {
@@ -16058,7 +17064,7 @@
                 "parent": 10326,
                 "name": "Контрацептивы и лубриканты",
                 "url": "/catalog/dom-i-dacha/zdorove/kontratseptivy-i-lubrikanty",
-                "shard": "shealth1",
+                "shard": "shealth8",
                 "query": "cat=10328"
             },
             {
@@ -16066,7 +17072,7 @@
                 "parent": 10326,
                 "name": "Лечебное питание ",
                 "url": "/catalog/zdorove/lechebnoe-pitanie-",
-                "shard": "shealth5",
+                "shard": "shealth7",
                 "query": "subject=5520"
             },
             {
@@ -16092,7 +17098,7 @@
                 "parent": 10326,
                 "name": "Медицинские приборы",
                 "url": "/catalog/dom-i-dacha/zdorove/meditsinskie-izdeliya-i-pribory/meditsinskie-pribory",
-                "shard": "shealth5",
+                "shard": "shealth7",
                 "query": "cat=62257"
             },
             {
@@ -16100,7 +17106,7 @@
                 "parent": 10326,
                 "name": "Оздоровление",
                 "url": "/catalog/zdorove/ozdorovlenie",
-                "shard": "shealth5",
+                "shard": "shealth7",
                 "query": "cat=63007"
             },
             {
@@ -16118,7 +17124,7 @@
                 "name": "Ортопедия",
                 "seo": "Товары для ортопедии",
                 "url": "/catalog/dom-i-dacha/zdorove/ortopediya",
-                "shard": "shealth5",
+                "shard": "shealth7",
                 "query": "cat=5515",
                 "childs": [
                     {
@@ -16127,7 +17133,7 @@
                         "name": "Бандажи и ортезы",
                         "seo": "Ортопедические бандажи и компрессионное белье",
                         "url": "/catalog/dom-i-dacha/zdorove/ortopediya/bandazhi-i-kompressionnoe-bele",
-                        "shard": "shealth5",
+                        "shard": "shealth7",
                         "query": "cat=5516"
                     },
                     {
@@ -16135,7 +17141,7 @@
                         "parent": 5515,
                         "name": "Компрессионный трикотаж",
                         "url": "/catalog/zdorove/ortopediya/kompressionniy-trikotazh",
-                        "shard": "shealth5",
+                        "shard": "shealth7",
                         "query": "cat=62005"
                     },
                     {
@@ -16144,7 +17150,7 @@
                         "name": "Обувь",
                         "seo": "Ортопедическая обувь",
                         "url": "/catalog/dom-i-dacha/zdorove/ortopediya/obuv",
-                        "shard": "shealth5",
+                        "shard": "shealth7",
                         "query": "cat=5518"
                     },
                     {
@@ -16153,7 +17159,7 @@
                         "name": "Стельки и супинаторы",
                         "seo": "Ортопедические стельки и супинаторы",
                         "url": "/catalog/dom-i-dacha/zdorove/ortopediya/stelki-i-supinatory",
-                        "shard": "shealth5",
+                        "shard": "shealth7",
                         "query": "cat=9176"
                     },
                     {
@@ -16161,7 +17167,7 @@
                         "parent": 5515,
                         "name": "Товары после мастэктомии",
                         "url": "/catalog/zdorove/tovary-posle-mastektomii",
-                        "shard": "shealth5",
+                        "shard": "shealth7",
                         "query": "cat=62003"
                     }
                 ]
@@ -16172,7 +17178,7 @@
                 "name": "Реабилитация",
                 "seo": "Средства для реабилитации",
                 "url": "/catalog/zdorove/meditsinskie-izdeliya-i-pribory/sredstva-reabilitatsii",
-                "shard": "shealth5",
+                "shard": "shealth7",
                 "query": "cat=61809"
             },
             {
@@ -16180,7 +17186,7 @@
                 "parent": 10326,
                 "name": "Сиропы и бальзамы",
                 "url": "/catalog/dom-i-dacha/zdorove/siropy-i-balzamy",
-                "shard": "shealth5",
+                "shard": "shealth7",
                 "query": "cat=130371"
             },
             {
@@ -16188,7 +17194,7 @@
                 "parent": 10326,
                 "name": "Уход за полостью рта",
                 "url": "/catalog/zdorove/uhod-za-polostyu-rta",
-                "shard": "shealth1",
+                "shard": "shealth8",
                 "query": "cat=63058"
             }
         ]
@@ -16265,11 +17271,6 @@
                 "query": "cat=17165"
             }
         ]
-    },
-    {
-        "id": 2192,
-        "name": "Акции",
-        "url": "/promotions"
     },
     {
         "id": 12,
@@ -16703,6 +17704,11 @@
                 "url": "https://digital.wildberries.ru/catalog/services"
             }
         ]
+    },
+    {
+        "id": 2192,
+        "name": "Акции",
+        "url": "/promotions"
     },
     {
         "id": 130255,

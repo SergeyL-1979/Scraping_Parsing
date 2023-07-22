@@ -1,0 +1,4311 @@
+{
+    "0": {
+        "success": true,
+        "messages": [],
+        "body": {
+            "products": [
+                {
+                    "productId": "10029827",
+                    "name": "Кольцевая лампа Red Line RL-2 (УТ000026630)",
+                    "nameTranslit": "kolcevaya-lampa-red-line-rl-2-ut000026630",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10029827",
+                    "materialSource": "ERP",
+                    "modelName": "RL-2 (УТ000026630)",
+                    "rating": {
+                        "star": 5,
+                        "count": 4,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10029827b.jpg",
+                    "brandId": "2118",
+                    "brandName": "Red Line",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10029827.jpg",
+                        "Pdb/10029827b.jpg",
+                        "Pdb/10029827b1.jpg",
+                        "Pdb/10029827b2.jpg",
+                        "Pdb/10029827b20.jpg",
+                        "Pdb/10029827b21.jpg",
+                        "Pdb/10029827b22.jpg",
+                        "Pdb/10029827b23.jpg",
+                        "Pdb/10029827b24.jpg",
+                        "Pdb/10029827b25.jpg",
+                        "Pdb/10029827b26.jpg",
+                        "Pdb/10029827b3.jpg",
+                        "Pdb/10029827s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10029826",
+                    "name": "Кольцевая лампа Red Line RL-1 (УТ000026629)",
+                    "nameTranslit": "kolcevaya-lampa-red-line-rl-1-ut000026629",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10029826",
+                    "materialSource": "ERP",
+                    "modelName": "RL-1 (УТ000026629)",
+                    "rating": {
+                        "star": 5,
+                        "count": 2,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10029826b.jpg",
+                    "brandId": "2118",
+                    "brandName": "Red Line",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10029826.jpg",
+                        "Pdb/10029826b.jpg",
+                        "Pdb/10029826b1.jpg",
+                        "Pdb/10029826b2.jpg",
+                        "Pdb/10029826b20.jpg",
+                        "Pdb/10029826b21.jpg",
+                        "Pdb/10029826b22.jpg",
+                        "Pdb/10029826b23.jpg",
+                        "Pdb/10029826b24.jpg",
+                        "Pdb/10029826b25.jpg",
+                        "Pdb/10029826b26.jpg",
+                        "Pdb/10029826s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10023795",
+                    "name": "Микрофон AKG C44-USB Lyra",
+                    "nameTranslit": "mikrofon-akg-c44-usb-lyra",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10023795",
+                    "materialSource": "ERP",
+                    "modelName": "C44-USB Lyra",
+                    "rating": {
+                        "star": 4.6,
+                        "count": 10,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10023795b.jpg",
+                    "brandId": "1926",
+                    "brandName": "AKG",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10023795.jpg",
+                        "Pdb/10023795b.jpg",
+                        "Pdb/10023795b1.jpg",
+                        "Pdb/10023795b2.jpg",
+                        "Pdb/10023795b3.jpg",
+                        "Pdb/10023795b4.jpg",
+                        "Pdb/10023795b5.jpg",
+                        "Pdb/10023795b6.jpg",
+                        "Pdb/10023795s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "2",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10030042",
+                    "name": "Микрофон Barn&Hollis mmi-5, с разъемом Lightning (УТ000029449)",
+                    "nameTranslit": "mikrofon-barnhollis-mmi-5-s-razemom-lightning-ut000029449",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10030042",
+                    "materialSource": "ERP",
+                    "modelName": "mmi-5, с разъемом Lightning (УТ000029449)",
+                    "rating": {
+                        "star": 5,
+                        "count": 2,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10030042b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10030042.jpg",
+                        "Pdb/10030042b.jpg",
+                        "Pdb/10030042b1.jpg",
+                        "Pdb/10030042b2.jpg",
+                        "Pdb/10030042s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "58",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        },
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10029953",
+                    "name": "Селфи-светильник Barn&Hollis CL4 Black (УТ000026634)",
+                    "nameTranslit": "selfi-svetilnik-barnhollis-cl4-black-ut000026634",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10029953",
+                    "materialSource": "ERP",
+                    "modelName": "CL4 Black (УТ000026634)",
+                    "rating": {
+                        "star": 5,
+                        "count": 2,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10029953b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10029953.jpg",
+                        "Pdb/10029953b.jpg",
+                        "Pdb/10029953b1.jpg",
+                        "Pdb/10029953b20.jpg",
+                        "Pdb/10029953b21.jpg",
+                        "Pdb/10029953b22.jpg",
+                        "Pdb/10029953b23.jpg",
+                        "Pdb/10029953b24.jpg",
+                        "Pdb/10029953b26.jpg",
+                        "Pdb/10029953s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10028906",
+                    "name": "Товары для блогеров Red Line RL-3 Black",
+                    "nameTranslit": "tovary-dlya-blogerov-red-line-rl-3-black",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10028906",
+                    "materialSource": "ERP",
+                    "modelName": "RL-3 Black",
+                    "rating": {
+                        "star": 5,
+                        "count": 1,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10028906b.jpg",
+                    "brandId": "2118",
+                    "brandName": "Red Line",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10028906.jpg",
+                        "Pdb/10028906b.jpg",
+                        "Pdb/10028906b1.jpg",
+                        "Pdb/10028906b2.jpg",
+                        "Pdb/10028906b3.jpg",
+                        "Pdb/10028906s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10029952",
+                    "name": "Селфи-светильник Barn&Hollis CL4 White (УТ000026633)",
+                    "nameTranslit": "selfi-svetilnik-barnhollis-cl4-white-ut000026633",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10029952",
+                    "materialSource": "ERP",
+                    "modelName": "CL4 White (УТ000026633)",
+                    "rating": {
+                        "star": 5,
+                        "count": 2,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10029952b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10029952.jpg",
+                        "Pdb/10029952b.jpg",
+                        "Pdb/10029952b1.jpg",
+                        "Pdb/10029952b20.jpg",
+                        "Pdb/10029952b21.jpg",
+                        "Pdb/10029952b22.jpg",
+                        "Pdb/10029952b23.jpg",
+                        "Pdb/10029952b24.jpg",
+                        "Pdb/10029952b26.jpg",
+                        "Pdb/10029952s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10028843",
+                    "name": "Товары для блогеров Barn&Hollis mini jack 3.5mm Aux петличный",
+                    "nameTranslit": "tovary-dlya-blogerov-barnhollis-mini-jack-35mm-aux-petlichnyi",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10028843",
+                    "materialSource": "ERP",
+                    "modelName": "mini jack 3.5mm Aux петличный",
+                    "rating": {
+                        "star": 5,
+                        "count": 1,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10028843b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10028843.jpg",
+                        "Pdb/10028843b.jpg",
+                        "Pdb/10028843b1.jpg",
+                        "Pdb/10028843b2.jpg",
+                        "Pdb/10028843b3.jpg",
+                        "Pdb/10028843s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10028608",
+                    "name": "Товары для блогеров Rekam RL-26 LED RGB Table Kit",
+                    "nameTranslit": "tovary-dlya-blogerov-rekam-rl-26-led-rgb-table-kit",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10028608",
+                    "materialSource": "ERP",
+                    "modelName": "RL-26 LED RGB Table Kit",
+                    "rating": {
+                        "star": 4,
+                        "count": 1,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10028608b.jpg",
+                    "brandId": "396",
+                    "brandName": "Rekam",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10028608.jpg",
+                        "Pdb/10028608b.jpg",
+                        "Pdb/10028608b1.jpg",
+                        "Pdb/10028608b2.jpg",
+                        "Pdb/10028608b3.jpg",
+                        "Pdb/10028608b4.jpg",
+                        "Pdb/10028608s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "400147047",
+                    "name": "Многофункц. петличный микрофон для iPhone с интерфейсом Lightning SIG.LAV V05 MI CoMica SIG.LAV V05 MI",
+                    "nameTranslit": "mnogofunkc-petlichnyi-mikrofon-dlya-iphone-s-interfeisom-lightning-siglav-v05-mi-comica-siglav-v05-mi",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147047",
+                    "materialSource": "ERP",
+                    "modelName": "SIG.LAV V05 MI",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147047b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147047.jpg",
+                        "Pdb/400147047b.jpg",
+                        "Pdb/400147047b1.jpg",
+                        "Pdb/400147047b2.jpg",
+                        "Pdb/400147047b3.jpg",
+                        "Pdb/400147047b4.jpg",
+                        "Pdb/400147047b5.jpg",
+                        "Pdb/400147047s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 18 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10025488",
+                    "name": "Умный стабилизатор Pivo Pod Red (NPV)",
+                    "nameTranslit": "umnyi-stabilizator-pivo-pod-red-npv",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10025488",
+                    "materialSource": "ERP",
+                    "modelName": "Pod Red (NPV)",
+                    "rating": {
+                        "star": 5,
+                        "count": 7,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10025488b.jpg",
+                    "brandId": "6899",
+                    "brandName": "Pivo",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10025488.jpg",
+                        "Pdb/10025488b.jpg",
+                        "Pdb/10025488b1.jpg",
+                        "Pdb/10025488b2.jpg",
+                        "Pdb/10025488b3.jpg",
+                        "Pdb/10025488b4.jpg",
+                        "Pdb/10025488s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10030041",
+                    "name": "Микрофон Barn&Hollis mmi-4, с разъемом Type-C (УТ000029448)",
+                    "nameTranslit": "mikrofon-barnhollis-mmi-4-s-razemom-type-c-ut000029448",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10030041",
+                    "materialSource": "ERP",
+                    "modelName": "mmi-4, с разъемом Type-C (УТ000029448)",
+                    "rating": {
+                        "star": 5,
+                        "count": 3,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10030041b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10030041.jpg",
+                        "Pdb/10030041b.jpg",
+                        "Pdb/10030041b1.jpg",
+                        "Pdb/10030041b2.jpg",
+                        "Pdb/10030041s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "58",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        },
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "1.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10030169",
+                    "name": "Микрофон Barn&Hollis LM-05 (УТ000029857)",
+                    "nameTranslit": "mikrofon-barnhollis-lm-05-ut000029857",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10030169",
+                    "materialSource": "ERP",
+                    "modelName": "LM-05 (УТ000029857)",
+                    "rating": {
+                        "star": 4.5,
+                        "count": 2,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10030169b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10030169.jpg",
+                        "Pdb/10030169b.jpg",
+                        "Pdb/10030169s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10025573",
+                    "name": "Комплект постоянного света для смартфона Rekam RL-20 LED Kit",
+                    "nameTranslit": "komplekt-postoyannogo-sveta-dlya-smartfona-rekam-rl-20-led-kit",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10025573",
+                    "materialSource": "ERP",
+                    "modelName": "RL-20 LED Kit",
+                    "rating": {
+                        "star": 4,
+                        "count": 1,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10025573b.jpg",
+                    "brandId": "396",
+                    "brandName": "Rekam",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10025573.jpg",
+                        "Pdb/10025573b.jpg",
+                        "Pdb/10025573b1.jpg",
+                        "Pdb/10025573b2.jpg",
+                        "Pdb/10025573s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10028609",
+                    "name": "Товары для блогеров Rekam RL-26 LED RGB 190 Kit",
+                    "nameTranslit": "tovary-dlya-blogerov-rekam-rl-26-led-rgb-190-kit",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10028609",
+                    "materialSource": "ERP",
+                    "modelName": "RL-26 LED RGB 190 Kit",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10028609b.jpg",
+                    "brandId": "396",
+                    "brandName": "Rekam",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10028609.jpg",
+                        "Pdb/10028609b.jpg",
+                        "Pdb/10028609b1.jpg",
+                        "Pdb/10028609b2.jpg",
+                        "Pdb/10028609b3.jpg",
+                        "Pdb/10028609s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10025572",
+                    "name": "Лампа светодиодная с держателем для смартфона Rekam LED-10s",
+                    "nameTranslit": "lampa-svetodiodnaya-s-derzhatelem-dlya-smartfona-rekam-led-10s",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10025572",
+                    "materialSource": "ERP",
+                    "modelName": "LED-10s",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10025572b.jpg",
+                    "brandId": "396",
+                    "brandName": "Rekam",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10025572.jpg",
+                        "Pdb/10025572b.jpg",
+                        "Pdb/10025572b1.jpg",
+                        "Pdb/10025572b2.jpg",
+                        "Pdb/10025572b3.jpg",
+                        "Pdb/10025572s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "400147078",
+                    "name": "Петличный микрофон для камеры и смартфона SIG.LAV V03 CoMica SIG.LAV V03",
+                    "nameTranslit": "petlichnyi-mikrofon-dlya-kamery-i-smartfona-siglav-v03-comica-siglav-v03",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147078",
+                    "materialSource": "ERP",
+                    "modelName": "SIG.LAV V03",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147078b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147078.jpg",
+                        "Pdb/400147078b.jpg",
+                        "Pdb/400147078b1.jpg",
+                        "Pdb/400147078b2.jpg",
+                        "Pdb/400147078b3.jpg",
+                        "Pdb/400147078b4.jpg",
+                        "Pdb/400147078b5.jpg",
+                        "Pdb/400147078s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 18 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "23",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147069",
+                    "name": "Петличный микрофон для смартфона с интерфейсом USB V01SP (UC) (4.5m) CoMica V01SP (UC) (4.5m)",
+                    "nameTranslit": "petlichnyi-mikrofon-dlya-smartfona-s-interfeisom-usb-v01sp-uc-45m-comica-v01sp-uc-45m",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147069",
+                    "materialSource": "ERP",
+                    "modelName": "V01SP (UC) (4.5m)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147069b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147069.jpg",
+                        "Pdb/400147069b.jpg",
+                        "Pdb/400147069b1.jpg",
+                        "Pdb/400147069s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        },
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "4.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147066",
+                    "name": "Петличный микрофон для интерфейса USB-C CVM-SIG.LAV V05 UC CoMica CVM-SIG.LAV V05 UC",
+                    "nameTranslit": "petlichnyi-mikrofon-dlya-interfeisa-usb-c-cvm-siglav-v05-uc-comica-cvm-siglav-v05-uc",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147066",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-SIG.LAV V05 UC",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147066b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147066.jpg",
+                        "Pdb/400147066b.jpg",
+                        "Pdb/400147066b1.jpg",
+                        "Pdb/400147066b2.jpg",
+                        "Pdb/400147066b3.jpg",
+                        "Pdb/400147066b4.jpg",
+                        "Pdb/400147066b5.jpg",
+                        "Pdb/400147066b6.jpg",
+                        "Pdb/400147066b7.jpg",
+                        "Pdb/400147066b8.jpg",
+                        "Pdb/400147066s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 18 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10025574",
+                    "name": "Комплект постоянного света для смартфона Rekam RL-20 LED Table Kit",
+                    "nameTranslit": "komplekt-postoyannogo-sveta-dlya-smartfona-rekam-rl-20-led-table-kit",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10025574",
+                    "materialSource": "ERP",
+                    "modelName": "RL-20 LED Table Kit",
+                    "rating": {
+                        "star": 5,
+                        "count": 3,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10025574b.jpg",
+                    "brandId": "396",
+                    "brandName": "Rekam",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10025574.jpg",
+                        "Pdb/10025574b.jpg",
+                        "Pdb/10025574b1.jpg",
+                        "Pdb/10025574b2.jpg",
+                        "Pdb/10025574b3.jpg",
+                        "Pdb/10025574b4.jpg",
+                        "Pdb/10025574s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10025576",
+                    "name": "Комплект постоянного света для смартфона Rekam RL-26 LED Table Kit",
+                    "nameTranslit": "komplekt-postoyannogo-sveta-dlya-smartfona-rekam-rl-26-led-table-kit",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10025576",
+                    "materialSource": "ERP",
+                    "modelName": "RL-26 LED Table Kit",
+                    "rating": {
+                        "star": 5,
+                        "count": 3,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10025576b.jpg",
+                    "brandId": "396",
+                    "brandName": "Rekam",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10025576.jpg",
+                        "Pdb/10025576b.jpg",
+                        "Pdb/10025576b1.jpg",
+                        "Pdb/10025576b2.jpg",
+                        "Pdb/10025576b3.jpg",
+                        "Pdb/10025576b4.jpg",
+                        "Pdb/10025576b5.jpg",
+                        "Pdb/10025576b6.jpg",
+                        "Pdb/10025576b7.jpg",
+                        "Pdb/10025576s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10030166",
+                    "name": "Микрофон Barn&Hollis LM01С с разъемом Type-C (УТ000029447)",
+                    "nameTranslit": "mikrofon-barnhollis-lm01s-s-razemom-type-c-ut000029447",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10030166",
+                    "materialSource": "ERP",
+                    "modelName": "LM01С с разъемом Type-C (УТ000029447)",
+                    "rating": {
+                        "star": 3.6666666666666665,
+                        "count": 3,
+                        "percent": 71
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10030166b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10030166.jpg",
+                        "Pdb/10030166b.jpg",
+                        "Pdb/10030166s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10028666",
+                    "name": "Товары для блогеров Samson G-track PRO",
+                    "nameTranslit": "tovary-dlya-blogerov-samson-g-track-pro",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10028666",
+                    "materialSource": "ERP",
+                    "modelName": "G-track PRO",
+                    "rating": {
+                        "star": 5,
+                        "count": 2,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10028666b.jpg",
+                    "brandId": "9192",
+                    "brandName": "Samson",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10028666.jpg",
+                        "Pdb/10028666b.jpg",
+                        "Pdb/10028666b1.jpg",
+                        "Pdb/10028666b10.jpg",
+                        "Pdb/10028666b11.jpg",
+                        "Pdb/10028666b2.jpg",
+                        "Pdb/10028666b3.jpg",
+                        "Pdb/10028666b4.jpg",
+                        "Pdb/10028666b5.jpg",
+                        "Pdb/10028666b6.jpg",
+                        "Pdb/10028666b7.jpg",
+                        "Pdb/10028666b8.jpg",
+                        "Pdb/10028666b9.jpg",
+                        "Pdb/10028666s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        }
+                    ]
+                },
+                {
+                    "productId": "10029626",
+                    "name": "Видеокамера для блогера DJI Action 2 Power Combo (CP.OS.00000197.01)",
+                    "nameTranslit": "videokamera-dlya-blogera-dji-action-2-power-combo-cpos0000019701",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10029626",
+                    "materialSource": "ERP",
+                    "modelName": "Action 2 Power Combo (CP.OS.00000197.01)",
+                    "rating": {
+                        "star": 5,
+                        "count": 2,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10029626b.jpg",
+                    "brandId": "2059",
+                    "brandName": "DJI",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "23777",
+                        "name": "Видеокамеры для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10029626.jpg",
+                        "Pdb/10029626b.jpg",
+                        "Pdb/10029626b1.jpg",
+                        "Pdb/10029626b2.jpg",
+                        "Pdb/10029626b3.jpg",
+                        "Pdb/10029626b4.jpg",
+                        "Pdb/10029626b5.jpg",
+                        "Pdb/10029626b6.jpg",
+                        "Pdb/10029626s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 619438,
+                            "name": "Разрешение матрицы",
+                            "value": "12",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 1,
+                            "measure": "МПикс"
+                        },
+                        {
+                            "id": 304,
+                            "name": "Качество видеосъемки",
+                            "value": "4096×3072 Пикс",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 135,
+                            "name": "Встроенный модуль Bluetooth",
+                            "value": "5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 327,
+                            "name": "Диагональ дисплея",
+                            "value": "1.76",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 6,
+                            "measure": "\""
+                        },
+                        {
+                            "id": 1007,
+                            "name": "Встроенный динамик",
+                            "value": "Да",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 7,
+                            "measure": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "1": {
+        "success": true,
+        "messages": [],
+        "body": {
+            "products": [
+                {
+                    "productId": "10030170",
+                    "name": "Микрофон Barn&Hollis LM-07 (УТ000029858)",
+                    "nameTranslit": "mikrofon-barnhollis-lm-07-ut000029858",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10030170",
+                    "materialSource": "ERP",
+                    "modelName": "LM-07 (УТ000029858)",
+                    "rating": {
+                        "star": 4.5,
+                        "count": 2,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10030170b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10030170.jpg",
+                        "Pdb/10030170b.jpg",
+                        "Pdb/10030170s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10030168",
+                    "name": "Микрофон Barn&Hollis LM-03 с кронштейном (УТ000029445)",
+                    "nameTranslit": "mikrofon-barnhollis-lm-03-s-kronshteinom-ut000029445",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10030168",
+                    "materialSource": "ERP",
+                    "modelName": "LM-03 с кронштейном (УТ000029445)",
+                    "rating": {
+                        "star": 4.5,
+                        "count": 2,
+                        "percent": 91
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10030168b.jpg",
+                    "brandId": "4444",
+                    "brandName": "Barn&Hollis",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10030168.jpg",
+                        "Pdb/10030168b.jpg",
+                        "Pdb/10030168s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10028661",
+                    "name": "Товары для блогеров Samson Go Mic",
+                    "nameTranslit": "tovary-dlya-blogerov-samson-go-mic",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10028661",
+                    "materialSource": "ERP",
+                    "modelName": "Go Mic",
+                    "rating": {
+                        "star": 5,
+                        "count": 1,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10028661b.jpg",
+                    "brandId": "9192",
+                    "brandName": "Samson",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10028661.jpg",
+                        "Pdb/10028661b.jpg",
+                        "Pdb/10028661b1.jpg",
+                        "Pdb/10028661b10.jpg",
+                        "Pdb/10028661b11.jpg",
+                        "Pdb/10028661b12.jpg",
+                        "Pdb/10028661b2.jpg",
+                        "Pdb/10028661b3.jpg",
+                        "Pdb/10028661b4.jpg",
+                        "Pdb/10028661b5.jpg",
+                        "Pdb/10028661b6.jpg",
+                        "Pdb/10028661b7.jpg",
+                        "Pdb/10028661b8.jpg",
+                        "Pdb/10028661b9.jpg",
+                        "Pdb/10028661s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "круговая/ кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "-47",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "50146469",
+                    "name": "Товары для блогеров Pivo Smart Mount для P.Pod (SM)",
+                    "nameTranslit": "tovary-dlya-blogerov-pivo-smart-mount-dlya-ppod-sm",
+                    "productType": "ACSS",
+                    "usedProductType": null,
+                    "materialCisNumber": "50146469",
+                    "materialSource": "ERP",
+                    "modelName": "Smart Mount для P.Pod (SM)",
+                    "rating": {
+                        "star": 5,
+                        "count": 1,
+                        "percent": 101
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/50146469b.jpg",
+                    "brandId": "6899",
+                    "brandName": "Pivo",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/50146469.jpg",
+                        "Pdb/50146469b.jpg",
+                        "Pdb/50146469b1.jpg",
+                        "Pdb/50146469b2.jpg",
+                        "Pdb/50146469b20.jpg",
+                        "Pdb/50146469b21.jpg",
+                        "Pdb/50146469b22.jpg",
+                        "Pdb/50146469b26.jpg",
+                        "Pdb/50146469b3.jpg",
+                        "Pdb/50146469b4.jpg",
+                        "Pdb/50146469b5.jpg",
+                        "Pdb/50146469b6.jpg",
+                        "Pdb/50146469s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10025575",
+                    "name": "Комплект постоянного света для смартфона Rekam RL-26 LED Kit",
+                    "nameTranslit": "komplekt-postoyannogo-sveta-dlya-smartfona-rekam-rl-26-led-kit",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10025575",
+                    "materialSource": "ERP",
+                    "modelName": "RL-26 LED Kit",
+                    "rating": {
+                        "star": 4,
+                        "count": 1,
+                        "percent": 81
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10025575b.jpg",
+                    "brandId": "396",
+                    "brandName": "Rekam",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10025575.jpg",
+                        "Pdb/10025575b.jpg",
+                        "Pdb/10025575b1.jpg",
+                        "Pdb/10025575b2.jpg",
+                        "Pdb/10025575s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "10024334",
+                    "name": "Кабель Atcom Jack 6.3 mm - XLR (AT8003)",
+                    "nameTranslit": "kabel-atcom-jack-63-mm---xlr-at8003",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10024334",
+                    "materialSource": "ERP",
+                    "modelName": "Jack 6.3 mm - XLR (AT8003)",
+                    "rating": {
+                        "star": 3,
+                        "count": 1,
+                        "percent": 61
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10024334b.jpg",
+                    "brandId": "4729",
+                    "brandName": "Atcom",
+                    "status": {
+                        "showCase": true,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10024334.jpg",
+                        "Pdb/10024334b.jpg",
+                        "Pdb/10024334s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "3",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10027346",
+                    "name": "Лампа светодиодная для смартфона Rekam LED-20s",
+                    "nameTranslit": "lampa-svetodiodnaya-dlya-smartfona-rekam-led-20s",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "10027346",
+                    "materialSource": "ERP",
+                    "modelName": "LED-20s (2302000025)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/10027346b.jpg",
+                    "brandId": "396",
+                    "brandName": "Rekam",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/10027346.jpg",
+                        "Pdb/10027346b.jpg",
+                        "Pdb/10027346b1.jpg",
+                        "Pdb/10027346b2.jpg",
+                        "Pdb/10027346b3.jpg",
+                        "Pdb/10027346b4.jpg",
+                        "Pdb/10027346b5.jpg",
+                        "Pdb/10027346s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "400148097",
+                    "name": "Подставка для микрофона CVM-R2 CoMica CVM-R2",
+                    "nameTranslit": "podstavka-dlya-mikrofona-cvm-r2-comica-cvm-r2",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400148097",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-R2",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400148097b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400148097.jpg",
+                        "Pdb/400148097b.jpg",
+                        "Pdb/400148097b1.jpg",
+                        "Pdb/400148097b2.jpg",
+                        "Pdb/400148097b3.jpg",
+                        "Pdb/400148097b4.jpg",
+                        "Pdb/400148097b5.jpg",
+                        "Pdb/400148097s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "400147049",
+                    "name": "Петличный микрофон с фантомным питанием XLR CVM-V02C (1.8m) CoMica CVM-V02C (1.8m)",
+                    "nameTranslit": "petlichnyi-mikrofon-s-fantomnym-pitaniem-xlr-cvm-v02c-18m-comica-cvm-v02c-18m",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147049",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-V02C (1.8m)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147049b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147049.jpg",
+                        "Pdb/400147049b.jpg",
+                        "Pdb/400147049b1.jpg",
+                        "Pdb/400147049b2.jpg",
+                        "Pdb/400147049b3.jpg",
+                        "Pdb/400147049b4.jpg",
+                        "Pdb/400147049b5.jpg",
+                        "Pdb/400147049s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "100 - 12000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        },
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "1.8",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147046",
+                    "name": "Кардиоидный конденсаторный микрофон. Выход: XLR STM01 CoMica STM01",
+                    "nameTranslit": "kardioidnyi-kondensatornyi-mikrofon-vyhod-xlr-stm01-comica-stm01",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147046",
+                    "materialSource": "ERP",
+                    "modelName": "STM01",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147046b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147046.jpg",
+                        "Pdb/400147046b.jpg",
+                        "Pdb/400147046b1.jpg",
+                        "Pdb/400147046b2.jpg",
+                        "Pdb/400147046b3.jpg",
+                        "Pdb/400147046b4.jpg",
+                        "Pdb/400147046b5.jpg",
+                        "Pdb/400147046b6.jpg",
+                        "Pdb/400147046s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 - 20000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "89",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147044",
+                    "name": "Стереомикрофон для OSMO POCKET CVM-MT06 CoMica CVM-MT06",
+                    "nameTranslit": "stereomikrofon-dlya-osmo-pocket-cvm-mt06-comica-cvm-mt06",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147044",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-MT06",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147044b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147044.jpg",
+                        "Pdb/400147044b.jpg",
+                        "Pdb/400147044b1.jpg",
+                        "Pdb/400147044b2.jpg",
+                        "Pdb/400147044b3.jpg",
+                        "Pdb/400147044b4.jpg",
+                        "Pdb/400147044b5.jpg",
+                        "Pdb/400147044s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "30",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147045",
+                    "name": "Комплект из микрофона и подставки CVM-VM10-K3 CoMica CVM-VM10-K3",
+                    "nameTranslit": "komplekt-iz-mikrofona-i-podstavki-cvm-vm10-k3-comica-cvm-vm10-k3",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147045",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VM10-K3",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147045b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147045.jpg",
+                        "Pdb/400147045b.jpg",
+                        "Pdb/400147045b1.jpg",
+                        "Pdb/400147045b2.jpg",
+                        "Pdb/400147045b3.jpg",
+                        "Pdb/400147045b4.jpg",
+                        "Pdb/400147045b5.jpg",
+                        "Pdb/400147045s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 - 22000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "33",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147079",
+                    "name": "Комплект для смартфона с микрофоном CVM-VM10-K5 CoMica CVM-VM10-K5",
+                    "nameTranslit": "komplekt-dlya-smartfona-s-mikrofonom-cvm-vm10-k5-comica-cvm-vm10-k5",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147079",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VM10-K5",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147079b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147079.jpg",
+                        "Pdb/400147079b.jpg",
+                        "Pdb/400147079b1.jpg",
+                        "Pdb/400147079b2.jpg",
+                        "Pdb/400147079b3.jpg",
+                        "Pdb/400147079b4.jpg",
+                        "Pdb/400147079b5.jpg",
+                        "Pdb/400147079b6.jpg",
+                        "Pdb/400147079b7.jpg",
+                        "Pdb/400147079s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "33",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147075",
+                    "name": "Петличный микрофон с фантомным питанием XLR CVM-V02O (1.8m) CoMica CVM-V02O (1.8m)",
+                    "nameTranslit": "petlichnyi-mikrofon-s-fantomnym-pitaniem-xlr-cvm-v02o-18m-comica-cvm-v02o-18m",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147075",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-V02O (1.8m)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147075b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147075.jpg",
+                        "Pdb/400147075b.jpg",
+                        "Pdb/400147075b1.jpg",
+                        "Pdb/400147075b2.jpg",
+                        "Pdb/400147075b3.jpg",
+                        "Pdb/400147075b4.jpg",
+                        "Pdb/400147075b5.jpg",
+                        "Pdb/400147075s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "100 - 12000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        },
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "1.8",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147076",
+                    "name": "Комплект из микрофона и подставки CVM-VM10-K2 CoMica CVM-VM10-K2",
+                    "nameTranslit": "komplekt-iz-mikrofona-i-podstavki-cvm-vm10-k2-comica-cvm-vm10-k2",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147076",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VM10-K2",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147076b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147076.jpg",
+                        "Pdb/400147076b.jpg",
+                        "Pdb/400147076b1.jpg",
+                        "Pdb/400147076b2.jpg",
+                        "Pdb/400147076b3.jpg",
+                        "Pdb/400147076b4.jpg",
+                        "Pdb/400147076s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "33",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147073",
+                    "name": "Петличный микрофон для камеры и GoPro V01CP (6.0m) CoMica V01CP (6.0m)",
+                    "nameTranslit": "petlichnyi-mikrofon-dlya-kamery-i-gopro-v01cp-60m-comica-v01cp-60m",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147073",
+                    "materialSource": "ERP",
+                    "modelName": "V01CP (6.0m)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147073b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147073.jpg",
+                        "Pdb/400147073b.jpg",
+                        "Pdb/400147073b1.jpg",
+                        "Pdb/400147073b2.jpg",
+                        "Pdb/400147073s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147071",
+                    "name": "Кардиоидный конденсаторный USB-микрофон STA-U1 CoMica STA-U1",
+                    "nameTranslit": "kardioidnyi-kondensatornyi-usb-mikrofon-sta-u1-comica-sta-u1",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147071",
+                    "materialSource": "ERP",
+                    "modelName": "STA-U1",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147071b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147071.jpg",
+                        "Pdb/400147071b.jpg",
+                        "Pdb/400147071b1.jpg",
+                        "Pdb/400147071b2.jpg",
+                        "Pdb/400147071b3.jpg",
+                        "Pdb/400147071b4.jpg",
+                        "Pdb/400147071b5.jpg",
+                        "Pdb/400147071b6.jpg",
+                        "Pdb/400147071b7.jpg",
+                        "Pdb/400147071b8.jpg",
+                        "Pdb/400147071s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 - 20000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "70",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147070",
+                    "name": "Суперкардиоидный трансформируемый универсальный микрофон Traxshot CoMica Traxshot",
+                    "nameTranslit": "superkardioidnyi-transformiruemyi-universalnyi-mikrofon-traxshot-comica-traxshot",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147070",
+                    "materialSource": "ERP",
+                    "modelName": "Traxshot",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147070b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147070.jpg",
+                        "Pdb/400147070b.jpg",
+                        "Pdb/400147070b1.jpg",
+                        "Pdb/400147070b2.jpg",
+                        "Pdb/400147070b3.jpg",
+                        "Pdb/400147070b4.jpg",
+                        "Pdb/400147070b5.jpg",
+                        "Pdb/400147070b6.jpg",
+                        "Pdb/400147070s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "гиперкардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 - 20000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "40",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147086",
+                    "name": "Комплект из микрофона и подставки CVM-VM10-K1 CoMica CVM-VM10-K1",
+                    "nameTranslit": "komplekt-iz-mikrofona-i-podstavki-cvm-vm10-k1-comica-cvm-vm10-k1",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147086",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VM10-K1",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147086b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147086.jpg",
+                        "Pdb/400147086b.jpg",
+                        "Pdb/400147086b1.jpg",
+                        "Pdb/400147086b2.jpg",
+                        "Pdb/400147086b3.jpg",
+                        "Pdb/400147086s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "33",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147087",
+                    "name": "Беспроводной микрофон. BoomX-D PRO D1 Black CoMica BoomX-D PRO D1 Black",
+                    "nameTranslit": "besprovodnoi-mikrofon-boomx-d-pro-d1-black-comica-boomx-d-pro-d1-black",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147087",
+                    "materialSource": "ERP",
+                    "modelName": "BoomX-D PRO D1 Black",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147087b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147087.jpg",
+                        "Pdb/400147087b.jpg",
+                        "Pdb/400147087b1.jpg",
+                        "Pdb/400147087b2.jpg",
+                        "Pdb/400147087b3.jpg",
+                        "Pdb/400147087b4.jpg",
+                        "Pdb/400147087b5.jpg",
+                        "Pdb/400147087b6.jpg",
+                        "Pdb/400147087s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "динамический",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "80 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "76",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147084",
+                    "name": "Кардиоидный микрофон для смартфонов iPhone с интерфейсом Lightning VS09 MI CoMica VS09 MI",
+                    "nameTranslit": "kardioidnyi-mikrofon-dlya-smartfonov-iphone-s-interfeisom-lightning-vs09-mi-comica-vs09-mi",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147084",
+                    "materialSource": "ERP",
+                    "modelName": "VS09 MI",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147084b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147084.jpg",
+                        "Pdb/400147084b.jpg",
+                        "Pdb/400147084b1.jpg",
+                        "Pdb/400147084b2.jpg",
+                        "Pdb/400147084b3.jpg",
+                        "Pdb/400147084b4.jpg",
+                        "Pdb/400147084b5.jpg",
+                        "Pdb/400147084b6.jpg",
+                        "Pdb/400147084b7.jpg",
+                        "Pdb/400147084s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "70",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147082",
+                    "name": "Многофункц. петличный микрофон для камеры и телефона SIG.LAV V05 CoMica SIG.LAV V05",
+                    "nameTranslit": "mnogofunkc-petlichnyi-mikrofon-dlya-kamery-i-telefona-siglav-v05-comica-siglav-v05",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147082",
+                    "materialSource": "ERP",
+                    "modelName": "SIG.LAV V05",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147082b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147082.jpg",
+                        "Pdb/400147082b.jpg",
+                        "Pdb/400147082b1.jpg",
+                        "Pdb/400147082b2.jpg",
+                        "Pdb/400147082b3.jpg",
+                        "Pdb/400147082b4.jpg",
+                        "Pdb/400147082b5.jpg",
+                        "Pdb/400147082s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 18 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147083",
+                    "name": "Кардиоидный микрофон для смартфона с интерфейсом USB-C VS09 TC CoMica VS09 TC",
+                    "nameTranslit": "kardioidnyi-mikrofon-dlya-smartfona-s-interfeisom-usb-c-vs09-tc-comica-vs09-tc",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147083",
+                    "materialSource": "ERP",
+                    "modelName": "VS09 TC",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147083b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147083.jpg",
+                        "Pdb/400147083b.jpg",
+                        "Pdb/400147083b1.jpg",
+                        "Pdb/400147083b2.jpg",
+                        "Pdb/400147083b3.jpg",
+                        "Pdb/400147083b4.jpg",
+                        "Pdb/400147083s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "70",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147080",
+                    "name": "Всенаправленный динамический микрофон. Выход: XLR HRM-C CoMica HRM-C",
+                    "nameTranslit": "vsenapravlennyi-dinamicheskii-mikrofon-vyhod-xlr-hrm-c-comica-hrm-c",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147080",
+                    "materialSource": "ERP",
+                    "modelName": "HRM-C",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147080b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147080.jpg",
+                        "Pdb/400147080b.jpg",
+                        "Pdb/400147080b1.jpg",
+                        "Pdb/400147080b2.jpg",
+                        "Pdb/400147080s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "динамический",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "70 Гц - 15 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "56",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "2": {
+        "success": true,
+        "messages": [],
+        "body": {
+            "products": [
+                {
+                    "productId": "400147059",
+                    "name": "Накамерный кардиоидный конденсаторный микрофон CVM-VM10II Black CoMica CVM-VM10II Black",
+                    "nameTranslit": "nakamernyi-kardioidnyi-kondensatornyi-mikrofon-cvm-vm10ii-black-comica-cvm-vm10ii-black",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147059",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VM10II Black",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147059b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147059.jpg",
+                        "Pdb/400147059b.jpg",
+                        "Pdb/400147059b1.jpg",
+                        "Pdb/400147059b2.jpg",
+                        "Pdb/400147059b3.jpg",
+                        "Pdb/400147059b4.jpg",
+                        "Pdb/400147059b5.jpg",
+                        "Pdb/400147059b6.jpg",
+                        "Pdb/400147059b7.jpg",
+                        "Pdb/400147059b8.jpg",
+                        "Pdb/400147059s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "33",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147057",
+                    "name": "Накамерный суперкардиоидный конденсаторный направленный микрофон CVM-V30 LITE Black CoMica CVM-V30 LITE Black",
+                    "nameTranslit": "nakamernyi-superkardioidnyi-kondensatornyi-napravlennyi-mikrofon-cvm-v30-lite-black-comica-cvm-v30-lite-black",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147057",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-V30 LITE Black",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147057b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147057.jpg",
+                        "Pdb/400147057b.jpg",
+                        "Pdb/400147057b1.jpg",
+                        "Pdb/400147057b2.jpg",
+                        "Pdb/400147057b3.jpg",
+                        "Pdb/400147057b4.jpg",
+                        "Pdb/400147057b5.jpg",
+                        "Pdb/400147057b6.jpg",
+                        "Pdb/400147057b7.jpg",
+                        "Pdb/400147057s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "гиперкардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "33",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147058",
+                    "name": "Петличный микрофон для смартфона с интерфейсом USB V01SP (UC) (6.0m) CoMica V01SP (UC) (6.0m)",
+                    "nameTranslit": "petlichnyi-mikrofon-dlya-smartfona-s-interfeisom-usb-v01sp-uc-60m-comica-v01sp-uc-60m",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147058",
+                    "materialSource": "ERP",
+                    "modelName": "V01SP (UC) (6.0m)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147058b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147058.jpg",
+                        "Pdb/400147058b.jpg",
+                        "Pdb/400147058b1.jpg",
+                        "Pdb/400147058s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        },
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "6",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147055",
+                    "name": "Петличный микрофон с фантомным питанием XLR CVM-V02O (4.5m) CoMica CVM-V02O (4.5m)",
+                    "nameTranslit": "petlichnyi-mikrofon-s-fantomnym-pitaniem-xlr-cvm-v02o-45m-comica-cvm-v02o-45m",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147055",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-V02O (4.5m)",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147055b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147055.jpg",
+                        "Pdb/400147055b.jpg",
+                        "Pdb/400147055b1.jpg",
+                        "Pdb/400147055b2.jpg",
+                        "Pdb/400147055b3.jpg",
+                        "Pdb/400147055b4.jpg",
+                        "Pdb/400147055b5.jpg",
+                        "Pdb/400147055s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "100 - 12000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "35",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        },
+                        {
+                            "id": 155,
+                            "name": "Длина кабеля",
+                            "value": "4.5",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 9,
+                            "measure": "м"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147053",
+                    "name": "Комплект из микрофона и подставки CVM-VM10-K4 CoMica CVM-VM10-K4",
+                    "nameTranslit": "komplekt-iz-mikrofona-i-podstavki-cvm-vm10-k4-comica-cvm-vm10-k4",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147053",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VM10-K4",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147053b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147053.jpg",
+                        "Pdb/400147053b.jpg",
+                        "Pdb/400147053b1.jpg",
+                        "Pdb/400147053b2.jpg",
+                        "Pdb/400147053b3.jpg",
+                        "Pdb/400147053b4.jpg",
+                        "Pdb/400147053s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "33",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147054",
+                    "name": "Мини стереомикрофон с разъемом 3.5мм CVM-VS10 CoMica CVM-VS10",
+                    "nameTranslit": "mini-stereomikrofon-s-razemom-35mm-cvm-vs10-comica-cvm-vs10",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147054",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VS10",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147054b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147054.jpg",
+                        "Pdb/400147054b.jpg",
+                        "Pdb/400147054b1.jpg",
+                        "Pdb/400147054b2.jpg",
+                        "Pdb/400147054b3.jpg",
+                        "Pdb/400147054b4.jpg",
+                        "Pdb/400147054s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "36",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147050",
+                    "name": "Кардиоидный динамический микрофон. Выход: штекер 3.5 мм TRRS HRM-S CoMica HRM-S",
+                    "nameTranslit": "kardioidnyi-dinamicheskii-mikrofon-vyhod-shteker-35-mm-trrs-hrm-s-comica-hrm-s",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147050",
+                    "materialSource": "ERP",
+                    "modelName": "HRM-S",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147050b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147050.jpg",
+                        "Pdb/400147050b.jpg",
+                        "Pdb/400147050b1.jpg",
+                        "Pdb/400147050b2.jpg",
+                        "Pdb/400147050b3.jpg",
+                        "Pdb/400147050b4.jpg",
+                        "Pdb/400147050s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "75",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147068",
+                    "name": "Беспроводной ресивер VDLive10 USB RX Black CoMica VDLive10 USB RX Black",
+                    "nameTranslit": "besprovodnoi-resiver-vdlive10-usb-rx-black-comica-vdlive10-usb-rx-black",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147068",
+                    "materialSource": "ERP",
+                    "modelName": "VDLive10 USB RX Black",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147068b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147068.jpg",
+                        "Pdb/400147068b.jpg",
+                        "Pdb/400147068b1.jpg",
+                        "Pdb/400147068b2.jpg",
+                        "Pdb/400147068b3.jpg",
+                        "Pdb/400147068b4.jpg",
+                        "Pdb/400147068b5.jpg",
+                        "Pdb/400147068s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "2.4 ГГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "70",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147067",
+                    "name": "Многофункциональный суперкардиоидный конденсаторный микрофон CVM-VP3 CoMica CVM-VP3",
+                    "nameTranslit": "mnogofunkcionalnyi-superkardioidnyi-kondensatornyi-mikrofon-cvm-vp3-comica-cvm-vp3",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147067",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VP3",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147067b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147067.jpg",
+                        "Pdb/400147067b.jpg",
+                        "Pdb/400147067b1.jpg",
+                        "Pdb/400147067b2.jpg",
+                        "Pdb/400147067b3.jpg",
+                        "Pdb/400147067b4.jpg",
+                        "Pdb/400147067b5.jpg",
+                        "Pdb/400147067b6.jpg",
+                        "Pdb/400147067b7.jpg",
+                        "Pdb/400147067s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "гиперкардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 - 20000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "65",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147064",
+                    "name": "Накамерный суперкардиоидный конденсаторный направленный микрофон CVM-V30 PRO Black CoMica CVM-V30 PRO Black",
+                    "nameTranslit": "nakamernyi-superkardioidnyi-kondensatornyi-napravlennyi-mikrofon-cvm-v30-pro-black-comica-cvm-v30-pro-black",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147064",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-V30 PRO Black",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147064b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147064.jpg",
+                        "Pdb/400147064b.jpg",
+                        "Pdb/400147064b1.jpg",
+                        "Pdb/400147064b2.jpg",
+                        "Pdb/400147064b3.jpg",
+                        "Pdb/400147064b4.jpg",
+                        "Pdb/400147064b5.jpg",
+                        "Pdb/400147064b6.jpg",
+                        "Pdb/400147064b7.jpg",
+                        "Pdb/400147064b8.jpg",
+                        "Pdb/400147064s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "гиперкардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "40 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "100",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147062",
+                    "name": "Беспроводной ресивер VDLive10 MI RX Black CoMica VDLive10 MI RX Black",
+                    "nameTranslit": "besprovodnoi-resiver-vdlive10-mi-rx-black-comica-vdlive10-mi-rx-black",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147062",
+                    "materialSource": "ERP",
+                    "modelName": "VDLive10 MI RX Black",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147062b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147062.jpg",
+                        "Pdb/400147062b.jpg",
+                        "Pdb/400147062b1.jpg",
+                        "Pdb/400147062b2.jpg",
+                        "Pdb/400147062b3.jpg",
+                        "Pdb/400147062b4.jpg",
+                        "Pdb/400147062b5.jpg",
+                        "Pdb/400147062s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "всенаправленный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "2.4 ГГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "70",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147063",
+                    "name": "Кардиоидный мини-микрофон с гибким разъемом 3.5мм CVM-VS07C CoMica CVM-VS07C",
+                    "nameTranslit": "kardioidnyi-mini-mikrofon-s-gibkim-razemom-35mm-cvm-vs07c-comica-cvm-vs07c",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147063",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-VS07C",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147063b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147063.jpg",
+                        "Pdb/400147063b.jpg",
+                        "Pdb/400147063b1.jpg",
+                        "Pdb/400147063b2.jpg",
+                        "Pdb/400147063b3.jpg",
+                        "Pdb/400147063b4.jpg",
+                        "Pdb/400147063b5.jpg",
+                        "Pdb/400147063b6.jpg",
+                        "Pdb/400147063b7.jpg",
+                        "Pdb/400147063s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "36",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147060",
+                    "name": "Кардиоидный конденсаторный USB-микрофон STM-USB CoMica STM-USB",
+                    "nameTranslit": "kardioidnyi-kondensatornyi-usb-mikrofon-stm-usb-comica-stm-usb",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147060",
+                    "materialSource": "ERP",
+                    "modelName": "STM-USB",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147060b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147060.jpg",
+                        "Pdb/400147060b.jpg",
+                        "Pdb/400147060b1.jpg",
+                        "Pdb/400147060b2.jpg",
+                        "Pdb/400147060b3.jpg",
+                        "Pdb/400147060b4.jpg",
+                        "Pdb/400147060b5.jpg",
+                        "Pdb/400147060b6.jpg",
+                        "Pdb/400147060b7.jpg",
+                        "Pdb/400147060b8.jpg",
+                        "Pdb/400147060s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2519,
+                            "name": "Тип микрофона",
+                            "value": "конденсаторный",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 2,
+                            "measure": null
+                        },
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "20 - 20000 Гц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "96",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400147061",
+                    "name": "Комплект из микрофона и подставки CVM-MT-K1 CoMica CVM-MT-K1",
+                    "nameTranslit": "komplekt-iz-mikrofona-i-podstavki-cvm-mt-k1-comica-cvm-mt-k1",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400147061",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-MT-K1",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400147061b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400147061.jpg",
+                        "Pdb/400147061b.jpg",
+                        "Pdb/400147061b1.jpg",
+                        "Pdb/400147061b2.jpg",
+                        "Pdb/400147061b3.jpg",
+                        "Pdb/400147061b4.jpg",
+                        "Pdb/400147061b5.jpg",
+                        "Pdb/400147061b6.jpg",
+                        "Pdb/400147061s.jpg"
+                    ],
+                    "propertiesPortion": [
+                        {
+                            "id": 2521,
+                            "name": "Диаграмма направленности",
+                            "value": "кардиоидная",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 3,
+                            "measure": null
+                        },
+                        {
+                            "id": 230,
+                            "name": "Частотный диапазон",
+                            "value": "60 Гц - 20 кГц",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 4,
+                            "measure": null
+                        },
+                        {
+                            "id": 606330,
+                            "name": "Чувствительность",
+                            "value": "36",
+                            "nameDescription": null,
+                            "valueDescription": null,
+                            "priority": 5,
+                            "measure": "дБ"
+                        }
+                    ]
+                },
+                {
+                    "productId": "400148096",
+                    "name": "Подставка для микрофона CVM-R3 CoMica CVM-R3",
+                    "nameTranslit": "podstavka-dlya-mikrofona-cvm-r3-comica-cvm-r3",
+                    "productType": "AV",
+                    "usedProductType": null,
+                    "materialCisNumber": "400148096",
+                    "materialSource": "ERP",
+                    "modelName": "CVM-R3",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": null,
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/400148096b.jpg",
+                    "brandId": "7400",
+                    "brandName": "CoMica",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/400148096.jpg",
+                        "Pdb/400148096b.jpg",
+                        "Pdb/400148096b1.jpg",
+                        "Pdb/400148096b2.jpg",
+                        "Pdb/400148096b3.jpg",
+                        "Pdb/400148096b4.jpg",
+                        "Pdb/400148096s.jpg"
+                    ],
+                    "propertiesPortion": []
+                },
+                {
+                    "productId": "4172189",
+                    "name": "Комплект света для блогеров Raylab RL-LED10 Kit 3200-6500K",
+                    "nameTranslit": "komplekt-sveta-dlya-blogerov-raylab-rl-led10-kit-3200-6500k",
+                    "productType": "ZCON",
+                    "usedProductType": null,
+                    "materialCisNumber": "4172189",
+                    "materialSource": "shelf",
+                    "modelName": "RL-LED10 Kit 3200-6500K",
+                    "rating": {
+                        "star": null,
+                        "count": null,
+                        "percent": null
+                    },
+                    "supplier": {
+                        "id": "K000028629",
+                        "name": "ООО \"БИ-ТРЕЙД\"",
+                        "address": "посёлок Парголово, Горское шоссе, 6С",
+                        "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                        "ogrn": "1117847315850",
+                        "inn": "7814507829",
+                        "phone": "+78124073584"
+                    },
+                    "vendorCatalog": null,
+                    "sublicense": false,
+                    "partnerType": null,
+                    "preorder": null,
+                    "isMprimeSubscription": false,
+                    "image": "Pdb/small_pic/480/4172189b.jpg",
+                    "brandId": "7650",
+                    "brandName": "Raylab",
+                    "status": {
+                        "showCase": false,
+                        "availableOnlyInRetailStore": false,
+                        "soldOut": false,
+                        "isCannotBeExchanged": false
+                    },
+                    "category": {
+                        "id": "7711",
+                        "name": "Комплекты для блогеров"
+                    },
+                    "properties": null,
+                    "images": [
+                        "Pdb/4172189.jpg",
+                        "Pdb/4172189b.jpg",
+                        "Pdb/4172189b1.jpg",
+                        "Pdb/4172189b2.jpg",
+                        "Pdb/4172189b3.jpg",
+                        "Pdb/4172189b4.jpg",
+                        "Pdb/4172189b5.jpg",
+                        "Pdb/4172189b6.jpg",
+                        "Pdb/4172189s.jpg"
+                    ],
+                    "propertiesPortion": []
+                }
+            ]
+        }
+    }
+}

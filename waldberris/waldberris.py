@@ -21,9 +21,8 @@ def get_catalogy_waldberris():
     response = requests.get('https://static-basket-01.wb.ru/vol0/data/main-menu-ru-ru-v2.json', headers=headers).json()
 
     # print(response)
-    with open('waldberris.json', 'w') as file:
+    with open('waldberris.json', 'w', encoding='utf-8') as file:
         json.dump(response, file, indent=4, ensure_ascii=False)
-
 
 
 def main():
@@ -32,4 +31,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
