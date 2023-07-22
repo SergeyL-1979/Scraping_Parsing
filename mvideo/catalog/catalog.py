@@ -63,14 +63,15 @@ def links_subcategory():
     link_url_list = []
     for cat in subcategory_of_links:
         cat = cat.get('categories')
-        for i in cat:
-            link_url_list.append(i)
+        for name_and_url in cat:
+            link_url_list.append(name_and_url)
 
     with open('data/5_links_subcategory.json', 'w', encoding='utf-8') as file:
         json.dump(link_url_list, file, indent=4, ensure_ascii=False)
 
     collection_list_product = []
-    for collection in link_url_list:
+    output_data = [v for v in {inp['name']: inp for inp in link_url_list}.values()]
+    for collection in output_data:
         col_name = collection.get('name')
         col_url = collection.get('url')
 
@@ -88,10 +89,14 @@ def get_following_link():
 
     for i in card_product:
         url = i['url']
-        r = s.get(url=url, headers=headers, cookies=cookies)
-        print(r.text)
-    with open('data/test.html', 'w', encoding='utf-8') as file:
-        file.write(r.text)
+        # r = s.get(url=url, headers=headers, cookies=cookies)
+        # print(r.text)
+        # for count in range(1, 7):
+        # with open(f'data/test.txt', 'w', encoding='utf-8', newline='') as file:
+        #     file.write(f'{i}\n')
+    for lin_url in card_product:
+        print('[INFO]' f'{lin_url["url"]}')
+
 
 def main():
     # get_catalog()
