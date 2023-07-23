@@ -56,8 +56,8 @@ def get_category():
                 "childs": childs
             })
 
-    with open('data/category.json', 'w', encoding='utf-8') as file:
-        json.dump(new_json, file, indent=4, ensure_ascii=False)
+    # with open('data/category.json', 'w', encoding='utf-8') as file:
+    #     json.dump(new_json, file, indent=4, ensure_ascii=False)
 
     childs_json = []
     for childs_cat in category_data:
