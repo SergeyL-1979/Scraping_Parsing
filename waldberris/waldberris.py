@@ -100,10 +100,9 @@ def get_url_link():
                 json.dump(item, file, indent=4, ensure_ascii=False)
 
 
-
 def main():
-    # get_catalogy_waldberris()
-    # get_category()
+    get_catalogy_waldberris()
+    get_category()
     get_url_link()
 
 
