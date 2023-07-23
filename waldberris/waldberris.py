@@ -1,12 +1,15 @@
 import os
 import requests
 import json
+from pathlib import Path
+from datetime import datetime
 
 if not os.path.exists('data'):
     os.mkdir('data')
 
 
 def get_catalogy_waldberris():
+    """ Вытягиваем JSON для дальнейшей работы с данными """
     headers = {
         'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0',
         'Accept': '*/*',
@@ -22,7 +25,8 @@ def get_catalogy_waldberris():
         'Sec-GPC': '1',
     }
 
-    response = requests.get('https://static-basket-01.wb.ru/vol0/data/main-menu-ru-ru-v2.json', headers=headers).json()
+    response = requests.get('https://static-basket-01.wb.ru/vol0/data/main-menu-ru-ru-v2.json',
+                            headers=headers).json()
 
     # print(response)
     with open('waldberris.json', 'w', encoding='utf-8') as file:
@@ -30,12 +34,13 @@ def get_catalogy_waldberris():
 
 
 def get_category():
+    """ Распарсиваем JSON. Разбиваем на категории и подкатегории """
     with open('waldberris.json', 'r', encoding='utf-8') as file:
         category_data = json.load(file)
 
         new_json = []
         for cat in category_data:
-            id = cat.get("id")
+            ids = cat.get("id")
             name = cat.get("name")
             url = cat.get("url")
             shard = cat.get("shard")
@@ -43,9 +48,9 @@ def get_category():
             childs = cat.get("childs")
 
             new_json.append({
-                "id": id,
+                "id": ids,
                 "name": name,
-                "url": f'https://www.wildberries.ru{url}',
+                "url": url,
                 "shard": shard,
                 "query": query,
                 "childs": childs
@@ -56,22 +61,43 @@ def get_category():
 
     childs_json = []
     for childs_cat in category_data:
-        ch = childs_cat.get("childs")
-        # childs_json.append({"ids": ch})
-        childs_json.append(ch)
+        if 'childs' in childs_cat.keys():
+            ch = childs_cat.get("childs")
+            childs_json.append(ch)
 
-    with open('data/childs.json', 'w', encoding='utf-8') as file:
-        json.dump(childs_json, file, indent=4, ensure_ascii=False)
+    # если нет папки, то создаем папку
+    if not os.path.exists('data/childs'):
+        os.mkdir('data/childs')
+
+    for index, item in enumerate(childs_json):
+        with open(f'data/childs/item{index}.json', 'w', encoding='utf-8') as file:
+            json.dump(item, file, indent=4, ensure_ascii=False)
 
 
 def get_url_link():
-    with open('data/childs.json', 'r', encoding='utf-8') as file:
-        url_data = json.load(file)
+    """ Выбираем все подкатегории из файлов """
+    count = 0
+    p = Path("data/childs/")
+    for x in p.rglob("*"):
+        print(x)
 
-    # TODO переделать в другой запрос или объединить с предыдущим
-    for index, item in enumerate(url_data):
-        with open(f'data/item{index}.json', 'w', encoding='utf-8') as file:
-            json.dump(item, file, indent=4, ensure_ascii=False)
+        with open(f'{x}', 'r', encoding='utf-8') as file:
+            url_data = json.load(file)
+        # print(url_data)
+        items_category = []
+        for childs_cat in url_data:
+            if 'childs' in childs_cat.keys():
+                ch = childs_cat.get("childs")
+                items_category.append(ch)
+        # print(items_category)
+
+        # если нет папки, то создаем папку
+        if not os.path.exists('data/item'):
+            os.mkdir('data/item')
+        count += 1
+        for index, item in enumerate(items_category):
+            with open(f'data/item/child{index}_{count}.json', 'w', encoding='utf-8') as file:
+                json.dump(item, file, indent=4, ensure_ascii=False)
 
 
 
