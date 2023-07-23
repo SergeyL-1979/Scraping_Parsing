@@ -63,9 +63,9 @@ def get_collect_all_the_childs(path):
             json.dump(item, file, indent=4, ensure_ascii=False)
 
 
-def main():
-    get_collect_all_the_childs(path=r'D:\TEST_JUNIOR\Parser_Scraper\Scraping_Parsing\waldberris\waldberris.json')
-
-
-if __name__ == '__main__':
-    main()
+# def main():
+#     get_collect_all_the_childs(path=r'D:\TEST_JUNIOR\Parser_Scraper\Scraping_Parsing\waldberris\waldberris.json')
+#
+#
+# if __name__ == '__main__':
+#     main()

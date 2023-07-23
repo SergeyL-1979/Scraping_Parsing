@@ -2,7 +2,7 @@ import os
 import requests
 import json
 from pathlib import Path
-from datetime import datetime
+from collect_all import get_collect_all_the_childs
 
 if not os.path.exists('data'):
     os.mkdir('data')
@@ -104,6 +104,7 @@ def main():
     get_catalogy_waldberris()
     get_category()
     get_url_link()
+    get_collect_all_the_childs(path=r'D:\TEST_JUNIOR\Parser_Scraper\Scraping_Parsing\waldberris\waldberris.json')
 
 
 if __name__ == '__main__':
