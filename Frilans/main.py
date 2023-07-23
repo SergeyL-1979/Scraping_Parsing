@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 
 def collect_data():
-    for i in range(1, 6):
+    for i in range(1, 10):
         headers = {
             'authority': 'www.zingat.com',
             'accept': 'application/json',
@@ -42,7 +42,7 @@ def collect_data():
         t_date = datetime.now().strftime('%d_%m_%Y')
 
         res = requests.get('https://www.zingat.com/en/for-sale')
-        with open(f'info_{t_date}.html', 'w', encoding='utf-8') as file:
+        with open(f'info.html', 'w', encoding='utf-8') as file:
             file.write(res.text)
 
         # with open(f"info_{t_date}_{i}.json", 'w') as file:
@@ -98,7 +98,7 @@ def collect_data():
 
 def main():
     collect_data()
-    filters_data('info_23_07_2023.html')
+    filters_data('info.html')
 
 
 if __name__ == '__main__':

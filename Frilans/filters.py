@@ -22,9 +22,9 @@ def filters_data(path):
         item_url = d.get("href")
         list_urls.append(item_url)
 
-    with open(f"url_filters_{t_date}.txt", "w", encoding="utf-8", newline="") as file:
-        for url in list_urls:
-            file.write(f'https://www.zingat.com{url}\n')
+    # with open(f"url_filters_{t_date}.txt", "w", encoding="utf-8", newline="") as file:
+    #     for url in list_urls:
+    #         file.write(f'https://www.zingat.com{url}\n')
 
     return list_urls
 
