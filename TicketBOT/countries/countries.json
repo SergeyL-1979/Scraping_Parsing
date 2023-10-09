@@ -1,38 +1,6 @@
 [
     {
         "name_translations": {
-            "en": "Kenya"
-        },
-        "cases": {
-            "da": "Кении",
-            "pr": "Кении",
-            "ro": "Кению",
-            "su": "Кения",
-            "tv": "Кенией",
-            "vi": "в Кению"
-        },
-        "code": "KE",
-        "name": "Кения",
-        "currency": "KES"
-    },
-    {
-        "name_translations": {
-            "en": "Burkina Faso"
-        },
-        "cases": {
-            "da": "Буркина-Фасо",
-            "pr": "Буркина-Фасо",
-            "ro": "Буркина-Фасо",
-            "su": "Буркина-Фасо",
-            "tv": "Буркина-Фасо",
-            "vi": "в Буркина-Фасо"
-        },
-        "code": "BF",
-        "name": "Буркина-Фасо",
-        "currency": "XOF"
-    },
-    {
-        "name_translations": {
             "en": "Solomon Islands"
         },
         "cases": {
@@ -62,6 +30,22 @@
         "code": "KZ",
         "name": "Казахстан",
         "currency": "KZT"
+    },
+    {
+        "name_translations": {
+            "en": "Kenya"
+        },
+        "cases": {
+            "da": "Кении",
+            "pr": "Кении",
+            "ro": "Кению",
+            "su": "Кения",
+            "tv": "Кенией",
+            "vi": "в Кению"
+        },
+        "code": "KE",
+        "name": "Кения",
+        "currency": "KES"
     },
     {
         "name_translations": {
@@ -97,35 +81,35 @@
     },
     {
         "name_translations": {
-            "en": "Slovakia"
+            "en": "Burkina Faso"
         },
         "cases": {
-            "da": "Словакии",
-            "pr": "Словакии",
-            "ro": "Словакии",
-            "su": "Словакия",
-            "tv": "Словакией",
-            "vi": "в Словакию"
+            "da": "Буркина-Фасо",
+            "pr": "Буркина-Фасо",
+            "ro": "Буркина-Фасо",
+            "su": "Буркина-Фасо",
+            "tv": "Буркина-Фасо",
+            "vi": "в Буркина-Фасо"
         },
-        "code": "SK",
-        "name": "Словакия",
-        "currency": "EUR"
+        "code": "BF",
+        "name": "Буркина-Фасо",
+        "currency": "XOF"
     },
     {
         "name_translations": {
-            "en": "Netherlands"
+            "en": "Yemen"
         },
         "cases": {
-            "da": "Нидерландам",
-            "pr": "Нидерландах",
-            "ro": "Нидерландов",
-            "su": "Нидерланды",
-            "tv": "Нидерландами",
-            "vi": "в Нидерланды"
+            "da": "Йемену",
+            "pr": "Йемене",
+            "ro": "Йемена",
+            "su": "Йемен",
+            "tv": "Йеменом",
+            "vi": "в Йемен"
         },
-        "code": "NL",
-        "name": "Нидерланды",
-        "currency": "EUR"
+        "code": "YE",
+        "name": "Йемен",
+        "currency": "YER"
     },
     {
         "name_translations": {
@@ -177,19 +161,51 @@
     },
     {
         "name_translations": {
-            "en": "Yemen"
+            "en": "Slovakia"
         },
         "cases": {
-            "da": "Йемену",
-            "pr": "Йемене",
-            "ro": "Йемена",
-            "su": "Йемен",
-            "tv": "Йеменом",
-            "vi": "в Йемен"
+            "da": "Словакии",
+            "pr": "Словакии",
+            "ro": "Словакии",
+            "su": "Словакия",
+            "tv": "Словакией",
+            "vi": "в Словакию"
         },
-        "code": "YE",
-        "name": "Йемен",
-        "currency": "YER"
+        "code": "SK",
+        "name": "Словакия",
+        "currency": "EUR"
+    },
+    {
+        "name_translations": {
+            "en": "Netherlands"
+        },
+        "cases": {
+            "da": "Нидерландам",
+            "pr": "Нидерландах",
+            "ro": "Нидерландов",
+            "su": "Нидерланды",
+            "tv": "Нидерландами",
+            "vi": "в Нидерланды"
+        },
+        "code": "NL",
+        "name": "Нидерланды",
+        "currency": "EUR"
+    },
+    {
+        "name_translations": {
+            "en": "Republic of the Congo"
+        },
+        "cases": {
+            "da": "Конго",
+            "pr": "Конго",
+            "ro": "Конго",
+            "su": "Конго",
+            "tv": "Конго",
+            "vi": "в Конго"
+        },
+        "code": "CG",
+        "name": "Конго",
+        "currency": "XAF"
     },
     {
         "name_translations": {
@@ -225,19 +241,35 @@
     },
     {
         "name_translations": {
-            "en": "Republic of the Congo"
+            "en": "Uzbekistan"
         },
         "cases": {
-            "da": "Конго",
-            "pr": "Конго",
-            "ro": "Конго",
-            "su": "Конго",
-            "tv": "Конго",
-            "vi": "в Конго"
+            "da": "Узбекистану",
+            "pr": "Узбекистане",
+            "ro": "Узбекистана",
+            "su": "Узбекистан",
+            "tv": "Узбекистаном",
+            "vi": "в Узбекистан"
         },
-        "code": "CG",
-        "name": "Конго",
-        "currency": "XAF"
+        "code": "UZ",
+        "name": "Узбекистан",
+        "currency": "UZS"
+    },
+    {
+        "name_translations": {
+            "en": "Réunion"
+        },
+        "cases": {
+            "da": "Реюньону",
+            "pr": "Реюньоне",
+            "ro": "Реюньона",
+            "su": "Реюньон",
+            "tv": "Реюньоном",
+            "vi": "в Реюньон"
+        },
+        "code": "RE",
+        "name": "Реюньон",
+        "currency": "EUR"
     },
     {
         "name_translations": {
@@ -257,22 +289,6 @@
     },
     {
         "name_translations": {
-            "en": "Uzbekistan"
-        },
-        "cases": {
-            "da": "Узбекистану",
-            "pr": "Узбекистане",
-            "ro": "Узбекистана",
-            "su": "Узбекистан",
-            "tv": "Узбекистаном",
-            "vi": "в Узбекистан"
-        },
-        "code": "UZ",
-        "name": "Узбекистан",
-        "currency": "UZS"
-    },
-    {
-        "name_translations": {
             "en": "Tonga"
         },
         "cases": {
@@ -289,19 +305,35 @@
     },
     {
         "name_translations": {
-            "en": "Réunion"
+            "en": "Jamaica"
         },
         "cases": {
-            "da": "Реюньону",
-            "pr": "Реюньоне",
-            "ro": "Реюньона",
-            "su": "Реюньон",
-            "tv": "Реюньоном",
-            "vi": "в Реюньон"
+            "da": "Ямайке",
+            "pr": "Ямайке",
+            "ro": "Ямайки",
+            "su": "Ямайка",
+            "tv": "Ямайкой",
+            "vi": "на Ямайку"
         },
-        "code": "RE",
-        "name": "Реюньон",
-        "currency": "EUR"
+        "code": "JM",
+        "name": "Ямайка",
+        "currency": "JMD"
+    },
+    {
+        "name_translations": {
+            "en": "Nepal"
+        },
+        "cases": {
+            "da": "Непалу",
+            "pr": "Непале",
+            "ro": "Непала",
+            "su": "Непал",
+            "tv": "Непалом",
+            "vi": "в Непал"
+        },
+        "code": "NP",
+        "name": "Непал",
+        "currency": "NPR"
     },
     {
         "name_translations": {
@@ -353,54 +385,6 @@
     },
     {
         "name_translations": {
-            "en": "Nepal"
-        },
-        "cases": {
-            "da": "Непалу",
-            "pr": "Непале",
-            "ro": "Непала",
-            "su": "Непал",
-            "tv": "Непалом",
-            "vi": "в Непал"
-        },
-        "code": "NP",
-        "name": "Непал",
-        "currency": "NPR"
-    },
-    {
-        "name_translations": {
-            "en": "Jamaica"
-        },
-        "cases": {
-            "da": "Ямайке",
-            "pr": "Ямайке",
-            "ro": "Ямайки",
-            "su": "Ямайка",
-            "tv": "Ямайкой",
-            "vi": "на Ямайку"
-        },
-        "code": "JM",
-        "name": "Ямайка",
-        "currency": "JMD"
-    },
-    {
-        "name_translations": {
-            "en": "Mexico"
-        },
-        "cases": {
-            "da": "Мексике",
-            "pr": "Мексике",
-            "ro": "Мексики",
-            "su": "Мексика",
-            "tv": "Мексикой",
-            "vi": "в Мексику"
-        },
-        "code": "MX",
-        "name": "Мексика",
-        "currency": "MXN"
-    },
-    {
-        "name_translations": {
             "en": "Serbia"
         },
         "cases": {
@@ -433,6 +417,22 @@
     },
     {
         "name_translations": {
+            "en": "Åland Islands"
+        },
+        "cases": {
+            "da": "Аландским островам",
+            "pr": "Аландских островах",
+            "ro": "Аландских островов",
+            "su": "Аландские острова",
+            "tv": "Аландскими островами",
+            "vi": "в Аландские острова"
+        },
+        "code": "AX",
+        "name": "Аландские острова",
+        "currency": "EUR"
+    },
+    {
+        "name_translations": {
             "en": "Pitcairn Islands"
         },
         "cases": {
@@ -449,19 +449,19 @@
     },
     {
         "name_translations": {
-            "en": "Åland Islands"
+            "en": "Mexico"
         },
         "cases": {
-            "da": "Аландским островам",
-            "pr": "Аландских островах",
-            "ro": "Аландских островов",
-            "su": "Аландские острова",
-            "tv": "Аландскими островами",
-            "vi": "в Аландские острова"
+            "da": "Мексике",
+            "pr": "Мексике",
+            "ro": "Мексики",
+            "su": "Мексика",
+            "tv": "Мексикой",
+            "vi": "в Мексику"
         },
-        "code": "AX",
-        "name": "Аландские острова",
-        "currency": "EUR"
+        "code": "MX",
+        "name": "Мексика",
+        "currency": "MXN"
     },
     {
         "name_translations": {
@@ -513,22 +513,6 @@
     },
     {
         "name_translations": {
-            "en": "Jordan"
-        },
-        "cases": {
-            "da": "Иордании",
-            "pr": "Иордании",
-            "ro": "Иордании",
-            "su": "Иордания",
-            "tv": "Иорданией",
-            "vi": "в Иорданию"
-        },
-        "code": "JO",
-        "name": "Иордания",
-        "currency": "JOD"
-    },
-    {
-        "name_translations": {
             "en": "Mozambique"
         },
         "cases": {
@@ -542,6 +526,22 @@
         "code": "MZ",
         "name": "Мозамбик",
         "currency": "MZN"
+    },
+    {
+        "name_translations": {
+            "en": "Jordan"
+        },
+        "cases": {
+            "da": "Иордании",
+            "pr": "Иордании",
+            "ro": "Иордании",
+            "su": "Иордания",
+            "tv": "Иорданией",
+            "vi": "в Иорданию"
+        },
+        "code": "JO",
+        "name": "Иордания",
+        "currency": "JOD"
     },
     {
         "name_translations": {
@@ -577,6 +577,22 @@
     },
     {
         "name_translations": {
+            "en": "Philippines"
+        },
+        "cases": {
+            "da": "Филиппинам",
+            "pr": "Филиппинах",
+            "ro": "Филиппин",
+            "su": "Филиппины",
+            "tv": "Филиппинами",
+            "vi": "на Филиппины"
+        },
+        "code": "PH",
+        "name": "Филиппины",
+        "currency": "PHP"
+    },
+    {
+        "name_translations": {
             "en": "Eswatini"
         },
         "cases": {
@@ -609,38 +625,6 @@
     },
     {
         "name_translations": {
-            "en": "Taiwan"
-        },
-        "cases": {
-            "da": "Тайваню",
-            "pr": "Тайване",
-            "ro": "Тайваня",
-            "su": "Тайвань",
-            "tv": "Тайванем",
-            "vi": "на Тайвань"
-        },
-        "code": "TW",
-        "name": "Тайвань",
-        "currency": "TWD"
-    },
-    {
-        "name_translations": {
-            "en": "Philippines"
-        },
-        "cases": {
-            "da": "Филиппинам",
-            "pr": "Филиппинах",
-            "ro": "Филиппин",
-            "su": "Филиппины",
-            "tv": "Филиппинами",
-            "vi": "на Филиппины"
-        },
-        "code": "PH",
-        "name": "Филиппины",
-        "currency": "PHP"
-    },
-    {
-        "name_translations": {
             "en": "Iran"
         },
         "cases": {
@@ -657,6 +641,22 @@
     },
     {
         "name_translations": {
+            "en": "Taiwan"
+        },
+        "cases": {
+            "da": "Тайваню",
+            "pr": "Тайване",
+            "ro": "Тайваня",
+            "su": "Тайвань",
+            "tv": "Тайванем",
+            "vi": "на Тайвань"
+        },
+        "code": "TW",
+        "name": "Тайвань",
+        "currency": "TWD"
+    },
+    {
+        "name_translations": {
             "en": "Cook Islands"
         },
         "cases": {
@@ -670,22 +670,6 @@
         "code": "CK",
         "name": "Острова Кука",
         "currency": "NZD"
-    },
-    {
-        "name_translations": {
-            "en": "South Africa"
-        },
-        "cases": {
-            "da": "ЮАР",
-            "pr": "ЮАР",
-            "ro": "ЮАР",
-            "su": "ЮАР",
-            "tv": "ЮАР",
-            "vi": "в ЮАР"
-        },
-        "code": "ZA",
-        "name": "ЮАР",
-        "currency": "ZAR"
     },
     {
         "name_translations": {
@@ -718,6 +702,22 @@
         "code": "MW",
         "name": "Малави",
         "currency": "MWK"
+    },
+    {
+        "name_translations": {
+            "en": "South Africa"
+        },
+        "cases": {
+            "da": "ЮАР",
+            "pr": "ЮАР",
+            "ro": "ЮАР",
+            "su": "ЮАР",
+            "tv": "ЮАР",
+            "vi": "в ЮАР"
+        },
+        "code": "ZA",
+        "name": "ЮАР",
+        "currency": "ZAR"
     },
     {
         "name_translations": {
@@ -769,22 +769,6 @@
     },
     {
         "name_translations": {
-            "en": "Greenland"
-        },
-        "cases": {
-            "da": "Гренландии",
-            "pr": "Гренландии",
-            "ro": "Гренландии",
-            "su": "Гренландия",
-            "tv": "Гренландией",
-            "vi": "в Гренландию"
-        },
-        "code": "GL",
-        "name": "Гренландия",
-        "currency": "DKK"
-    },
-    {
-        "name_translations": {
             "en": "Bahrain"
         },
         "cases": {
@@ -814,6 +798,22 @@
         "code": "CM",
         "name": "Камерун",
         "currency": "XAF"
+    },
+    {
+        "name_translations": {
+            "en": "Slovenia"
+        },
+        "cases": {
+            "da": "Словении",
+            "pr": "Словении",
+            "ro": "Словении",
+            "su": "Словения",
+            "tv": "Словенией",
+            "vi": "в Словению"
+        },
+        "code": "SI",
+        "name": "Словения",
+        "currency": "EUR"
     },
     {
         "name_translations": {
@@ -849,6 +849,22 @@
     },
     {
         "name_translations": {
+            "en": "Western Sahara"
+        },
+        "cases": {
+            "da": "Западной Сахаре",
+            "pr": "Западной Сахаре",
+            "ro": "Западной Сахары",
+            "su": "Западная Сахара",
+            "tv": "Западной Сахарой",
+            "vi": "в Западную Сахару"
+        },
+        "code": "EH",
+        "name": "Западная Сахара",
+        "currency": "MAD"
+    },
+    {
+        "name_translations": {
             "en": "Spain"
         },
         "cases": {
@@ -861,22 +877,6 @@
         },
         "code": "ES",
         "name": "Испания",
-        "currency": "EUR"
-    },
-    {
-        "name_translations": {
-            "en": "Slovenia"
-        },
-        "cases": {
-            "da": "Словении",
-            "pr": "Словении",
-            "ro": "Словении",
-            "su": "Словения",
-            "tv": "Словенией",
-            "vi": "в Словению"
-        },
-        "code": "SI",
-        "name": "Словения",
         "currency": "EUR"
     },
     {
@@ -897,19 +897,19 @@
     },
     {
         "name_translations": {
-            "en": "Western Sahara"
+            "en": "Greenland"
         },
         "cases": {
-            "da": "Западной Сахаре",
-            "pr": "Западной Сахаре",
-            "ro": "Западной Сахары",
-            "su": "Западная Сахара",
-            "tv": "Западной Сахарой",
-            "vi": "в Западную Сахару"
+            "da": "Гренландии",
+            "pr": "Гренландии",
+            "ro": "Гренландии",
+            "su": "Гренландия",
+            "tv": "Гренландией",
+            "vi": "в Гренландию"
         },
-        "code": "EH",
-        "name": "Западная Сахара",
-        "currency": "MAD"
+        "code": "GL",
+        "name": "Гренландия",
+        "currency": "DKK"
     },
     {
         "name_translations": {
@@ -1073,19 +1073,19 @@
     },
     {
         "name_translations": {
-            "en": "Saint Barthélemy"
+            "en": "Tokelau"
         },
         "cases": {
-            "da": "Сен-Бартелеми",
-            "pr": "Сен-Бартелеми",
-            "ro": "Сен-Бартелеми",
-            "su": "Сен-Бартелеми",
-            "tv": "Сен-Бартелеми",
-            "vi": "в Сен-Бартелеми"
+            "da": "Токелау",
+            "pr": "Токелау",
+            "ro": "Токелау",
+            "su": "Токелау",
+            "tv": "Токелау",
+            "vi": "в Токелау"
         },
-        "code": "BL",
-        "name": "Сен-Бартелеми",
-        "currency": "EUR"
+        "code": "TK",
+        "name": "Токелау",
+        "currency": "NZD"
     },
     {
         "name_translations": {
@@ -1105,22 +1105,6 @@
     },
     {
         "name_translations": {
-            "en": "Tokelau"
-        },
-        "cases": {
-            "da": "Токелау",
-            "pr": "Токелау",
-            "ro": "Токелау",
-            "su": "Токелау",
-            "tv": "Токелау",
-            "vi": "в Токелау"
-        },
-        "code": "TK",
-        "name": "Токелау",
-        "currency": "NZD"
-    },
-    {
-        "name_translations": {
             "en": "Italy"
         },
         "cases": {
@@ -1133,6 +1117,38 @@
         },
         "code": "IT",
         "name": "Италия",
+        "currency": "EUR"
+    },
+    {
+        "name_translations": {
+            "en": "Saint Barthélemy"
+        },
+        "cases": {
+            "da": "Сен-Бартелеми",
+            "pr": "Сен-Бартелеми",
+            "ro": "Сен-Бартелеми",
+            "su": "Сен-Бартелеми",
+            "tv": "Сен-Бартелеми",
+            "vi": "в Сен-Бартелеми"
+        },
+        "code": "BL",
+        "name": "Сен-Бартелеми",
+        "currency": "EUR"
+    },
+    {
+        "name_translations": {
+            "en": "Mayotte"
+        },
+        "cases": {
+            "da": "Майотте",
+            "pr": "Майотте",
+            "ro": "Майотты",
+            "su": "Майотта",
+            "tv": "Майоттой",
+            "vi": "в Майотту"
+        },
+        "code": "YT",
+        "name": "Майотта",
         "currency": "EUR"
     },
     {
@@ -1150,38 +1166,6 @@
         "code": "UA",
         "name": "Украина",
         "currency": "UAH"
-    },
-    {
-        "name_translations": {
-            "en": "Kiribati"
-        },
-        "cases": {
-            "da": "Кирибати",
-            "pr": "Кирибати",
-            "ro": "Кирибати",
-            "su": "Кирибати",
-            "tv": "Кирибати",
-            "vi": "Кирибати"
-        },
-        "code": "KI",
-        "name": "Кирибати",
-        "currency": "AUD"
-    },
-    {
-        "name_translations": {
-            "en": "Mayotte"
-        },
-        "cases": {
-            "da": "Майотте",
-            "pr": "Майотте",
-            "ro": "Майотты",
-            "su": "Майотта",
-            "tv": "Майоттой",
-            "vi": "в Майотту"
-        },
-        "code": "YT",
-        "name": "Майотта",
-        "currency": "EUR"
     },
     {
         "name_translations": {
@@ -1230,6 +1214,22 @@
         "code": "SJ",
         "name": "Шпицберген и Ян-Майен",
         "currency": "NOK"
+    },
+    {
+        "name_translations": {
+            "en": "Kiribati"
+        },
+        "cases": {
+            "da": "Кирибати",
+            "pr": "Кирибати",
+            "ro": "Кирибати",
+            "su": "Кирибати",
+            "tv": "Кирибати",
+            "vi": "Кирибати"
+        },
+        "code": "KI",
+        "name": "Кирибати",
+        "currency": "AUD"
     },
     {
         "name_translations": {
@@ -1313,6 +1313,22 @@
     },
     {
         "name_translations": {
+            "en": "Australia"
+        },
+        "cases": {
+            "da": "Австралии",
+            "pr": "Австралии",
+            "ro": "Австралии",
+            "su": "Австралия",
+            "tv": "Австралией",
+            "vi": "в Австралию"
+        },
+        "code": "AU",
+        "name": "Австралия",
+        "currency": "AUD"
+    },
+    {
+        "name_translations": {
             "en": "Cyprus"
         },
         "cases": {
@@ -1342,22 +1358,6 @@
         "code": "PW",
         "name": "Палау",
         "currency": "USD"
-    },
-    {
-        "name_translations": {
-            "en": "Australia"
-        },
-        "cases": {
-            "da": "Австралии",
-            "pr": "Австралии",
-            "ro": "Австралии",
-            "su": "Австралия",
-            "tv": "Австралией",
-            "vi": "в Австралию"
-        },
-        "code": "AU",
-        "name": "Австралия",
-        "currency": "AUD"
     },
     {
         "name_translations": {
@@ -1521,19 +1521,19 @@
     },
     {
         "name_translations": {
-            "en": "Laos"
+            "en": "Kyrgyzstan"
         },
         "cases": {
-            "da": "Лаосу",
-            "pr": "Лаосе",
-            "ro": "Лаоса",
-            "su": "Лаос",
-            "tv": "Лаосом",
-            "vi": "в Лаос"
+            "da": "Кыргызстану",
+            "pr": "Кыргызстане",
+            "ro": "Кыргызстана",
+            "su": "Кыргызстан",
+            "tv": "Кыргызстаном",
+            "vi": "в Кыргызстан"
         },
-        "code": "LA",
-        "name": "Лаос",
-        "currency": "LAK"
+        "code": "KG",
+        "name": "Кыргызстан",
+        "currency": "KGS"
     },
     {
         "name_translations": {
@@ -1550,6 +1550,22 @@
         "code": "ZM",
         "name": "Замбия",
         "currency": "ZMK"
+    },
+    {
+        "name_translations": {
+            "en": "Gambia"
+        },
+        "cases": {
+            "da": "Гамбии",
+            "pr": "Гамбии",
+            "ro": "Гамбии",
+            "su": "Гамбия",
+            "tv": "Гамбией",
+            "vi": "в Гамбию"
+        },
+        "code": "GM",
+        "name": "Гамбия",
+        "currency": "GMD"
     },
     {
         "name_translations": {
@@ -1601,35 +1617,19 @@
     },
     {
         "name_translations": {
-            "en": "Kyrgyzstan"
+            "en": "Laos"
         },
         "cases": {
-            "da": "Кыргызстану",
-            "pr": "Кыргызстане",
-            "ro": "Кыргызстана",
-            "su": "Кыргызстан",
-            "tv": "Кыргызстаном",
-            "vi": "в Кыргызстан"
+            "da": "Лаосу",
+            "pr": "Лаосе",
+            "ro": "Лаоса",
+            "su": "Лаос",
+            "tv": "Лаосом",
+            "vi": "в Лаос"
         },
-        "code": "KG",
-        "name": "Кыргызстан",
-        "currency": "KGS"
-    },
-    {
-        "name_translations": {
-            "en": "Gambia"
-        },
-        "cases": {
-            "da": "Гамбии",
-            "pr": "Гамбии",
-            "ro": "Гамбии",
-            "su": "Гамбия",
-            "tv": "Гамбией",
-            "vi": "в Гамбию"
-        },
-        "code": "GM",
-        "name": "Гамбия",
-        "currency": "GMD"
+        "code": "LA",
+        "name": "Лаос",
+        "currency": "LAK"
     },
     {
         "name_translations": {
@@ -1697,6 +1697,38 @@
     },
     {
         "name_translations": {
+            "en": "Czech Republic"
+        },
+        "cases": {
+            "da": "Чехии",
+            "pr": "Чехии",
+            "ro": "Чехии",
+            "su": "Чехия",
+            "tv": "Чехией",
+            "vi": "в Чехию"
+        },
+        "code": "CZ",
+        "name": "Чехия",
+        "currency": "CZK"
+    },
+    {
+        "name_translations": {
+            "en": "Guadeloupe"
+        },
+        "cases": {
+            "da": "Гваделупе",
+            "pr": "Гваделупе",
+            "ro": "Гваделупы",
+            "su": "Гваделупа",
+            "tv": "Гваделупой",
+            "vi": "в Гваделупу"
+        },
+        "code": "GP",
+        "name": "Гваделупа",
+        "currency": "EUR"
+    },
+    {
+        "name_translations": {
             "en": "Vietnam"
         },
         "cases": {
@@ -1713,19 +1745,19 @@
     },
     {
         "name_translations": {
-            "en": "Czech Republic"
+            "en": "Tuvalu"
         },
         "cases": {
-            "da": "Чехии",
-            "pr": "Чехии",
-            "ro": "Чехии",
-            "su": "Чехия",
-            "tv": "Чехией",
-            "vi": "в Чехию"
+            "da": "Тувалу",
+            "pr": "Тувалу",
+            "ro": "Тувалу",
+            "su": "Тувалу",
+            "tv": "Тувалу",
+            "vi": "в Тувалу"
         },
-        "code": "CZ",
-        "name": "Чехия",
-        "currency": "CZK"
+        "code": "TV",
+        "name": "Тувалу",
+        "currency": "AUD"
     },
     {
         "name_translations": {
@@ -1761,38 +1793,6 @@
     },
     {
         "name_translations": {
-            "en": "Guadeloupe"
-        },
-        "cases": {
-            "da": "Гваделупе",
-            "pr": "Гваделупе",
-            "ro": "Гваделупы",
-            "su": "Гваделупа",
-            "tv": "Гваделупой",
-            "vi": "в Гваделупу"
-        },
-        "code": "GP",
-        "name": "Гваделупа",
-        "currency": "EUR"
-    },
-    {
-        "name_translations": {
-            "en": "Tuvalu"
-        },
-        "cases": {
-            "da": "Тувалу",
-            "pr": "Тувалу",
-            "ro": "Тувалу",
-            "su": "Тувалу",
-            "tv": "Тувалу",
-            "vi": "в Тувалу"
-        },
-        "code": "TV",
-        "name": "Тувалу",
-        "currency": "AUD"
-    },
-    {
-        "name_translations": {
             "en": "Algeria"
         },
         "cases": {
@@ -1806,22 +1806,6 @@
         "code": "DZ",
         "name": "Алжир",
         "currency": "DZD"
-    },
-    {
-        "name_translations": {
-            "en": "Mauritania"
-        },
-        "cases": {
-            "da": "Мавритании",
-            "pr": "Мавритании",
-            "ro": "Мавритании",
-            "su": "Мавритания",
-            "tv": "Мавританией",
-            "vi": "в Мавританию"
-        },
-        "code": "MR",
-        "name": "Мавритания",
-        "currency": "MRO"
     },
     {
         "name_translations": {
@@ -1841,22 +1825,6 @@
     },
     {
         "name_translations": {
-            "en": "Libya"
-        },
-        "cases": {
-            "da": "Ливии",
-            "pr": "Ливии",
-            "ro": "Ливии",
-            "su": "Ливия",
-            "tv": "Ливией",
-            "vi": "в Ливию"
-        },
-        "code": "LY",
-        "name": "Ливия",
-        "currency": "LYD"
-    },
-    {
-        "name_translations": {
             "en": "Ivory Coast"
         },
         "cases": {
@@ -1873,19 +1841,35 @@
     },
     {
         "name_translations": {
-            "en": "Fiji"
+            "en": "Libya"
         },
         "cases": {
-            "da": "Фиджи",
-            "pr": "Фиджи",
-            "ro": "Фиджи",
-            "su": "Фиджи",
-            "tv": "Фиджи",
-            "vi": "на Фиджи"
+            "da": "Ливии",
+            "pr": "Ливии",
+            "ro": "Ливии",
+            "su": "Ливия",
+            "tv": "Ливией",
+            "vi": "в Ливию"
         },
-        "code": "FJ",
-        "name": "Фиджи",
-        "currency": "FJD"
+        "code": "LY",
+        "name": "Ливия",
+        "currency": "LYD"
+    },
+    {
+        "name_translations": {
+            "en": "Mauritania"
+        },
+        "cases": {
+            "da": "Мавритании",
+            "pr": "Мавритании",
+            "ro": "Мавритании",
+            "su": "Мавритания",
+            "tv": "Мавританией",
+            "vi": "в Мавританию"
+        },
+        "code": "MR",
+        "name": "Мавритания",
+        "currency": "MRO"
     },
     {
         "name_translations": {
@@ -1953,6 +1937,22 @@
     },
     {
         "name_translations": {
+            "en": "Fiji"
+        },
+        "cases": {
+            "da": "Фиджи",
+            "pr": "Фиджи",
+            "ro": "Фиджи",
+            "su": "Фиджи",
+            "tv": "Фиджи",
+            "vi": "на Фиджи"
+        },
+        "code": "FJ",
+        "name": "Фиджи",
+        "currency": "FJD"
+    },
+    {
+        "name_translations": {
             "en": "Mali"
         },
         "cases": {
@@ -1966,22 +1966,6 @@
         "code": "ML",
         "name": "Мали",
         "currency": "XOF"
-    },
-    {
-        "name_translations": {
-            "en": "Saint Vincent and the Grenadines"
-        },
-        "cases": {
-            "da": "в Сент-Винсент и Гренадины",
-            "pr": "Сент-Винсенте и Гренадинах",
-            "ro": "Сент-Винсента и Гренадин",
-            "su": "Сент-Винсент и Гренадины",
-            "tv": "Сент-Винсентом и Гренадинами",
-            "vi": "Сент-Винсент и Гренадины"
-        },
-        "code": "VC",
-        "name": "Сент-Винсент и Гренадины",
-        "currency": "XCD"
     },
     {
         "name_translations": {
@@ -2001,6 +1985,22 @@
     },
     {
         "name_translations": {
+            "en": "Saint Vincent and the Grenadines"
+        },
+        "cases": {
+            "da": "в Сент-Винсент и Гренадины",
+            "pr": "Сент-Винсенте и Гренадинах",
+            "ro": "Сент-Винсента и Гренадин",
+            "su": "Сент-Винсент и Гренадины",
+            "tv": "Сент-Винсентом и Гренадинами",
+            "vi": "Сент-Винсент и Гренадины"
+        },
+        "code": "VC",
+        "name": "Сент-Винсент и Гренадины",
+        "currency": "XCD"
+    },
+    {
+        "name_translations": {
             "en": "Zimbabwe"
         },
         "cases": {
@@ -2017,19 +2017,19 @@
     },
     {
         "name_translations": {
-            "en": "Iraq"
+            "en": "Curaçao"
         },
         "cases": {
-            "da": "Ираку",
-            "pr": "Ираке",
-            "ro": "Ирака",
-            "su": "Ирак",
-            "tv": "Ираком",
-            "vi": "в Ирак"
+            "da": "Кюрасао",
+            "pr": "Кюрасао",
+            "ro": "Кюрасао",
+            "su": "Кюрасао",
+            "tv": "Кюрасао",
+            "vi": "в Кюрасао"
         },
-        "code": "IQ",
-        "name": "Ирак",
-        "currency": "IQD"
+        "code": "CW",
+        "name": "Кюрасао",
+        "currency": "ANG"
     },
     {
         "name_translations": {
@@ -2065,6 +2065,22 @@
     },
     {
         "name_translations": {
+            "en": "Iraq"
+        },
+        "cases": {
+            "da": "Ираку",
+            "pr": "Ираке",
+            "ro": "Ирака",
+            "su": "Ирак",
+            "tv": "Ираком",
+            "vi": "в Ирак"
+        },
+        "code": "IQ",
+        "name": "Ирак",
+        "currency": "IQD"
+    },
+    {
+        "name_translations": {
             "en": "Estonia"
         },
         "cases": {
@@ -2078,22 +2094,6 @@
         "code": "EE",
         "name": "Эстония",
         "currency": "EUR"
-    },
-    {
-        "name_translations": {
-            "en": "Curaçao"
-        },
-        "cases": {
-            "da": "Кюрасао",
-            "pr": "Кюрасао",
-            "ro": "Кюрасао",
-            "su": "Кюрасао",
-            "tv": "Кюрасао",
-            "vi": "в Кюрасао"
-        },
-        "code": "CW",
-        "name": "Кюрасао",
-        "currency": "ANG"
     },
     {
         "name_translations": {
@@ -2113,22 +2113,6 @@
     },
     {
         "name_translations": {
-            "en": "Monaco"
-        },
-        "cases": {
-            "da": "Монако",
-            "pr": "Монако",
-            "ro": "Монако",
-            "su": "Монако",
-            "tv": "Монако",
-            "vi": "в Монако"
-        },
-        "code": "MC",
-        "name": "Монако",
-        "currency": "EUR"
-    },
-    {
-        "name_translations": {
             "en": "Ireland"
         },
         "cases": {
@@ -2145,35 +2129,19 @@
     },
     {
         "name_translations": {
-            "en": "Bermuda"
+            "en": "Monaco"
         },
         "cases": {
-            "da": "Бермудам",
-            "pr": "Бермудах",
-            "ro": "Бермуд",
-            "su": "Бермуды",
-            "tv": "Бермудами",
-            "vi": "на Бермуды"
+            "da": "Монако",
+            "pr": "Монако",
+            "ro": "Монако",
+            "su": "Монако",
+            "tv": "Монако",
+            "vi": "в Монако"
         },
-        "code": "BM",
-        "name": "Бермуды",
-        "currency": "BMD"
-    },
-    {
-        "name_translations": {
-            "en": "Equatorial Guinea"
-        },
-        "cases": {
-            "da": "Экваториальной Гвинее",
-            "pr": "Экваториальной Гвинее",
-            "ro": "Экваториальной Гвинеи",
-            "su": "Экваториальная Гвинея",
-            "tv": "Экваториальной Гвинеей",
-            "vi": "в Экваториальную Гвинею"
-        },
-        "code": "GQ",
-        "name": "Экваториальная Гвинея",
-        "currency": "XAF"
+        "code": "MC",
+        "name": "Монако",
+        "currency": "EUR"
     },
     {
         "name_translations": {
@@ -2209,6 +2177,22 @@
     },
     {
         "name_translations": {
+            "en": "Bermuda"
+        },
+        "cases": {
+            "da": "Бермудам",
+            "pr": "Бермудах",
+            "ro": "Бермуд",
+            "su": "Бермуды",
+            "tv": "Бермудами",
+            "vi": "на Бермуды"
+        },
+        "code": "BM",
+        "name": "Бермуды",
+        "currency": "BMD"
+    },
+    {
+        "name_translations": {
             "en": "Papua New Guinea"
         },
         "cases": {
@@ -2222,6 +2206,22 @@
         "code": "PG",
         "name": "Папуа — Новая Гвинея",
         "currency": "PGK"
+    },
+    {
+        "name_translations": {
+            "en": "Equatorial Guinea"
+        },
+        "cases": {
+            "da": "Экваториальной Гвинее",
+            "pr": "Экваториальной Гвинее",
+            "ro": "Экваториальной Гвинеи",
+            "su": "Экваториальная Гвинея",
+            "tv": "Экваториальной Гвинеей",
+            "vi": "в Экваториальную Гвинею"
+        },
+        "code": "GQ",
+        "name": "Экваториальная Гвинея",
+        "currency": "XAF"
     },
     {
         "name_translations": {
@@ -2273,38 +2273,6 @@
     },
     {
         "name_translations": {
-            "en": "Turks and Caicos Islands"
-        },
-        "cases": {
-            "da": "Тёркс и Кайкос",
-            "pr": "Тёркс и Кайкос",
-            "ro": "Тёркс и Кайкос",
-            "su": "Тёркс и Кайкос",
-            "tv": "Тёркс и Кайкос",
-            "vi": "на Тёркс и Кайкос"
-        },
-        "code": "TC",
-        "name": "Тёркс и Кайкос",
-        "currency": "USD"
-    },
-    {
-        "name_translations": {
-            "en": "Sint Maarten"
-        },
-        "cases": {
-            "da": "Синт-Мартену",
-            "pr": "Синт-Мартене",
-            "ro": "Синт-Мартена",
-            "su": "Синт-Мартен",
-            "tv": "Синт-Мартеном",
-            "vi": "в Синт-Мартен"
-        },
-        "code": "SX",
-        "name": "Синт-Мартен",
-        "currency": "ANG"
-    },
-    {
-        "name_translations": {
             "en": "Micronesia"
         },
         "cases": {
@@ -2317,6 +2285,22 @@
         },
         "code": "FM",
         "name": "Микронезия",
+        "currency": "USD"
+    },
+    {
+        "name_translations": {
+            "en": "Turks and Caicos Islands"
+        },
+        "cases": {
+            "da": "Тёркс и Кайкос",
+            "pr": "Тёркс и Кайкос",
+            "ro": "Тёркс и Кайкос",
+            "su": "Тёркс и Кайкос",
+            "tv": "Тёркс и Кайкос",
+            "vi": "на Тёркс и Кайкос"
+        },
+        "code": "TC",
+        "name": "Тёркс и Кайкос",
         "currency": "USD"
     },
     {
@@ -2334,6 +2318,22 @@
         "code": "IS",
         "name": "Исландия",
         "currency": "ISK"
+    },
+    {
+        "name_translations": {
+            "en": "Sint Maarten"
+        },
+        "cases": {
+            "da": "Синт-Мартену",
+            "pr": "Синт-Мартене",
+            "ro": "Синт-Мартена",
+            "su": "Синт-Мартен",
+            "tv": "Синт-Мартеном",
+            "vi": "в Синт-Мартен"
+        },
+        "code": "SX",
+        "name": "Синт-Мартен",
+        "currency": "ANG"
     },
     {
         "name_translations": {
@@ -2465,22 +2465,6 @@
     },
     {
         "name_translations": {
-            "en": "Afghanistan"
-        },
-        "cases": {
-            "da": "Афганистану",
-            "pr": "Афганистане",
-            "ro": "Афганистана",
-            "su": "Афганистан",
-            "tv": "Афганистаном",
-            "vi": "Афганистан"
-        },
-        "code": "AF",
-        "name": "Афганистан",
-        "currency": "AFN"
-    },
-    {
-        "name_translations": {
             "en": "Finland"
         },
         "cases": {
@@ -2513,19 +2497,19 @@
     },
     {
         "name_translations": {
-            "en": "Peru"
+            "en": "Afghanistan"
         },
         "cases": {
-            "da": "Перу",
-            "pr": "Перу",
-            "ro": "Перу",
-            "su": "Перу",
-            "tv": "Перу",
-            "vi": "в Перу"
+            "da": "Афганистану",
+            "pr": "Афганистане",
+            "ro": "Афганистана",
+            "su": "Афганистан",
+            "tv": "Афганистаном",
+            "vi": "Афганистан"
         },
-        "code": "PE",
-        "name": "Перу",
-        "currency": "PEN"
+        "code": "AF",
+        "name": "Афганистан",
+        "currency": "AFN"
     },
     {
         "name_translations": {
@@ -2574,6 +2558,22 @@
         "code": "JE",
         "name": "Джерси",
         "currency": "GBP"
+    },
+    {
+        "name_translations": {
+            "en": "Peru"
+        },
+        "cases": {
+            "da": "Перу",
+            "pr": "Перу",
+            "ro": "Перу",
+            "su": "Перу",
+            "tv": "Перу",
+            "vi": "в Перу"
+        },
+        "code": "PE",
+        "name": "Перу",
+        "currency": "PEN"
     },
     {
         "name_translations": {
@@ -2641,22 +2641,6 @@
     },
     {
         "name_translations": {
-            "en": "Chad"
-        },
-        "cases": {
-            "da": "Чад",
-            "pr": "Чад",
-            "ro": "Чад",
-            "su": "Чад",
-            "tv": "Чад",
-            "vi": "в Чад"
-        },
-        "code": "TD",
-        "name": "Чад",
-        "currency": "XAF"
-    },
-    {
-        "name_translations": {
             "en": "Anguilla"
         },
         "cases": {
@@ -2670,6 +2654,22 @@
         "code": "AI",
         "name": "Ангилья",
         "currency": "XCD"
+    },
+    {
+        "name_translations": {
+            "en": "Chad"
+        },
+        "cases": {
+            "da": "Чад",
+            "pr": "Чад",
+            "ro": "Чад",
+            "su": "Чад",
+            "tv": "Чад",
+            "vi": "в Чад"
+        },
+        "code": "TD",
+        "name": "Чад",
+        "currency": "XAF"
     },
     {
         "name_translations": {
@@ -2721,22 +2721,6 @@
     },
     {
         "name_translations": {
-            "en": "Seychelles"
-        },
-        "cases": {
-            "da": "Сейшелам",
-            "pr": "Сейшелах",
-            "ro": "Сейшелов",
-            "su": "Сейшелы",
-            "tv": "Сейшелами",
-            "vi": "в Сейшелы"
-        },
-        "code": "SC",
-        "name": "Сейшелы",
-        "currency": "SCR"
-    },
-    {
-        "name_translations": {
             "en": "Georgia"
         },
         "cases": {
@@ -2750,6 +2734,22 @@
         "code": "GE",
         "name": "Грузия",
         "currency": "GEL"
+    },
+    {
+        "name_translations": {
+            "en": "Seychelles"
+        },
+        "cases": {
+            "da": "Сейшелам",
+            "pr": "Сейшелах",
+            "ro": "Сейшелов",
+            "su": "Сейшелы",
+            "tv": "Сейшелами",
+            "vi": "в Сейшелы"
+        },
+        "code": "SC",
+        "name": "Сейшелы",
+        "currency": "SCR"
     },
     {
         "name_translations": {
@@ -2833,22 +2833,6 @@
     },
     {
         "name_translations": {
-            "en": "Cocos (Keeling) Islands"
-        },
-        "cases": {
-            "da": "Кокосовым островам",
-            "pr": "Кокосовых островах",
-            "ro": "Кокосовых островов",
-            "su": "Кокосовые острова",
-            "tv": "Кокосовыми островами",
-            "vi": "на Кокосовые острова"
-        },
-        "code": "CC",
-        "name": "Кокосовые острова",
-        "currency": "AUD"
-    },
-    {
-        "name_translations": {
             "en": "Angola"
         },
         "cases": {
@@ -2897,6 +2881,22 @@
     },
     {
         "name_translations": {
+            "en": "Cocos (Keeling) Islands"
+        },
+        "cases": {
+            "da": "Кокосовым островам",
+            "pr": "Кокосовых островах",
+            "ro": "Кокосовых островов",
+            "su": "Кокосовые острова",
+            "tv": "Кокосовыми островами",
+            "vi": "на Кокосовые острова"
+        },
+        "code": "CC",
+        "name": "Кокосовые острова",
+        "currency": "AUD"
+    },
+    {
+        "name_translations": {
             "en": "Greece"
         },
         "cases": {
@@ -2926,54 +2926,6 @@
         "code": "OM",
         "name": "Оман",
         "currency": "OMR"
-    },
-    {
-        "name_translations": {
-            "en": "Djibouti"
-        },
-        "cases": {
-            "da": "Джибути",
-            "pr": "Джибути",
-            "ro": "Джибути",
-            "su": "Джибути",
-            "tv": "Джибути",
-            "vi": "в Джибути"
-        },
-        "code": "DJ",
-        "name": "Джибути",
-        "currency": "DJF"
-    },
-    {
-        "name_translations": {
-            "en": "Liberia"
-        },
-        "cases": {
-            "da": "Либерии",
-            "pr": "Либерии",
-            "ro": "Либерию",
-            "su": "Либерия",
-            "tv": "Либерией",
-            "vi": "в Либерию"
-        },
-        "code": "LR",
-        "name": "Либерия",
-        "currency": "LRD"
-    },
-    {
-        "name_translations": {
-            "en": "Bulgaria"
-        },
-        "cases": {
-            "da": "Болгарии",
-            "pr": "Болгарии",
-            "ro": "Болгарии",
-            "su": "Болгария",
-            "tv": "Болгарией",
-            "vi": "в Болгарию"
-        },
-        "code": "BG",
-        "name": "Болгария",
-        "currency": "BGN"
     },
     {
         "name_translations": {
@@ -3009,6 +2961,22 @@
     },
     {
         "name_translations": {
+            "en": "Djibouti"
+        },
+        "cases": {
+            "da": "Джибути",
+            "pr": "Джибути",
+            "ro": "Джибути",
+            "su": "Джибути",
+            "tv": "Джибути",
+            "vi": "в Джибути"
+        },
+        "code": "DJ",
+        "name": "Джибути",
+        "currency": "DJF"
+    },
+    {
+        "name_translations": {
             "en": "Saint Lucia"
         },
         "cases": {
@@ -3025,19 +2993,35 @@
     },
     {
         "name_translations": {
-            "en": "Crimea"
+            "en": "Liberia"
         },
         "cases": {
-            "da": "Крыму",
-            "pr": "Крыму",
-            "ro": "Крыма",
-            "su": "Крым",
-            "tv": "Крымом",
-            "vi": "в Крым"
+            "da": "Либерии",
+            "pr": "Либерии",
+            "ro": "Либерию",
+            "su": "Либерия",
+            "tv": "Либерией",
+            "vi": "в Либерию"
         },
-        "code": "KX",
-        "name": "Крым",
-        "currency": ""
+        "code": "LR",
+        "name": "Либерия",
+        "currency": "LRD"
+    },
+    {
+        "name_translations": {
+            "en": "Bulgaria"
+        },
+        "cases": {
+            "da": "Болгарии",
+            "pr": "Болгарии",
+            "ro": "Болгарии",
+            "su": "Болгария",
+            "tv": "Болгарией",
+            "vi": "в Болгарию"
+        },
+        "code": "BG",
+        "name": "Болгария",
+        "currency": "BGN"
     },
     {
         "name_translations": {
@@ -3057,6 +3041,22 @@
     },
     {
         "name_translations": {
+            "en": "Crimea"
+        },
+        "cases": {
+            "da": "Крыму",
+            "pr": "Крыму",
+            "ro": "Крыма",
+            "su": "Крым",
+            "tv": "Крымом",
+            "vi": "в Крым"
+        },
+        "code": "KX",
+        "name": "Крым",
+        "currency": ""
+    },
+    {
+        "name_translations": {
             "en": "French Guiana"
         },
         "cases": {
@@ -3070,22 +3070,6 @@
         "code": "GF",
         "name": "Французская Гвиана",
         "currency": "EUR"
-    },
-    {
-        "name_translations": {
-            "en": "Panama"
-        },
-        "cases": {
-            "da": "Панаме",
-            "pr": "Панаме",
-            "ro": "Панамы",
-            "su": "Панама",
-            "tv": "Панамой",
-            "vi": "в Панаму"
-        },
-        "code": "PA",
-        "name": "Панама",
-        "currency": "PAB"
     },
     {
         "name_translations": {
@@ -3121,35 +3105,19 @@
     },
     {
         "name_translations": {
-            "en": "Nauru"
+            "en": "Panama"
         },
         "cases": {
-            "da": "Науру",
-            "pr": "Науру",
-            "ro": "Науру",
-            "su": "Науру",
-            "tv": "Науру",
-            "vi": "в Науру"
+            "da": "Панаме",
+            "pr": "Панаме",
+            "ro": "Панамы",
+            "su": "Панама",
+            "tv": "Панамой",
+            "vi": "в Панаму"
         },
-        "code": "NR",
-        "name": "Науру",
-        "currency": "AUD"
-    },
-    {
-        "name_translations": {
-            "en": "Bhutan"
-        },
-        "cases": {
-            "da": "Бутану",
-            "pr": "Бутане",
-            "ro": "Бутана",
-            "su": "Бутан",
-            "tv": "Бутаном",
-            "vi": "в Бутан"
-        },
-        "code": "BT",
-        "name": "Бутан",
-        "currency": "BTN"
+        "code": "PA",
+        "name": "Панама",
+        "currency": "PAB"
     },
     {
         "name_translations": {
@@ -3166,6 +3134,22 @@
         "code": "LV",
         "name": "Латвия",
         "currency": "EUR"
+    },
+    {
+        "name_translations": {
+            "en": "Nauru"
+        },
+        "cases": {
+            "da": "Науру",
+            "pr": "Науру",
+            "ro": "Науру",
+            "su": "Науру",
+            "tv": "Науру",
+            "vi": "в Науру"
+        },
+        "code": "NR",
+        "name": "Науру",
+        "currency": "AUD"
     },
     {
         "name_translations": {
@@ -3201,6 +3185,22 @@
     },
     {
         "name_translations": {
+            "en": "Bhutan"
+        },
+        "cases": {
+            "da": "Бутану",
+            "pr": "Бутане",
+            "ro": "Бутана",
+            "su": "Бутан",
+            "tv": "Бутаном",
+            "vi": "в Бутан"
+        },
+        "code": "BT",
+        "name": "Бутан",
+        "currency": "BTN"
+    },
+    {
+        "name_translations": {
             "en": "Samoa"
         },
         "cases": {
@@ -3214,38 +3214,6 @@
         "code": "WS",
         "name": "Самоа",
         "currency": "WST"
-    },
-    {
-        "name_translations": {
-            "en": "Antigua and Barbuda"
-        },
-        "cases": {
-            "da": "Антигуа и Барбуде",
-            "pr": "Антигуа и Барбуде",
-            "ro": "Антигуа и Барбуды",
-            "su": "Антигуа и Барбуда",
-            "tv": "Антигуа и Барбудой",
-            "vi": "в Антигуа и Барбуду"
-        },
-        "code": "AG",
-        "name": "Антигуа и Барбуда",
-        "currency": "XCD"
-    },
-    {
-        "name_translations": {
-            "en": "Heard Island and McDonald Islands"
-        },
-        "cases": {
-            "da": "Острову Херд и островм Макдональд",
-            "pr": "Острове Херд и островах Макдональд",
-            "ro": "Острова Херд и островов Макдональд",
-            "su": "Остров Херд и острова Макдональд",
-            "tv": "Островом Херд и островами Макдональд",
-            "vi": "на Остров Херд и острова Макдональд"
-        },
-        "code": "HM",
-        "name": "Остров Херд и острова Макдональд",
-        "currency": "AUD"
     },
     {
         "name_translations": {
@@ -3297,6 +3265,38 @@
     },
     {
         "name_translations": {
+            "en": "Antigua and Barbuda"
+        },
+        "cases": {
+            "da": "Антигуа и Барбуде",
+            "pr": "Антигуа и Барбуде",
+            "ro": "Антигуа и Барбуды",
+            "su": "Антигуа и Барбуда",
+            "tv": "Антигуа и Барбудой",
+            "vi": "в Антигуа и Барбуду"
+        },
+        "code": "AG",
+        "name": "Антигуа и Барбуда",
+        "currency": "XCD"
+    },
+    {
+        "name_translations": {
+            "en": "Heard Island and McDonald Islands"
+        },
+        "cases": {
+            "da": "Острову Херд и островм Макдональд",
+            "pr": "Острове Херд и островах Макдональд",
+            "ro": "Острова Херд и островов Макдональд",
+            "su": "Остров Херд и острова Макдональд",
+            "tv": "Островом Херд и островами Макдональд",
+            "vi": "на Остров Херд и острова Макдональд"
+        },
+        "code": "HM",
+        "name": "Остров Херд и острова Макдональд",
+        "currency": "AUD"
+    },
+    {
+        "name_translations": {
             "en": "Uruguay"
         },
         "cases": {
@@ -3326,22 +3326,6 @@
         "code": "PL",
         "name": "Польша",
         "currency": "PLN"
-    },
-    {
-        "name_translations": {
-            "en": "São Tomé and Príncipe"
-        },
-        "cases": {
-            "da": "Сан-Томе и Принсипи",
-            "pr": "Сан-Томе и Принсипи",
-            "ro": "Сан-Томе и Принсипи",
-            "su": "Сан-Томе и Принсипи",
-            "tv": "Сан-Томе и Принсипи",
-            "vi": "в Сан-Томе и Принсипи"
-        },
-        "code": "ST",
-        "name": "Сан-Томе и Принсипи",
-        "currency": "STD"
     },
     {
         "name_translations": {
@@ -3377,6 +3361,22 @@
     },
     {
         "name_translations": {
+            "en": "São Tomé and Príncipe"
+        },
+        "cases": {
+            "da": "Сан-Томе и Принсипи",
+            "pr": "Сан-Томе и Принсипи",
+            "ro": "Сан-Томе и Принсипи",
+            "su": "Сан-Томе и Принсипи",
+            "tv": "Сан-Томе и Принсипи",
+            "vi": "в Сан-Томе и Принсипи"
+        },
+        "code": "ST",
+        "name": "Сан-Томе и Принсипи",
+        "currency": "STD"
+    },
+    {
+        "name_translations": {
             "en": "Paraguay"
         },
         "cases": {
@@ -3390,22 +3390,6 @@
         "code": "PY",
         "name": "Парагвай",
         "currency": "PYG"
-    },
-    {
-        "name_translations": {
-            "en": "Armenia"
-        },
-        "cases": {
-            "da": "Армении",
-            "pr": "Армении",
-            "ro": "Армении",
-            "su": "Армения",
-            "tv": "Арменией",
-            "vi": "в Армению"
-        },
-        "code": "AM",
-        "name": "Армения",
-        "currency": "AMD"
     },
     {
         "name_translations": {
@@ -3441,6 +3425,22 @@
     },
     {
         "name_translations": {
+            "en": "Armenia"
+        },
+        "cases": {
+            "da": "Армении",
+            "pr": "Армении",
+            "ro": "Армении",
+            "su": "Армения",
+            "tv": "Арменией",
+            "vi": "в Армению"
+        },
+        "code": "AM",
+        "name": "Армения",
+        "currency": "AMD"
+    },
+    {
+        "name_translations": {
             "en": "Montenegro"
         },
         "cases": {
@@ -3473,22 +3473,6 @@
     },
     {
         "name_translations": {
-            "en": "Uganda"
-        },
-        "cases": {
-            "da": "Уганде",
-            "pr": "Уганде",
-            "ro": "Уганды",
-            "su": "Уганда",
-            "tv": "Угандой",
-            "vi": "в Уганду"
-        },
-        "code": "UG",
-        "name": "Уганда",
-        "currency": "UGX"
-    },
-    {
-        "name_translations": {
             "en": "Vanuatu"
         },
         "cases": {
@@ -3502,6 +3486,22 @@
         "code": "VU",
         "name": "Вануату",
         "currency": "VUV"
+    },
+    {
+        "name_translations": {
+            "en": "Uganda"
+        },
+        "cases": {
+            "da": "Уганде",
+            "pr": "Уганде",
+            "ro": "Уганды",
+            "su": "Уганда",
+            "tv": "Угандой",
+            "vi": "в Уганду"
+        },
+        "code": "UG",
+        "name": "Уганда",
+        "currency": "UGX"
     },
     {
         "name_translations": {
@@ -3585,22 +3585,6 @@
     },
     {
         "name_translations": {
-            "en": "Honduras"
-        },
-        "cases": {
-            "da": "Гондурасу",
-            "pr": "Гондурасе",
-            "ro": "Гондурас",
-            "su": "Гондурас",
-            "tv": "Гондурасом",
-            "vi": "в Гондурас"
-        },
-        "code": "HN",
-        "name": "Гондурас",
-        "currency": "HNL"
-    },
-    {
-        "name_translations": {
             "en": "China"
         },
         "cases": {
@@ -3633,19 +3617,19 @@
     },
     {
         "name_translations": {
-            "en": "Canada"
+            "en": "Honduras"
         },
         "cases": {
-            "da": "Канаде",
-            "pr": "Канаде",
-            "ro": "Канады",
-            "su": "Канада",
-            "tv": "Канадой",
-            "vi": "в Канаду"
+            "da": "Гондурасу",
+            "pr": "Гондурасе",
+            "ro": "Гондурас",
+            "su": "Гондурас",
+            "tv": "Гондурасом",
+            "vi": "в Гондурас"
         },
-        "code": "CA",
-        "name": "Канада",
-        "currency": "CAD"
+        "code": "HN",
+        "name": "Гондурас",
+        "currency": "HNL"
     },
     {
         "name_translations": {
@@ -3681,6 +3665,22 @@
     },
     {
         "name_translations": {
+            "en": "Canada"
+        },
+        "cases": {
+            "da": "Канаде",
+            "pr": "Канаде",
+            "ro": "Канады",
+            "su": "Канада",
+            "tv": "Канадой",
+            "vi": "в Канаду"
+        },
+        "code": "CA",
+        "name": "Канада",
+        "currency": "CAD"
+    },
+    {
+        "name_translations": {
             "en": "Chile"
         },
         "cases": {
@@ -3697,22 +3697,6 @@
     },
     {
         "name_translations": {
-            "en": "Haiti"
-        },
-        "cases": {
-            "da": "Гаити",
-            "pr": "Гаити",
-            "ro": "Гаити",
-            "su": "Гаити",
-            "tv": "Гаити",
-            "vi": "в Гаити"
-        },
-        "code": "HT",
-        "name": "Гаити",
-        "currency": "HTG"
-    },
-    {
-        "name_translations": {
             "en": "Japan"
         },
         "cases": {
@@ -3726,6 +3710,22 @@
         "code": "JP",
         "name": "Япония",
         "currency": "JPY"
+    },
+    {
+        "name_translations": {
+            "en": "Haiti"
+        },
+        "cases": {
+            "da": "Гаити",
+            "pr": "Гаити",
+            "ro": "Гаити",
+            "su": "Гаити",
+            "tv": "Гаити",
+            "vi": "в Гаити"
+        },
+        "code": "HT",
+        "name": "Гаити",
+        "currency": "HTG"
     },
     {
         "name_translations": {
@@ -3825,22 +3825,6 @@
     },
     {
         "name_translations": {
-            "en": "Austria"
-        },
-        "cases": {
-            "da": "Австрии",
-            "pr": "Австрии",
-            "ro": "Австрии",
-            "su": "Австрия",
-            "tv": "Австрией",
-            "vi": "в Австрию"
-        },
-        "code": "AT",
-        "name": "Австрия",
-        "currency": "EUR"
-    },
-    {
-        "name_translations": {
             "en": "Sweden"
         },
         "cases": {
@@ -3889,22 +3873,6 @@
     },
     {
         "name_translations": {
-            "en": "Hungary"
-        },
-        "cases": {
-            "da": "Венгрии",
-            "pr": "Венгрии",
-            "ro": "Венгрии",
-            "su": "Венгрия",
-            "tv": "Венгрией",
-            "vi": "в Венгрию"
-        },
-        "code": "HU",
-        "name": "Венгрия",
-        "currency": "HUF"
-    },
-    {
-        "name_translations": {
             "en": "Liechtenstein"
         },
         "cases": {
@@ -3921,19 +3889,35 @@
     },
     {
         "name_translations": {
-            "en": "Germany"
+            "en": "Austria"
         },
         "cases": {
-            "da": "Германии",
-            "pr": "Германии",
-            "ro": "Германии",
-            "su": "Германия",
-            "tv": "Германией",
-            "vi": "в Германию"
+            "da": "Австрии",
+            "pr": "Австрии",
+            "ro": "Австрии",
+            "su": "Австрия",
+            "tv": "Австрией",
+            "vi": "в Австрию"
         },
-        "code": "DE",
-        "name": "Германия",
+        "code": "AT",
+        "name": "Австрия",
         "currency": "EUR"
+    },
+    {
+        "name_translations": {
+            "en": "Hungary"
+        },
+        "cases": {
+            "da": "Венгрии",
+            "pr": "Венгрии",
+            "ro": "Венгрии",
+            "su": "Венгрия",
+            "tv": "Венгрией",
+            "vi": "в Венгрию"
+        },
+        "code": "HU",
+        "name": "Венгрия",
+        "currency": "HUF"
     },
     {
         "name_translations": {
@@ -3950,54 +3934,6 @@
         "code": "RU",
         "name": "Россия",
         "currency": "RUB"
-    },
-    {
-        "name_translations": {
-            "en": "Qatar"
-        },
-        "cases": {
-            "da": "Катару",
-            "pr": "Катаре",
-            "ro": "Катара",
-            "su": "Катар",
-            "tv": "Катаром",
-            "vi": "в Катар"
-        },
-        "code": "QA",
-        "name": "Катар",
-        "currency": "QAR"
-    },
-    {
-        "name_translations": {
-            "en": "India"
-        },
-        "cases": {
-            "da": "Индии",
-            "pr": "Индии",
-            "ro": "Индии",
-            "su": "Индия",
-            "tv": "Индией",
-            "vi": "в Индию"
-        },
-        "code": "IN",
-        "name": "Индия",
-        "currency": "INR"
-    },
-    {
-        "name_translations": {
-            "en": "Andorra"
-        },
-        "cases": {
-            "da": "Андорре",
-            "pr": "Андорре",
-            "ro": "Андорры",
-            "su": "Андорра",
-            "tv": "Андоррой",
-            "vi": "в Андорру"
-        },
-        "code": "AD",
-        "name": "Андорра",
-        "currency": "EUR"
     },
     {
         "name_translations": {
@@ -4030,5 +3966,69 @@
         "code": "DO",
         "name": "Доминиканская Республика",
         "currency": "DOP"
+    },
+    {
+        "name_translations": {
+            "en": "Qatar"
+        },
+        "cases": {
+            "da": "Катару",
+            "pr": "Катаре",
+            "ro": "Катара",
+            "su": "Катар",
+            "tv": "Катаром",
+            "vi": "в Катар"
+        },
+        "code": "QA",
+        "name": "Катар",
+        "currency": "QAR"
+    },
+    {
+        "name_translations": {
+            "en": "Germany"
+        },
+        "cases": {
+            "da": "Германии",
+            "pr": "Германии",
+            "ro": "Германии",
+            "su": "Германия",
+            "tv": "Германией",
+            "vi": "в Германию"
+        },
+        "code": "DE",
+        "name": "Германия",
+        "currency": "EUR"
+    },
+    {
+        "name_translations": {
+            "en": "India"
+        },
+        "cases": {
+            "da": "Индии",
+            "pr": "Индии",
+            "ro": "Индии",
+            "su": "Индия",
+            "tv": "Индией",
+            "vi": "в Индию"
+        },
+        "code": "IN",
+        "name": "Индия",
+        "currency": "INR"
+    },
+    {
+        "name_translations": {
+            "en": "Andorra"
+        },
+        "cases": {
+            "da": "Андорре",
+            "pr": "Андорре",
+            "ro": "Андорры",
+            "su": "Андорра",
+            "tv": "Андоррой",
+            "vi": "в Андорру"
+        },
+        "code": "AD",
+        "name": "Андорра",
+        "currency": "EUR"
     }
 ]
