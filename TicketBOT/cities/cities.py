@@ -20,5 +20,7 @@ def get_cities():
     with open('cities.json', 'w', encoding='utf-8') as file:
         json.dump(src, file, indent=4, ensure_ascii=False)
 
+    # return src
+
 
 get_cities()
