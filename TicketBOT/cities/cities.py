@@ -23,4 +23,8 @@ def get_cities():
     # return src
 
 
+
+
+
 get_cities()
+get_airports()
