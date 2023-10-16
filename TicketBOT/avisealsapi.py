@@ -27,4 +27,4 @@ def get_flight_info(origin, destination, departure_date):
 
 
 if __name__ == '__main__':
-    get_flight_info(origin='IST', destination='UFA', departure_date='2023-11-10')
+    get_flight_info(origin='MOW', destination='UFA', departure_date='2023-11-10')

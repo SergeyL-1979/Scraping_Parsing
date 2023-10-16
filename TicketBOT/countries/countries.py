@@ -21,8 +21,7 @@ def get_countries():
         new_dict = dict()
         for country in src:
             new_dict[country["name"]] = country['code']
-            currency_list[country["currency"]] = country["currency"]
-            currency_list[country["name"]] = country["name"]
+            currency_list[country["name"]] = country["currency"]
 
     with open('new_countries.json', 'w', encoding='utf-8') as file:
         json.dump(new_dict, file, indent=4, ensure_ascii=False)
