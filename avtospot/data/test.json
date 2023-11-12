@@ -1,0 +1,2501 @@
+{
+    "items": [
+        {
+            "car_id": 2386209,
+            "offer_id": 355539,
+            "slug": "moskvic/3/suv",
+            "url": "https://autospot.ru/brands/moskvic/3/suv/offer/355539/?car=2386209",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 13084,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Красный",
+            "color_code": "#ff0000",
+            "offer_badges": [
+                {
+                    "type": "specialDiscount",
+                    "title": "%",
+                    "description": {
+                        "title": "Специальные скидки",
+                        "text": [
+                            "Выгодное предложение в Петровском на МКАД 16 км !"
+                        ]
+                    },
+                    "badge_type": "discount"
+                },
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "gift",
+                    "title": "Подарок",
+                    "description": {
+                        "title": "Подарок",
+                        "text": [
+                            "Первым 15 покупателям допольнительное оборудование в ПОДАРОК ! \nУспейте воспользоваться всеми привелегиями в Петровском на МКАД 16 км."
+                        ]
+                    },
+                    "badge_type": "promo"
+                },
+                {
+                    "type": "finance",
+                    "title": "Финансовая выгода",
+                    "description": {
+                        "title": "Финансовая выгода",
+                        "text": [
+                            "Воспользуйтесь госпрограммой «Семейный автомобиль» в Петровском на Мкад 16 км ! \r\nПредложение действует на ограниченный список автомобилей Москвич 3 со склада дилера."
+                        ]
+                    },
+                    "badge_type": "promo"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "MT",
+            "transmission_type_name_noun": "Механика",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 45,
+            "offer_date_created": "06.03.23",
+            "count_page_views": 48,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2386209",
+            "prices": {
+                "rrc_price": 2220000,
+                "price": 1370000,
+                "discount": 850000,
+                "retail": {
+                    "price": 2170000,
+                    "discount": 50000
+                },
+                "credit": {
+                    "price": 1670000,
+                    "discount": 550000
+                },
+                "trade_in": {
+                    "price": 1920000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1370000,
+                    "discount": 850000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762994,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047887,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047887/origin/5047887.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2415835,
+            "offer_id": 360803,
+            "slug": "chery/tiggo7promax/suv",
+            "url": "https://autospot.ru/brands/chery/tiggo7promax/suv/offer/360803/?car=2415835",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Tiggo 7 Pro Max",
+            "equipment_group": "Elite",
+            "model_carcase_id": 19604,
+            "equipment_group_id": 964,
+            "min_credit_pay": 17859,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Красный",
+            "color_code": "#dc1111",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 64,
+            "count_review": 1,
+            "review_url": "/brands/chery/4240/review/",
+            "count_cars": 7,
+            "offer_date_created": "07.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/tiggo7promax/suv/2415835",
+            "prices": {
+                "rrc_price": 2809900,
+                "price": 1869900,
+                "discount": 940000,
+                "retail": {
+                    "price": 2809900,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 2809900,
+                    "discount": 0
+                },
+                "trade_in": {
+                    "price": 2809900,
+                    "discount": 0
+                },
+                "credit_trade_in": {
+                    "price": 1869900,
+                    "discount": 940000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18124097,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6746975,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/7/6746975/origin/6746975.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2417900,
+            "offer_id": 358055,
+            "slug": "chery/tiggo7promax/suv",
+            "url": "https://autospot.ru/brands/chery/tiggo7promax/suv/offer/358055/?car=2417900",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Tiggo 7 Pro Max",
+            "equipment_group": "Ultimate",
+            "model_carcase_id": 19604,
+            "equipment_group_id": 4161,
+            "min_credit_pay": 19960,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Огненно-красный с черной крышей",
+            "color_code": "#d2524e",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 79,
+            "count_review": 1,
+            "review_url": "/brands/chery/4240/review/",
+            "count_cars": 2,
+            "offer_date_created": "21.04.23",
+            "count_page_views": 43,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/tiggo7promax/suv/2417900",
+            "prices": {
+                "rrc_price": 3119900,
+                "price": 2089900,
+                "discount": 1030000,
+                "retail": {
+                    "price": 3119900,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 3119900,
+                    "discount": 0
+                },
+                "trade_in": {
+                    "price": 3119900,
+                    "discount": 0
+                },
+                "credit_trade_in": {
+                    "price": 2089900,
+                    "discount": 1030000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18124204,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6746997,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/7/6746997/origin/6746997.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2368643,
+            "offer_id": 351106,
+            "slug": "chery/tiggo7promax/suv",
+            "url": "https://autospot.ru/brands/chery/tiggo7promax/suv/offer/351106/?car=2368643",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Tiggo 7 Pro Max",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19604,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 17668,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#faf7f7",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 72,
+            "count_review": 1,
+            "review_url": "/brands/chery/4240/review/",
+            "count_cars": 72,
+            "offer_date_created": "13.12.22",
+            "count_page_views": 127,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/tiggo7promax/suv/2368643",
+            "prices": {
+                "rrc_price": 2749900,
+                "price": 1849900,
+                "discount": 900000,
+                "retail": {
+                    "price": 2599900,
+                    "discount": 150000
+                },
+                "credit": {
+                    "price": 2299900,
+                    "discount": 450000
+                },
+                "trade_in": {
+                    "price": 2299900,
+                    "discount": 450000
+                },
+                "credit_trade_in": {
+                    "price": 1849900,
+                    "discount": 900000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18124092,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6746970,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/7/6746970/origin/6746970.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2368648,
+            "offer_id": 353770,
+            "slug": "chery/tiggo7promax/suv",
+            "url": "https://autospot.ru/brands/chery/tiggo7promax/suv/offer/353770/?car=2368648",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Tiggo 7 Pro Max",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19604,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 17668,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Серебристый",
+            "color_code": "#c6c6c6",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 72,
+            "count_review": 1,
+            "review_url": "/brands/chery/4240/review/",
+            "count_cars": 22,
+            "offer_date_created": "10.03.23",
+            "count_page_views": 47,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/tiggo7promax/suv/2368648",
+            "prices": {
+                "rrc_price": 2749900,
+                "price": 1849900,
+                "discount": 900000,
+                "retail": {
+                    "price": 2599900,
+                    "discount": 150000
+                },
+                "credit": {
+                    "price": 2299900,
+                    "discount": 450000
+                },
+                "trade_in": {
+                    "price": 2299900,
+                    "discount": 450000
+                },
+                "credit_trade_in": {
+                    "price": 1849900,
+                    "discount": 900000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18124098,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6746976,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/7/6746976/origin/6746976.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2368660,
+            "offer_id": 351176,
+            "slug": "chery/tiggo7promax/suv",
+            "url": "https://autospot.ru/brands/chery/tiggo7promax/suv/offer/351176/?car=2368660",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Tiggo 7 Pro Max",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19604,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 17668,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Черный",
+            "color_code": "#141212",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 72,
+            "count_review": 1,
+            "review_url": "/brands/chery/4240/review/",
+            "count_cars": 37,
+            "offer_date_created": "13.12.22",
+            "count_page_views": 199,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/tiggo7promax/suv/2368660",
+            "prices": {
+                "rrc_price": 2749900,
+                "price": 1849900,
+                "discount": 900000,
+                "retail": {
+                    "price": 2599900,
+                    "discount": 150000
+                },
+                "credit": {
+                    "price": 2299900,
+                    "discount": 450000
+                },
+                "trade_in": {
+                    "price": 2299900,
+                    "discount": 450000
+                },
+                "credit_trade_in": {
+                    "price": 1849900,
+                    "discount": 900000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18124093,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6746971,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/7/6746971/origin/6746971.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2447589,
+            "offer_id": 364861,
+            "slug": "baic/u5plus/sedan",
+            "url": "https://autospot.ru/brands/baic/u5plus/sedan/offer/364861/?car=2447589",
+            "brand_id": "baic",
+            "brand_name": "BAIC",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "U5 Plus",
+            "equipment_group": "Luxury",
+            "model_carcase_id": 19740,
+            "equipment_group_id": 4310,
+            "min_credit_pay": 11833,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Белый металлик",
+            "color_code": "#dddddd",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "В наличии у дилера с 16.09.2023",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "MT",
+            "transmission_type_name_noun": "Механика",
+            "engine_power": 113,
+            "engine_capacity": 1.5,
+            "count_options": 41,
+            "count_review": 0,
+            "review_url": "/brands/baic/4312/review/",
+            "count_cars": 4,
+            "offer_date_created": "31.07.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/baic/u5plus/sedan/2447589",
+            "prices": {
+                "rrc_price": 1839000,
+                "price": 1239000,
+                "discount": 600000,
+                "retail": {
+                    "price": 1839000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 1439000,
+                    "discount": 400000
+                },
+                "trade_in": {
+                    "price": 1639000,
+                    "discount": 200000
+                },
+                "credit_trade_in": {
+                    "price": 1239000,
+                    "discount": 600000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18122147,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6683725,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/6/6683725/origin/6683725.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2447594,
+            "offer_id": 364863,
+            "slug": "baic/u5plus/sedan",
+            "url": "https://autospot.ru/brands/baic/u5plus/sedan/offer/364863/?car=2447594",
+            "brand_id": "baic",
+            "brand_name": "BAIC",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "U5 Plus",
+            "equipment_group": "Luxury",
+            "model_carcase_id": 19740,
+            "equipment_group_id": 4310,
+            "min_credit_pay": 11833,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Черный металлик",
+            "color_code": "#000000",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "В наличии у дилера с 16.09.2023",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "MT",
+            "transmission_type_name_noun": "Механика",
+            "engine_power": 113,
+            "engine_capacity": 1.5,
+            "count_options": 41,
+            "count_review": 0,
+            "review_url": "/brands/baic/4312/review/",
+            "count_cars": 1,
+            "offer_date_created": "31.07.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/baic/u5plus/sedan/2447594",
+            "prices": {
+                "rrc_price": 1839000,
+                "price": 1239000,
+                "discount": 600000,
+                "retail": {
+                    "price": 1839000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 1439000,
+                    "discount": 400000
+                },
+                "trade_in": {
+                    "price": 1639000,
+                    "discount": 200000
+                },
+                "credit_trade_in": {
+                    "price": 1239000,
+                    "discount": 600000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18122149,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6683727,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/6/6683727/origin/6683727.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2391338,
+            "offer_id": 359465,
+            "slug": "jetta/va3/sedan",
+            "url": "https://autospot.ru/brands/jetta/va3/sedan/offer/359465/?car=2391338",
+            "brand_id": "jetta",
+            "brand_name": "Jetta",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "VA3",
+            "equipment_group": "Enjoyment",
+            "model_carcase_id": 19613,
+            "equipment_group_id": 4237,
+            "min_credit_pay": 13323,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Синий",
+            "color_code": "#325b97",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "AT",
+            "transmission_type_name_noun": "Автомат",
+            "engine_power": 112,
+            "engine_capacity": 1.5,
+            "count_options": 45,
+            "count_review": 0,
+            "review_url": "/brands/jetta/4246/review/",
+            "count_cars": 1,
+            "offer_date_created": "25.05.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/jetta/va3/sedan/2391338",
+            "prices": {
+                "rrc_price": 2054000,
+                "price": 1395000,
+                "discount": 659000,
+                "retail": {
+                    "price": 2054000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 1695000,
+                    "discount": 359000
+                },
+                "trade_in": {
+                    "price": 1754000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1395000,
+                    "discount": 659000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 17590593,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6239613,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/2/6239613/origin/6239613.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2415832,
+            "offer_id": 351174,
+            "slug": "chery/tiggo7promax/suv",
+            "url": "https://autospot.ru/brands/chery/tiggo7promax/suv/offer/351174/?car=2415832",
+            "brand_id": "chery",
+            "brand_name": "Chery",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "Tiggo 7 Pro Max",
+            "equipment_group": "Prestige",
+            "model_carcase_id": 19604,
+            "equipment_group_id": 3937,
+            "min_credit_pay": 19100,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Красный",
+            "color_code": "#dc1111",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 72,
+            "count_review": 1,
+            "review_url": "/brands/chery/4240/review/",
+            "count_cars": 33,
+            "offer_date_created": "13.12.22",
+            "count_page_views": 112,
+            "credit_url": "https://autospot.ru/credit/sravni/chery/tiggo7promax/suv/2415832",
+            "prices": {
+                "rrc_price": 2939900,
+                "price": 1999900,
+                "discount": 940000,
+                "retail": {
+                    "price": 2939900,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 2939900,
+                    "discount": 0
+                },
+                "trade_in": {
+                    "price": 2939900,
+                    "discount": 0
+                },
+                "credit_trade_in": {
+                    "price": 1999900,
+                    "discount": 940000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18124097,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6746975,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/7/6746975/origin/6746975.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2418974,
+            "offer_id": 345416,
+            "slug": "jac/j7/liftback",
+            "url": "https://autospot.ru/brands/jac/j7/liftback/offer/345416/?car=2418974",
+            "brand_id": "jac",
+            "brand_name": "JAC",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "J7",
+            "equipment_group": "Luxury",
+            "model_carcase_id": 19402,
+            "equipment_group_id": 1684,
+            "min_credit_pay": 15324,
+            "body_type": "LB",
+            "body_type_name": "Лифтбек",
+            "year": 2023,
+            "color_name": "Синий сапфир (металлик)",
+            "color_code": "#1c64a7",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 136,
+            "engine_capacity": 1.5,
+            "count_options": 53,
+            "count_review": 6,
+            "review_url": "/brands/jac/4159/review/",
+            "count_cars": 12,
+            "offer_date_created": "13.09.22",
+            "count_page_views": 525,
+            "credit_url": "https://autospot.ru/credit/sravni/jac/j7/liftback/2418974",
+            "prices": {
+                "rrc_price": 2345497,
+                "price": 1604497,
+                "discount": 741000,
+                "retail": {
+                    "price": 2345497,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 1954497,
+                    "discount": 391000
+                },
+                "trade_in": {
+                    "price": 2095497,
+                    "discount": 250000
+                },
+                "credit_trade_in": {
+                    "price": 1604497,
+                    "discount": 741000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 13633028,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 4418798,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/4/4/4418798/origin/4418798.png"
+                }
+            ],
+            "is_parallel_import": false
+        }
+    ],
+    "links": {
+        "self": {
+            "href": "https://api.autospot.ru/rest/filter/cars-with-parallel-import/?sort=-percent_discount&limit=11&city_ids%5B0%5D=3&radius=0&page=1"
+        },
+        "next": {
+            "href": "https://api.autospot.ru/rest/filter/cars-with-parallel-import/?sort=-percent_discount&limit=11&city_ids%5B0%5D=3&radius=0&page=2"
+        },
+        "last": {
+            "href": "https://api.autospot.ru/rest/filter/cars-with-parallel-import/?sort=-percent_discount&limit=11&city_ids%5B0%5D=3&radius=0&page=358"
+        }
+    },
+    "meta": {
+        "totalCount": 21999,
+        "pageCount": 358,
+        "currentPage": 1,
+        "perPage": 11,
+        "totalOffers": 3928,
+        "totalCars": 21999
+    },
+    "recommended": [
+        {
+            "car_id": 2454644,
+            "offer_id": 365453,
+            "slug": "omoda/c5/suv",
+            "url": "https://autospot.ru/brands/omoda/c5/suv/offer/365453/?car=2454644",
+            "brand_id": "omoda",
+            "brand_name": "OMODA",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "C5",
+            "equipment_group": "Lifestyle",
+            "model_carcase_id": 19598,
+            "equipment_group_id": 4211,
+            "min_credit_pay": 24353,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Голубой",
+            "color_code": "#7b8ea4",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 69,
+            "count_review": 3,
+            "review_url": "/brands/omoda/4230/review/",
+            "count_cars": 1,
+            "offer_date_created": "04.08.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/omoda/c5/suv/2454644",
+            "prices": {
+                "rrc_price": 2699900,
+                "price": 2549900,
+                "discount": 150000,
+                "retail": {
+                    "price": 2549900,
+                    "discount": 150000
+                },
+                "credit": {
+                    "price": 2549900,
+                    "discount": 150000
+                },
+                "trade_in": {
+                    "price": 2549900,
+                    "discount": 150000
+                },
+                "credit_trade_in": {
+                    "price": 2549900,
+                    "discount": 150000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 15631862,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5478041,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/4/5478041/origin/5478041.png"
+                }
+            ],
+            "is_parallel_import": false
+        }
+    ],
+    "facets": {
+        "total": 21999,
+        "brands": [
+            {
+                "id": "audi",
+                "label": "Audi"
+            },
+            {
+                "id": "baic",
+                "label": "BAIC"
+            },
+            {
+                "id": "bmw",
+                "label": "BMW"
+            },
+            {
+                "id": "changan",
+                "label": "Changan"
+            },
+            {
+                "id": "chery",
+                "label": "Chery"
+            },
+            {
+                "id": "chevrolet",
+                "label": "Chevrolet"
+            },
+            {
+                "id": "citroen",
+                "label": "Citroen"
+            },
+            {
+                "id": "dongfeng",
+                "label": "DongFeng"
+            },
+            {
+                "id": "cheryexeed",
+                "label": "EXEED"
+            },
+            {
+                "id": "evolute",
+                "label": "Evolute"
+            },
+            {
+                "id": "faw",
+                "label": "FAW"
+            },
+            {
+                "id": "gac-motor",
+                "label": "GAC Motor"
+            },
+            {
+                "id": "geely",
+                "label": "Geely"
+            },
+            {
+                "id": "great-wall",
+                "label": "Great Wall"
+            },
+            {
+                "id": "haval",
+                "label": "Haval"
+            },
+            {
+                "id": "honda",
+                "label": "Honda"
+            },
+            {
+                "id": "hyundai",
+                "label": "Hyundai"
+            },
+            {
+                "id": "infiniti",
+                "label": "Infiniti"
+            },
+            {
+                "id": "jac",
+                "label": "JAC"
+            },
+            {
+                "id": "jeep",
+                "label": "Jeep"
+            },
+            {
+                "id": "jetour",
+                "label": "Jetour"
+            },
+            {
+                "id": "jetta",
+                "label": "Jetta"
+            },
+            {
+                "id": "kia",
+                "label": "KIA"
+            },
+            {
+                "id": "kaiyi",
+                "label": "Kaiyi"
+            },
+            {
+                "id": "lada",
+                "label": "LADA"
+            },
+            {
+                "id": "lamborghini",
+                "label": "Lamborghini"
+            },
+            {
+                "id": "land_rover",
+                "label": "Land Rover"
+            },
+            {
+                "id": "lexus",
+                "label": "Lexus"
+            },
+            {
+                "id": "livan",
+                "label": "Livan"
+            },
+            {
+                "id": "mazda",
+                "label": "Mazda"
+            },
+            {
+                "id": "mercedes_benz",
+                "label": "Mercedes-Benz"
+            },
+            {
+                "id": "mitsubishi",
+                "label": "Mitsubishi"
+            },
+            {
+                "id": "nissan",
+                "label": "Nissan"
+            },
+            {
+                "id": "omoda",
+                "label": "OMODA"
+            },
+            {
+                "id": "renault",
+                "label": "Renault"
+            },
+            {
+                "id": "sitrak",
+                "label": "Sitrak"
+            },
+            {
+                "id": "skoda",
+                "label": "Skoda"
+            },
+            {
+                "id": "sollers",
+                "label": "Sollers"
+            },
+            {
+                "id": "subaru",
+                "label": "Subaru"
+            },
+            {
+                "id": "suzuki",
+                "label": "Suzuki"
+            },
+            {
+                "id": "tank",
+                "label": "Tank"
+            },
+            {
+                "id": "toyota",
+                "label": "Toyota"
+            },
+            {
+                "id": "volkswagen",
+                "label": "Volkswagen"
+            },
+            {
+                "id": "volvo",
+                "label": "Volvo"
+            },
+            {
+                "id": "voyah",
+                "label": "Voyah"
+            },
+            {
+                "id": "gaz",
+                "label": "ГАЗ"
+            },
+            {
+                "id": "moscvich",
+                "label": "Москвич"
+            },
+            {
+                "id": "uaz",
+                "label": "УАЗ"
+            }
+        ],
+        "bodies": [
+            {
+                "id": "1",
+                "label": "Седан"
+            },
+            {
+                "id": "2",
+                "label": "Хэтчбек"
+            },
+            {
+                "id": "3",
+                "label": "Лифтбек"
+            },
+            {
+                "id": "4",
+                "label": "Универсал"
+            },
+            {
+                "id": "5",
+                "label": "Купе"
+            },
+            {
+                "id": "7",
+                "label": "Минивэн"
+            },
+            {
+                "id": "9",
+                "label": "Внедорожник"
+            },
+            {
+                "id": "10",
+                "label": "Пикап"
+            },
+            {
+                "id": "11",
+                "label": "Микроавтобус"
+            },
+            {
+                "id": "12",
+                "label": "Грузовик"
+            },
+            {
+                "id": "13",
+                "label": "Фургон"
+            }
+        ],
+        "models": [],
+        "transmissions": [
+            {
+                "id": "AT",
+                "label": "Автоматическая"
+            },
+            {
+                "id": "RT",
+                "label": "Робот"
+            },
+            {
+                "id": "CVT",
+                "label": "Вариатор"
+            },
+            {
+                "id": "MT",
+                "label": "Механическая"
+            }
+        ],
+        "engine_types": [
+            {
+                "id": "DT",
+                "label": "Дизельный"
+            },
+            {
+                "id": "AI",
+                "label": "Бензиновый"
+            },
+            {
+                "id": "HB",
+                "label": "Гибридный"
+            },
+            {
+                "id": "ED",
+                "label": "Электромотор"
+            },
+            {
+                "id": "GS",
+                "label": "Газовый"
+            }
+        ],
+        "wheels": [
+            {
+                "id": "AWD",
+                "label": "Полный"
+            },
+            {
+                "id": "FWD",
+                "label": "Передний"
+            },
+            {
+                "id": "RWD",
+                "label": "Задний"
+            }
+        ],
+        "colors": [
+            {
+                "id": "3",
+                "label": "Серебристый/Серый",
+                "backgroundColor": "#CCCACC"
+            },
+            {
+                "id": "1",
+                "label": "Черный",
+                "backgroundColor": "#030303"
+            },
+            {
+                "id": "6",
+                "label": "Красный",
+                "backgroundColor": "#DE0404"
+            },
+            {
+                "id": "5",
+                "label": "Зеленый",
+                "backgroundColor": "#18CC04"
+            },
+            {
+                "id": "4",
+                "label": "Голубой/Синий",
+                "backgroundColor": "#2C22F2"
+            },
+            {
+                "id": "2",
+                "label": "Белый/Кремовый",
+                "backgroundColor": "#F0EBEF"
+            },
+            {
+                "id": "9",
+                "label": "Экзотические/Двухцветные",
+                "backgroundColor": "#E320E0"
+            },
+            {
+                "id": "7",
+                "label": "Бежевый/Коричневый",
+                "backgroundColor": "#D9CEAB"
+            },
+            {
+                "id": "8",
+                "label": "Желтый/Оранжевый",
+                "backgroundColor": "#F7F36F"
+            }
+        ],
+        "prices": {
+            "from": 745800,
+            "to": 37890000
+        },
+        "engine_power": {
+            "from": 67,
+            "to": 693
+        },
+        "engine_capacity": {
+            "from": 0,
+            "to": 13
+        },
+        "run": {
+            "from": 0,
+            "to": 0
+        },
+        "time_to_hundred": {
+            "from": 0,
+            "to": 35
+        },
+        "fuel_consumption": {
+            "from": 0,
+            "to": 0
+        },
+        "tags": [
+            {
+                "name": "Параллельный импорт",
+                "request": {
+                    "is_parallel_import": 1
+                }
+            },
+            {
+                "name": "В наличии, с ценой",
+                "request": {
+                    "with_price": 1
+                }
+            },
+            {
+                "name": "Бесключевой доступ",
+                "request": {
+                    "options": 454
+                }
+            },
+            {
+                "name": "Электрический стояночный тормоз",
+                "request": {
+                    "options": 829
+                }
+            },
+            {
+                "name": "Электропривод багажника",
+                "request": {
+                    "options": 12
+                }
+            },
+            {
+                "name": "Адаптивный круиз контроль",
+                "request": {
+                    "options": 703
+                }
+            },
+            {
+                "name": "Подогрев рулевого колеса",
+                "request": {
+                    "options": 1127
+                }
+            },
+            {
+                "name": "Панорамная крыша",
+                "request": {
+                    "options": 797
+                }
+            }
+        ],
+        "options": [
+            {
+                "id": 1128,
+                "name": "Комфорт",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "id": 829,
+                        "name": "Электрический стояночный тормоз",
+                        "type": "option",
+                        "description": "Электрический стояночный тормоз - это решение, в котором вместо традиционного рычага, расположенного рядом с сиденьем водителя или педалью для левой ноги, появляется небольшая кнопка, активирующая сложный тормозной механизм.",
+                        "enable": true
+                    },
+                    {
+                        "id": 195,
+                        "name": "Круиз-контроль",
+                        "type": "option",
+                        "description": "Круиз-контроль - это устройство, главная цель которого - сохранять заданную скорость движения. Система способна при снижении скорости увеличивать газ и ограничивать скорость в случае ускорения и все это - без привлечения водителя.",
+                        "enable": true
+                    },
+                    {
+                        "id": 2,
+                        "name": "Подвеска",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 509,
+                                "name": "Пневмоподвеска",
+                                "type": "option",
+                                "description": "В пневматической подвеске пружины и амортизаторы заменены на герметичную камеру с воздухом внутри. За счет игры давлением подвеска меняет жесткость и высоту дорожного просвета.",
+                                "enable": true
+                            },
+                            {
+                                "id": 688,
+                                "name": "Адаптивная подвеска",
+                                "type": "option",
+                                "description": "Адаптивная подвеска автоматически изменяет свои характеристики (адаптируется) во время движения, подстраиваясь под конкретные условия.",
+                                "enable": true
+                            },
+                            {
+                                "id": 698,
+                                "name": "Спортивная подвеска",
+                                "type": "option",
+                                "description": "Спортивная подвеска отличается от стандартной меньшими размерами дорожного просвета и особыми настройками пружин и амортизаторов для улучшения управляемости.",
+                                "enable": true
+                            },
+                            {
+                                "id": 892,
+                                "name": "Гидроподвеска",
+                                "type": "option",
+                                "description": "Гидравлическая подвеска представляет собой гибрид классической пружинной и пневматической схем. Для демпфирования используется и воздух, и жидкость. Клиренс и жесткость меняются как у пневматической подвески.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Руль",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 827,
+                                "name": "Электроусилитель рулевого управления",
+                                "type": "option",
+                                "description": "Электроусилитель рулевого управления - это конструктивный элемент рулевого управления автомобиля, в котором дополнительное усилие при повороте рулевого колеса создается с помощью электрического привода.",
+                                "enable": true
+                            },
+                            {
+                                "id": 828,
+                                "name": "Гидроусилитель рулевого управления",
+                                "type": "option",
+                                "description": "Гидроусилитель рулевого управления предназначен для облегчения управления направлением движения автомобиля при сохранении необходимой «обратной связи» и обеспечении устойчивости и однозначности задаваемой траектории.",
+                                "enable": true
+                            },
+                            {
+                                "id": 805,
+                                "name": "Электрорегулировка рулевого колеса",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 678,
+                                "name": "Кожаный руль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 677,
+                                "name": "Мультируль",
+                                "type": "option",
+                                "description": "Мультирулем называют рулевое колесо, имеющее множество вспомогательных кнопок и элементов для управления различными функциями автомобиля.",
+                                "enable": true
+                            },
+                            {
+                                "id": 679,
+                                "name": "Спортивный руль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 683,
+                                "name": "Подрулевые лепестки переключения передач",
+                                "type": "option",
+                                "description": "Нажатие на подрулевой лепесток передаёт сигнал в блок управления коробки передач, после чего автоматика выставляет нужную вам передачу. Чаще всего подобным механизмом оснащаются роботизированные коробки с двумя сцеплениями, на традиционных автоматических трансмиссиях лепестки встречаются реже.",
+                                "enable": true
+                            },
+                            {
+                                "id": 1127,
+                                "name": "Подогрев рулевого колеса",
+                                "type": "option",
+                                "description": "Подогрева рулевого колеса - это нагревательный элемент, располагающийся под оплеткой руля в специальной теплопроводной оболочке. Чтобы руль стал теплым, потребуется всего 2-3 минуты.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "name": "Зеркала",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 891,
+                                "name": "Монохромное зеркало заднего вида",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 722,
+                                "name": "Электропривод боковых зеркал",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 723,
+                                "name": "Обогрев боковых зеркал",
+                                "type": "option",
+                                "description": "Обогрев боковых зеркал призван помочь избежать образование наледи на зеркалах и налипания снега/дождя в процессе движения автомобиля.",
+                                "enable": true
+                            },
+                            {
+                                "id": 849,
+                                "name": "Электроскладывание боковых зеркал",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "Багажник и двери",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 12,
+                                "name": "Электропривод багажника",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 732,
+                                "name": "Функция бесконтактного открытия багажной двери",
+                                "type": "option",
+                                "description": "Бесконтактное открытие двери багажника позволяет открыть багажник ногой в случаях, когда руки человека заняты и открыть багажник кнопкой на двери сложно.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "Доступ в авто",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 454,
+                                "name": "Бесключевой доступ",
+                                "type": "option",
+                                "description": "Бесключевой доступ в автомобиль позволяет распознать владельца машины с помощью специального чипа, который обычно располагается в брелоке. Хозяин транспортного средства получает доступ к салону, багажнику и запуску двигателя без какого-либо ключа.",
+                                "enable": true
+                            },
+                            {
+                                "id": 455,
+                                "name": "Сигнализация",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 725,
+                                "name": "Smart Key",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1237,
+                                "name": "2 комплекта ключей",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 29,
+                        "name": "Сидения",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 227,
+                                "name": "3-й ряд сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 799,
+                                "name": "Задние сидения с подогревом",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 826,
+                                "name": "Электрорегулировка задних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 864,
+                                "name": "Массаж задних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 957,
+                                "name": "Память задних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1118,
+                                "name": "Спортивные сидения задние",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 682,
+                                "name": "Спортивные сидения передние",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 686,
+                                "name": "Передние сидения с вентиляцией",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 687,
+                                "name": "Передние сидения с подогревом",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 762,
+                                "name": "Электрорегулировка передних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 763,
+                                "name": "Память передних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 780,
+                                "name": "Массаж передних сидений",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1172,
+                                "name": "Регулировка передних сидений в х плоскостях",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 45,
+                        "name": "Климатическая система",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 749,
+                                "name": "Двухзонный климат-контроль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 750,
+                                "name": "Трехзонный климат-контроль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 751,
+                                "name": "Четырехзонный климат-контроль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 842,
+                                "name": "Однозонный климат-контроль",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 567,
+                                "name": "Кондиционер",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 114,
+                        "name": "Работа двигателя",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 325,
+                                "name": "Запуск двигателя с кнопки",
+                                "type": "option",
+                                "description": "Запуск двигателя с кнопки - особенность данной системы заключается в том, что вместо традиционного замка зажигания для пуска двигателя применяется кнопка.",
+                                "enable": true
+                            },
+                            {
+                                "id": 336,
+                                "name": "Дистанционный запуск двигателя",
+                                "type": "option",
+                                "description": "Дистанционный запуск двигателя позволяет завести автомобиль с ключа на расстоянии для прогрева двигателя и охлаждения/отопления салона автомобиля.",
+                                "enable": true
+                            },
+                            {
+                                "id": 752,
+                                "name": "Система авто старт-стоп",
+                                "type": "option",
+                                "description": "Система «старт-стоп» предназначена для автоматического отключения и перезапуска двигателя автомобиля с целью экономии топлива и снижения вредных выбросов за счет сокращения времени работы двигателя на холостом ходу.",
+                                "enable": true
+                            },
+                            {
+                                "id": 1249,
+                                "name": "Кнопка Старт/Стоп",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 466,
+                        "name": "Стекла",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 167,
+                                "name": "Задние электростеклоподъемники",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 221,
+                                "name": "Передние электростеклоподъемники",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 739,
+                                "name": "Обогрев лобового стекла",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 610,
+                        "name": "Электрообогрев форсунок стеклоомывателя",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 703,
+                        "name": "Адаптивный круиз-контроль",
+                        "type": "option",
+                        "description": "Адаптивный круиз-контроль - одна из подсистем усовершенствованной системы помощи водителю, поддерживающая переменную скорость движения. Позволяет автоматически поддерживать необходимую скорость транспортного средства, соблюдая заданную дистанцию удаления от впереди движущегося ТС.",
+                        "enable": true
+                    },
+                    {
+                        "id": 794,
+                        "name": "Ароматизация салона",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 1219,
+                        "name": "Функция Auto Hold стояночного тормоза",
+                        "type": "option",
+                        "description": "Функция auto hold активирует электромеханический стояночный тормоз при остановке и разблокирует его при нажатии педали газа.. Для удержания автомобиля на месте ему больше не требуется нажимать педаль тормоза.",
+                        "enable": true
+                    }
+                ]
+            },
+            {
+                "id": 1146,
+                "name": "Безопасность",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "id": 36,
+                        "name": "Комплекс систем пассивной безопасности",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 94,
+                                "name": "Система дистанционного управления автомобилем",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 581,
+                                "name": "Система распознавания дорожных знаков",
+                                "type": "option",
+                                "description": "Система распознавания дорожных знаков призвана предупреждать водителей о необходимости соблюдения скоростного режима. Данная система определяет дорожные знаки ограничения скорости при их проезде и напоминает водителю текущую максимальную разрешенную скорость, если он движется быстрее.",
+                                "enable": true
+                            },
+                            {
+                                "id": 803,
+                                "name": "Проекция на лобовое стекло",
+                                "type": "option",
+                                "description": "Проекция на лобовое стекло - функция отображения основных данных, необходимых водителю во время движения, на лобовом стекле автомобиля.",
+                                "enable": true
+                            },
+                            {
+                                "id": 812,
+                                "name": "Система ночного видения",
+                                "type": "option",
+                                "description": "Система ночного видения предназначена для предоставления водителю информации об условиях движения в темное время суток. Система позволяет распознавать всевозможные препятствия, участников дорожного движения, пешеходов на неосвещенной дороге, а также дальнейшую траекторию трассы.",
+                                "enable": true
+                            },
+                            {
+                                "id": 830,
+                                "name": "Шины Runflat",
+                                "type": "option",
+                                "description": "Шины RunFlat - технология производства автомобильных покрышек, позволяющая при проколе проехать на покрышке примерно 80-100 км. Стрелка спидометра при этом может доходить до 80 км/ч.",
+                                "enable": true
+                            },
+                            {
+                                "id": 855,
+                                "name": "Система оповещения о ситуации на дороге",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 1250,
+                                "name": "Блокировка дифференциала",
+                                "type": "option",
+                                "description": "Блокировка дифференциала предназначена для увеличения крутящего момента на колесе (оси) с лучшим сцеплением.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 89,
+                        "name": "Комплекс систем активной безопасности",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 365,
+                                "name": "Система стабилизации",
+                                "type": "option",
+                                "description": "Динамическая система стабилизации автомобиля - активная система безопасности автомобиля, позволяющая предотвратить занос посредством управления компьютером момента силы колеса (одновременно одного или нескольких).",
+                                "enable": true
+                            },
+                            {
+                                "id": 457,
+                                "name": "Система контроля за полосой движения",
+                                "type": "option",
+                                "description": "Технология, помогающая водителю придерживаться выбранной полосы движения и тем самым, предотвращать аварийные ситуации\r\n",
+                                "enable": true
+                            },
+                            {
+                                "id": 458,
+                                "name": "Система контроля слепых зон",
+                                "type": "option",
+                                "description": "Система использует датчики-радары, чтобы просканировать «слепые зоны» автомобиля и предупредить водителя световым сигналом на боковом зеркале, если там находится другой автомобиль.\r\n",
+                                "enable": true
+                            },
+                            {
+                                "id": 565,
+                                "name": "Система помощи при торможении",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 582,
+                                "name": "Система контроля степени усталости водителя",
+                                "type": "option",
+                                "description": "Система контроля усталости следит за физическим состоянием водителя и если фиксирует определенные отклонения, предупреждает водителя о необходимости остановки и отдыха.",
+                                "enable": true
+                            },
+                            {
+                                "id": 583,
+                                "name": "Система экстренного торможения",
+                                "type": "option",
+                                "description": "Система помощи при экстренном торможении помогает автомобилю достичь максимальной эффективности торможения в экстренной ситуации.",
+                                "enable": true
+                            },
+                            {
+                                "id": 584,
+                                "name": "Система предотвращения столкновения",
+                                "type": "option",
+                                "description": "Система предотвращения фронтального столкновения способна обнаружить автомобили или пешехода, двигающиеся перед автомобилем. В случае возникновения риска столкновения система предупредит водителя, а если водитель не отреагирует, автомобиль автоматически задействует тормоза.",
+                                "enable": true
+                            },
+                            {
+                                "id": 625,
+                                "name": "Система помощи при спуске/подъеме",
+                                "type": "option",
+                                "description": "Система помощи при спуске предназначена для предотвращения ускорения автомобиля при движении по горным дорогам. Система помощи при подъеме на склон поддерживает давление в тормозных контурах после того, как водитель убрал ногу с педали, что позволяет продлить период работы тормозных колодок и обезопасить старт на подъеме.",
+                                "enable": true
+                            },
+                            {
+                                "id": 809,
+                                "name": "Антиблокировочная система",
+                                "type": "option",
+                                "description": "Антиблокировочная система призвана следить за вращением колесной базы. Если она вдруг заблокируется при торможении, ABS сокращает уровень давления тормозной жидкости, чтобы колесо смогло провернуться, а после этого снова нагнетает давление. Именно такой принцип работы АБС позволяет обеспечить «прерывистое торможение», которое считается наиболее эффективным для сокращения длины тормозного пути на любых дорожных покрытиях.",
+                                "enable": true
+                            },
+                            {
+                                "id": 810,
+                                "name": "Антипробуксовочная система",
+                                "type": "option",
+                                "description": "Антипротивобуксовочная система - электрогидравлическая система автомобиля, предназначенная для предотвращения потери сцепления колес с дорогой посредством контроля за буксованием ведущих колес.",
+                                "enable": true
+                            },
+                            {
+                                "id": 901,
+                                "name": "Система помощи при трогании на подъеме",
+                                "type": "option",
+                                "description": "Системой помощи при трогании на подъеме служит для предотвращения откатывания автомобиля при начале движения на подъеме, заносов при трогании с места под уклон.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 718,
+                        "name": "Подушки безопасности",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 244,
+                                "name": "Шторки безопасности",
+                                "type": "option",
+                                "description": "Шторки безопасности - это специальные надувные шторки для защиты головы водителя, переднего и крайних задних пассажиров, располагающиеся по бокам, которые срабатывают с той стороны, куда пришлось боковое столкновение авто.",
+                                "enable": true
+                            },
+                            {
+                                "id": 448,
+                                "name": "Выключатель подушки безопасности переднего пассажира",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 719,
+                                "name": "Боковые подушки безопасности",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 720,
+                                "name": "Задние подушки безопасности",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 721,
+                                "name": "Передние подушки безопасности",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 904,
+                                "name": "Коленная подушка безопасности",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 743,
+                        "name": "Системы помощи при парковке",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 71,
+                                "name": "Камера заднего вида",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 409,
+                                "name": "Задние парктроники",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 453,
+                                "name": "Передние парктроники",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 499,
+                                "name": "Камеры кругового обзора",
+                                "type": "option",
+                                "description": "Система кругового обзора является вспомогательной системой активной безопасности. Она предназначена для оказания помощи водителю при выполнении маневрирования в стесненных условиях (параллельная парковка, перпендикулярная парковка, движение между рядами, выезд на «слепой» перекресток).",
+                                "enable": true
+                            },
+                            {
+                                "id": 744,
+                                "name": "Передняя камера",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 767,
+                                "name": "Парковочный ассистент",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 792,
+                                "name": "Система автоматической парковки",
+                                "type": "option",
+                                "description": "Система автоматической парковки помогает подобрать оптимальное парковочное место и способна полностью взять на себя выполнение маневров. В возможностях этой системы не только безопасное выполнение параллельной парковки, но и максимально четкое проведение перпендикулярного маневрирования с целью занять свое место в строю машин.",
+                                "enable": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1148,
+                "name": "Обзор и фары",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "id": 903,
+                        "name": "Передние противотуманные фары",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 86,
+                        "name": "Передние фары",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 689,
+                                "name": "Светодиодные (LED) фары",
+                                "type": "option",
+                                "description": "В настоящее время светодиоды заменяют классические лампы накаливания в современных автомобилях. Они обеспечивают не только высокую светоотдачу и высокий уровень безопасности, но и большую свободу проектирования и значительный потенциал энергосбережения.",
+                                "enable": true
+                            },
+                            {
+                                "id": 716,
+                                "name": "Биксеноновые фары",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 724,
+                                "name": "Галогенные фары",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 765,
+                                "name": "Ксеноновые фары",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 858,
+                                "name": "Лазерные фары",
+                                "type": "option",
+                                "description": "Свет лазерных фар принципиально отличается от дневного или любого другого искусственного источника. Получаемый луч когерентный и монохромный - это значит, что он имеет постоянную длину волны и одинаковую разность фаз. В чистом виде он представляет собой точечный пучок света, который в 1 000 раз интенсивнее диодного света.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 585,
+                        "name": "Система адаптивного освещения",
+                        "type": "option",
+                        "description": "Адаптивный свет - система головного освещения, автоматически изменяющая направление светового потока фар синхронно с направлением движения автомобиля. ",
+                        "enable": true
+                    },
+                    {
+                        "id": 691,
+                        "name": "Датчик света",
+                        "type": "option",
+                        "description": "Датчик света - это небольшой фотоэлемент, при помощи которого автоматически включаются или выключаются фары автомобиля. Как правило, это передний ближний свет. Этот элемент замеряет уровень освещенности и принимает решение о включении или отключении ламп.",
+                        "enable": true
+                    },
+                    {
+                        "id": 692,
+                        "name": "Датчик дождя",
+                        "type": "option",
+                        "description": "Датчик дождя - оптико-электронное устройство, устанавливаемое на ветровое стекло автомобиля и реагирующее на его увлажнение. Используется для автоматического управления стеклоочистителями и механизмами, закрывающими люк и стекла дверей.",
+                        "enable": true
+                    },
+                    {
+                        "id": 715,
+                        "name": "Система управления дальним светом",
+                        "type": "option",
+                        "description": "Система управления дальним светом предназначена для улучшения видимости в темное время суток за счет автоматического включения дальнего света фар.",
+                        "enable": true
+                    }
+                ]
+            },
+            {
+                "id": 1152,
+                "name": "Мультимедиа",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "name": "Кол-во динамиков",
+                        "type": "range",
+                        "range": {
+                            "field": "media",
+                            "min": 1,
+                            "max": 19
+                        }
+                    },
+                    {
+                        "id": 502,
+                        "name": "Навигационная система",
+                        "type": "option",
+                        "description": "Автомобильная навигационная система - вспомогательное электронное устройство, служащее для определения местоположения автомобиля и направления его движения к намеченной цели.",
+                        "enable": true
+                    },
+                    {
+                        "id": 425,
+                        "name": "Система управления жестами",
+                        "type": "option",
+                        "description": "Система управления жестами позволяет управлять определенными функциями автомобиля легким движением руки. Простые жесты \"смахнуть\" или \"указать\" в зоне над центральной консолью позволяют принять или отклонить входящий вызов. Громкость регулируется вращательным движением указательного пальца и т.д.",
+                        "enable": true
+                    },
+                    {
+                        "id": 835,
+                        "name": "Система голосового управления",
+                        "type": "option",
+                        "description": "Система голосового управления позволяет управлять функциями автомобиля, например, радио или подключенным к автомобилю мобильным телефоном с помощью голосовых команд.",
+                        "enable": true
+                    },
+                    {
+                        "id": 674,
+                        "name": "Беспроводная зарядка для телефона",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 326,
+                        "name": "Развлекательная система для задних пассажиров",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 549,
+                        "name": "Виртуальная приборная панель",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 400,
+                        "name": "Мультимедийная система",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 101,
+                                "name": "USB/AUX",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 245,
+                                "name": "Bluetooth",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 706,
+                                "name": "Премиальная аудиосистема",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 868,
+                                "name": "Android auto",
+                                "type": "option",
+                                "description": "Android Auto - это мобильное приложение, созданное Google для отражения функций устройства Android, например смартфона, на приборной панели автомобиля и головном устройстве развлечений. ",
+                                "enable": true
+                            },
+                            {
+                                "id": 1115,
+                                "name": "Apple Сar Play",
+                                "type": "option",
+                                "description": "CarPlay - система компании Apple, позволяющая подключить iPhone, начиная с iPhone 5, к мультимедиа-адаптированному автомобилю для интеграции Siri и других служб в автомобиль.",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 494,
+                        "name": "Громкая связь",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 1248,
+                        "name": "Аудиосистема Hi-Fi",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    }
+                ]
+            },
+            {
+                "id": 1159,
+                "name": "Экстерьер",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "name": "Диаметр дисков, дюймы",
+                        "type": "range",
+                        "range": {
+                            "field": "size_wheel",
+                            "min": 13,
+                            "max": 24
+                        }
+                    },
+                    {
+                        "id": 770,
+                        "name": "Люк",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 797,
+                        "name": "Панорамная крыша",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    },
+                    {
+                        "id": 58,
+                        "name": "Внешние элементы кузова",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 178,
+                                "name": "Спойлер",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 436,
+                                "name": "Рейлинги на крыше",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 816,
+                                "name": "Подножки",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 964,
+                                "name": "Спортивный обвес",
+                                "type": "option",
+                                "description": "Спортивный обвес необходим для улучшения аэродинамических свойств кузова автомобиля при движении на высокой скорости. Кроме этого, спортивный обвес придает автомобилю уникальный и более агрессивный внешний вид.",
+                                "enable": true
+                            },
+                            {
+                                "id": 1112,
+                                "name": "Насадки на выхлопные трубы",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 65,
+                        "name": "Диски",
+                        "type": "group",
+                        "multiple": true,
+                        "children": [
+                            {
+                                "id": 694,
+                                "name": "Легкосплавные диски",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            },
+                            {
+                                "id": 754,
+                                "name": "Кованые диски",
+                                "type": "option",
+                                "description": "",
+                                "enable": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1165,
+                "name": "Интерьер",
+                "type": "category",
+                "multiple": false,
+                "children": [
+                    {
+                        "id": 138,
+                        "name": "Передний подлокотник",
+                        "type": "option",
+                        "description": "",
+                        "enable": true
+                    }
+                ]
+            }
+        ]
+    }
+}

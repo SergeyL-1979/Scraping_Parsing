@@ -1,0 +1,1665 @@
+{
+    "0": [
+        {
+            "car_id": 2374099,
+            "offer_id": 360060,
+            "slug": "evolute/ipro/sedan",
+            "url": "https://rostov-na-donu.autospot.ru/brands/evolute/ipro/sedan/offer/360060/?car=2374099",
+            "brand_id": "evolute",
+            "brand_name": "Evolute",
+            "city_id": 529,
+            "city_name": "Ростов-на-Дону",
+            "model_name": "i-Pro",
+            "equipment_group": "Base",
+            "model_carcase_id": 19595,
+            "equipment_group_id": 4200,
+            "min_credit_pay": 17191,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#ffffff",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "ED",
+            "engine_type_name_noun": "Электромотор",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "AT",
+            "transmission_type_name_noun": "Автомат",
+            "engine_power": 150,
+            "engine_capacity": 0,
+            "count_options": 53,
+            "count_review": 0,
+            "review_url": "/brands/evolute/4226/review/",
+            "count_cars": 4,
+            "offer_date_created": "05.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/evolute/ipro/sedan/2374099",
+            "prices": {
+                "rrc_price": 2890000,
+                "price": 1800000,
+                "discount": 1090000,
+                "retail": {
+                    "price": 2890000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 1950000,
+                    "discount": 940000
+                },
+                "trade_in": {
+                    "price": 2640000,
+                    "discount": 250000
+                },
+                "credit_trade_in": {
+                    "price": 1800000,
+                    "discount": 1090000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 13654882,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 4435120,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/4/4/4435120/origin/4435120.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2386209,
+            "offer_id": 355539,
+            "slug": "moskvic/3/suv",
+            "url": "https://autospot.ru/brands/moskvic/3/suv/offer/355539/?car=2386209",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 3,
+            "city_name": "Москва",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 13084,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Красный",
+            "color_code": "#ff0000",
+            "offer_badges": [
+                {
+                    "type": "specialDiscount",
+                    "title": "%",
+                    "description": {
+                        "title": "Специальные скидки",
+                        "text": [
+                            "Выгодное предложение в Петровском на МКАД 16 км !"
+                        ]
+                    },
+                    "badge_type": "discount"
+                },
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "gift",
+                    "title": "Подарок",
+                    "description": {
+                        "title": "Подарок",
+                        "text": [
+                            "Первым 15 покупателям допольнительное оборудование в ПОДАРОК ! \nУспейте воспользоваться всеми привелегиями в Петровском на МКАД 16 км."
+                        ]
+                    },
+                    "badge_type": "promo"
+                },
+                {
+                    "type": "finance",
+                    "title": "Финансовая выгода",
+                    "description": {
+                        "title": "Финансовая выгода",
+                        "text": [
+                            "Воспользуйтесь госпрограммой «Семейный автомобиль» в Петровском на Мкад 16 км ! \r\nПредложение действует на ограниченный список автомобилей Москвич 3 со склада дилера."
+                        ]
+                    },
+                    "badge_type": "promo"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "MT",
+            "transmission_type_name_noun": "Механика",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 44,
+            "offer_date_created": "06.03.23",
+            "count_page_views": 48,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2386209",
+            "prices": {
+                "rrc_price": 2220000,
+                "price": 1370000,
+                "discount": 850000,
+                "retail": {
+                    "price": 2170000,
+                    "discount": 50000
+                },
+                "credit": {
+                    "price": 1670000,
+                    "discount": 550000
+                },
+                "trade_in": {
+                    "price": 1920000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1370000,
+                    "discount": 850000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762994,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047887,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047887/origin/5047887.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2374081,
+            "offer_id": 360055,
+            "slug": "evolute/ipro/sedan",
+            "url": "https://krasnodar.autospot.ru/brands/evolute/ipro/sedan/offer/360055/?car=2374081",
+            "brand_id": "evolute",
+            "brand_name": "Evolute",
+            "city_id": 76,
+            "city_name": "Краснодар",
+            "model_name": "i-Pro",
+            "equipment_group": "Base",
+            "model_carcase_id": 19595,
+            "equipment_group_id": 4200,
+            "min_credit_pay": 17812,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#ffffff",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "ED",
+            "engine_type_name_noun": "Электромотор",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "AT",
+            "transmission_type_name_noun": "Автомат",
+            "engine_power": 150,
+            "engine_capacity": 0,
+            "count_options": 53,
+            "count_review": 0,
+            "review_url": "/brands/evolute/4226/review/",
+            "count_cars": 14,
+            "offer_date_created": "05.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/evolute/ipro/sedan/2374081",
+            "prices": {
+                "rrc_price": 2990000,
+                "price": 1865000,
+                "discount": 1125000,
+                "retail": {
+                    "price": 2990000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 2165000,
+                    "discount": 825000
+                },
+                "trade_in": {
+                    "price": 2890000,
+                    "discount": 100000
+                },
+                "credit_trade_in": {
+                    "price": 1865000,
+                    "discount": 1125000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 13654882,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 4435120,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/4/4/4435120/origin/4435120.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2374079,
+            "offer_id": 360056,
+            "slug": "evolute/ijoy/suv",
+            "url": "https://krasnodar.autospot.ru/brands/evolute/ijoy/suv/offer/360056/?car=2374079",
+            "brand_id": "evolute",
+            "brand_name": "Evolute",
+            "city_id": 76,
+            "city_name": "Краснодар",
+            "model_name": "i-Joy",
+            "equipment_group": "Base",
+            "model_carcase_id": 19596,
+            "equipment_group_id": 4200,
+            "min_credit_pay": 21689,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#ffffff",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "ED",
+            "engine_type_name_noun": "Электромотор",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "AT",
+            "transmission_type_name_noun": "Автомат",
+            "engine_power": 163,
+            "engine_capacity": 0,
+            "count_options": 55,
+            "count_review": 0,
+            "review_url": "/brands/evolute/4227/review/",
+            "count_cars": 4,
+            "offer_date_created": "05.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/evolute/ijoy/suv/2374079",
+            "prices": {
+                "rrc_price": 3570000,
+                "price": 2271000,
+                "discount": 1299000,
+                "retail": {
+                    "price": 3570000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 2370000,
+                    "discount": 1200000
+                },
+                "trade_in": {
+                    "price": 3470000,
+                    "discount": 100000
+                },
+                "credit_trade_in": {
+                    "price": 2271000,
+                    "discount": 1299000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 13898601,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 4593449,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/4/5/4593449/origin/4593449.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2356799,
+            "offer_id": 359764,
+            "slug": "moskvic/3/suv",
+            "url": "https://spb.autospot.ru/brands/moskvic/3/suv/offer/359764/?car=2356799",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 13562,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Красный",
+            "color_code": "#ff0000",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "MT",
+            "transmission_type_name_noun": "Механика",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 46,
+            "offer_date_created": "18.05.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2356799",
+            "prices": {
+                "rrc_price": 2220000,
+                "price": 1420000,
+                "discount": 800000,
+                "retail": {
+                    "price": 2095000,
+                    "discount": 125000
+                },
+                "credit": {
+                    "price": 1720000,
+                    "discount": 500000
+                },
+                "trade_in": {
+                    "price": 1920000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1420000,
+                    "discount": 800000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762994,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047887,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047887/origin/5047887.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2356815,
+            "offer_id": 358635,
+            "slug": "moskvic/3/suv",
+            "url": "https://spb.autospot.ru/brands/moskvic/3/suv/offer/358635/?car=2356815",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 13562,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Голубой",
+            "color_code": "#6d9eeb",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "MT",
+            "transmission_type_name_noun": "Механика",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 92,
+            "offer_date_created": "04.05.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2356815",
+            "prices": {
+                "rrc_price": 2220000,
+                "price": 1420000,
+                "discount": 800000,
+                "retail": {
+                    "price": 2095000,
+                    "discount": 125000
+                },
+                "credit": {
+                    "price": 1720000,
+                    "discount": 500000
+                },
+                "trade_in": {
+                    "price": 1920000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1420000,
+                    "discount": 800000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762995,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047888,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047888/origin/5047888.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2356822,
+            "offer_id": 355262,
+            "slug": "moskvic/3/suv",
+            "url": "https://spb.autospot.ru/brands/moskvic/3/suv/offer/355262/?car=2356822",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 13562,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Серый",
+            "color_code": "#858080",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "MT",
+            "transmission_type_name_noun": "Механика",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 38,
+            "offer_date_created": "28.02.23",
+            "count_page_views": 51,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2356822",
+            "prices": {
+                "rrc_price": 2220000,
+                "price": 1420000,
+                "discount": 800000,
+                "retail": {
+                    "price": 2095000,
+                    "discount": 125000
+                },
+                "credit": {
+                    "price": 1720000,
+                    "discount": 500000
+                },
+                "trade_in": {
+                    "price": 1920000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1420000,
+                    "discount": 800000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762992,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047885,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047885/origin/5047885.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2356829,
+            "offer_id": 358636,
+            "slug": "moskvic/3/suv",
+            "url": "https://spb.autospot.ru/brands/moskvic/3/suv/offer/358636/?car=2356829",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 13562,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#ffffff",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "MT",
+            "transmission_type_name_noun": "Механика",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 77,
+            "offer_date_created": "13.05.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2356829",
+            "prices": {
+                "rrc_price": 2220000,
+                "price": 1420000,
+                "discount": 800000,
+                "retail": {
+                    "price": 2095000,
+                    "discount": 125000
+                },
+                "credit": {
+                    "price": 1720000,
+                    "discount": 500000
+                },
+                "trade_in": {
+                    "price": 1920000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1420000,
+                    "discount": 800000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762991,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047884,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047884/origin/5047884.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2374097,
+            "offer_id": 360059,
+            "slug": "evolute/ijoy/suv",
+            "url": "https://rostov-na-donu.autospot.ru/brands/evolute/ijoy/suv/offer/360059/?car=2374097",
+            "brand_id": "evolute",
+            "brand_name": "Evolute",
+            "city_id": 529,
+            "city_name": "Ростов-на-Дону",
+            "model_name": "i-Joy",
+            "equipment_group": "Base",
+            "model_carcase_id": 19596,
+            "equipment_group_id": 4200,
+            "min_credit_pay": 21393,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Черный",
+            "color_code": "#000000",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "ED",
+            "engine_type_name_noun": "Электромотор",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "AT",
+            "transmission_type_name_noun": "Автомат",
+            "engine_power": 163,
+            "engine_capacity": 0,
+            "count_options": 55,
+            "count_review": 0,
+            "review_url": "/brands/evolute/4227/review/",
+            "count_cars": 2,
+            "offer_date_created": "05.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/evolute/ijoy/suv/2374097",
+            "prices": {
+                "rrc_price": 3490000,
+                "price": 2240000,
+                "discount": 1250000,
+                "retail": {
+                    "price": 3490000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 2490000,
+                    "discount": 1000000
+                },
+                "trade_in": {
+                    "price": 3240000,
+                    "discount": 250000
+                },
+                "credit_trade_in": {
+                    "price": 2240000,
+                    "discount": 1250000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 13898600,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 4593448,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/4/5/4593448/origin/4593448.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2433314,
+            "offer_id": 360790,
+            "slug": "kaiyi/e5/sedan",
+            "url": "https://spb.autospot.ru/brands/kaiyi/e5/sedan/offer/360790/?car=2433314",
+            "brand_id": "kaiyi",
+            "brand_name": "Kaiyi",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "E5",
+            "equipment_group": "Luxury+",
+            "model_carcase_id": 19710,
+            "equipment_group_id": 4325,
+            "min_credit_pay": 12797,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Красный",
+            "color_code": "#d1231f",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 56,
+            "count_review": 0,
+            "review_url": "/brands/kaiyi/4291/review/",
+            "count_cars": 19,
+            "offer_date_created": "30.05.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/kaiyi/e5/sedan/2433314",
+            "prices": {
+                "rrc_price": 2076900,
+                "price": 1339900,
+                "discount": 737000,
+                "retail": {
+                    "price": 2076900,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 1539900,
+                    "discount": 537000
+                },
+                "trade_in": {
+                    "price": 1926900,
+                    "discount": 150000
+                },
+                "credit_trade_in": {
+                    "price": 1339900,
+                    "discount": 737000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 17472489,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6416895,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/4/6416895/origin/6416895.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2356798,
+            "offer_id": 353607,
+            "slug": "moskvic/3/suv",
+            "url": "https://spb.autospot.ru/brands/moskvic/3/suv/offer/353607/?car=2356798",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 14183,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#ffffff",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 66,
+            "offer_date_created": "02.02.23",
+            "count_page_views": 75,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2356798",
+            "prices": {
+                "rrc_price": 2285000,
+                "price": 1485000,
+                "discount": 800000,
+                "retail": {
+                    "price": 2160000,
+                    "discount": 125000
+                },
+                "credit": {
+                    "price": 1785000,
+                    "discount": 500000
+                },
+                "trade_in": {
+                    "price": 1985000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1485000,
+                    "discount": 800000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762991,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047884,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047884/origin/5047884.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2356819,
+            "offer_id": 353609,
+            "slug": "moskvic/3/suv",
+            "url": "https://spb.autospot.ru/brands/moskvic/3/suv/offer/353609/?car=2356819",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 14183,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Серый",
+            "color_code": "#858080",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 118,
+            "offer_date_created": "02.02.23",
+            "count_page_views": 79,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2356819",
+            "prices": {
+                "rrc_price": 2285000,
+                "price": 1485000,
+                "discount": 800000,
+                "retail": {
+                    "price": 2160000,
+                    "discount": 125000
+                },
+                "credit": {
+                    "price": 1785000,
+                    "discount": 500000
+                },
+                "trade_in": {
+                    "price": 1985000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1485000,
+                    "discount": 800000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762992,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047885,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047885/origin/5047885.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2356825,
+            "offer_id": 353610,
+            "slug": "moskvic/3/suv",
+            "url": "https://spb.autospot.ru/brands/moskvic/3/suv/offer/353610/?car=2356825",
+            "brand_id": "moscvich",
+            "brand_name": "Москвич",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "3",
+            "equipment_group": "Стандарт",
+            "model_carcase_id": 19609,
+            "equipment_group_id": 4233,
+            "min_credit_pay": 14183,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Голубой",
+            "color_code": "#6d9eeb",
+            "offer_badges": [
+                {
+                    "type": "pts",
+                    "title": "ПТС в наличии",
+                    "description": {
+                        "title": "ПТС в наличии",
+                        "text": [
+                            "Паспорт Транспортного Средства (ПТС) находится в салоне. Автомобиль может быть выдан дилером сразу после оплаты и прохождения предпродажной подготовки."
+                        ]
+                    },
+                    "badge_type": "standard"
+                },
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 150,
+            "engine_capacity": 1.5,
+            "count_options": 57,
+            "count_review": 0,
+            "review_url": "/brands/moscvich/4243/review/",
+            "count_cars": 111,
+            "offer_date_created": "02.02.23",
+            "count_page_views": 56,
+            "credit_url": "https://autospot.ru/credit/sravni/moskvic/3/suv/2356825",
+            "prices": {
+                "rrc_price": 2285000,
+                "price": 1485000,
+                "discount": 800000,
+                "retail": {
+                    "price": 2160000,
+                    "discount": 125000
+                },
+                "credit": {
+                    "price": 1785000,
+                    "discount": 500000
+                },
+                "trade_in": {
+                    "price": 1985000,
+                    "discount": 300000
+                },
+                "credit_trade_in": {
+                    "price": 1485000,
+                    "discount": 800000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 14762995,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 5047888,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/5/0/5047888/origin/5047888.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2419946,
+            "offer_id": 360777,
+            "slug": "kaiyi/e5/sedan",
+            "url": "https://spb.autospot.ru/brands/kaiyi/e5/sedan/offer/360777/?car=2419946",
+            "brand_id": "kaiyi",
+            "brand_name": "Kaiyi",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "E5",
+            "equipment_group": "Luxury",
+            "model_carcase_id": 19710,
+            "equipment_group_id": 4265,
+            "min_credit_pay": 13228,
+            "body_type": "SD",
+            "body_type_name": "Седан",
+            "year": 2023,
+            "color_name": "Красный",
+            "color_code": "#d1231f",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 147,
+            "engine_capacity": 1.5,
+            "count_options": 54,
+            "count_review": 0,
+            "review_url": "/brands/kaiyi/4291/review/",
+            "count_cars": 2,
+            "offer_date_created": "28.04.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/kaiyi/e5/sedan/2419946",
+            "prices": {
+                "rrc_price": 2115000,
+                "price": 1385000,
+                "discount": 730000,
+                "retail": {
+                    "price": 2115000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 1565000,
+                    "discount": 550000
+                },
+                "trade_in": {
+                    "price": 1975000,
+                    "discount": 140000
+                },
+                "credit_trade_in": {
+                    "price": 1385000,
+                    "discount": 730000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 17472489,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6416895,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/4/6416895/origin/6416895.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2374089,
+            "offer_id": 360058,
+            "slug": "evolute/ijoy/suv",
+            "url": "https://krasnodar.autospot.ru/brands/evolute/ijoy/suv/offer/360058/?car=2374089",
+            "brand_id": "evolute",
+            "brand_name": "Evolute",
+            "city_id": 76,
+            "city_name": "Краснодар",
+            "model_name": "i-Joy",
+            "equipment_group": "Base",
+            "model_carcase_id": 19596,
+            "equipment_group_id": 4200,
+            "min_credit_pay": 22444,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Синий",
+            "color_code": "#0066ff",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "ED",
+            "engine_type_name_noun": "Электромотор",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "AT",
+            "transmission_type_name_noun": "Автомат",
+            "engine_power": 163,
+            "engine_capacity": 0,
+            "count_options": 55,
+            "count_review": 0,
+            "review_url": "/brands/evolute/4227/review/",
+            "count_cars": 7,
+            "offer_date_created": "05.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/evolute/ijoy/suv/2374089",
+            "prices": {
+                "rrc_price": 3570000,
+                "price": 2350000,
+                "discount": 1220000,
+                "retail": {
+                    "price": 3570000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 2370000,
+                    "discount": 1200000
+                },
+                "trade_in": {
+                    "price": 3470000,
+                    "discount": 100000
+                },
+                "credit_trade_in": {
+                    "price": 2350000,
+                    "discount": 1220000
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 13898598,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 4593446,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/4/5/4593446/origin/4593446.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2435273,
+            "offer_id": 360057,
+            "slug": "evolute/ijoy/suv",
+            "url": "https://krasnodar.autospot.ru/brands/evolute/ijoy/suv/offer/360057/?car=2435273",
+            "brand_id": "evolute",
+            "brand_name": "Evolute",
+            "city_id": 76,
+            "city_name": "Краснодар",
+            "model_name": "i-Joy",
+            "equipment_group": "Base",
+            "model_carcase_id": 19596,
+            "equipment_group_id": 4200,
+            "min_credit_pay": 22635,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Черный",
+            "color_code": "#000000",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "ED",
+            "engine_type_name_noun": "Электромотор",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "AT",
+            "transmission_type_name_noun": "Автомат",
+            "engine_power": 163,
+            "engine_capacity": 0,
+            "count_options": 55,
+            "count_review": 0,
+            "review_url": "/brands/evolute/4227/review/",
+            "count_cars": 5,
+            "offer_date_created": "05.06.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/evolute/ijoy/suv/2435273",
+            "prices": {
+                "rrc_price": 3570000,
+                "price": 2370000,
+                "discount": 1200000,
+                "retail": {
+                    "price": 3570000,
+                    "discount": 0
+                },
+                "credit": {
+                    "price": 2370000,
+                    "discount": 1200000
+                },
+                "trade_in": {
+                    "price": 3470000,
+                    "discount": 100000
+                },
+                "credit_trade_in": {
+                    "price": 3570000,
+                    "discount": 0
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 13898600,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 4593448,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/4/5/4593448/origin/4593448.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2424187,
+            "offer_id": 363555,
+            "slug": "livan/x3pro/suv",
+            "url": "https://spb.autospot.ru/brands/livan/x3pro/suv/offer/363555/?car=2424187",
+            "brand_id": "livan",
+            "brand_name": "Livan",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "X3 Pro",
+            "equipment_group": "Luxury",
+            "model_carcase_id": 19745,
+            "equipment_group_id": 4337,
+            "min_credit_pay": 11938,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Голубой металлик",
+            "color_code": "#0459a8",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 103,
+            "engine_capacity": 1.5,
+            "count_options": 72,
+            "count_review": 0,
+            "review_url": "/brands/livan/4315/review/",
+            "count_cars": 1,
+            "offer_date_created": "14.07.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/livan/x3pro/suv/2424187",
+            "prices": {
+                "rrc_price": 1879900,
+                "price": 1250000,
+                "discount": 629900,
+                "retail": {
+                    "price": 1869900,
+                    "discount": 10000
+                },
+                "credit": {
+                    "price": 1550000,
+                    "discount": 329900
+                },
+                "trade_in": {
+                    "price": 1679900,
+                    "discount": 200000
+                },
+                "credit_trade_in": {
+                    "price": 1250000,
+                    "discount": 629900
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18450802,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6908300,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/9/6908300/origin/6908300.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2424188,
+            "offer_id": 363556,
+            "slug": "livan/x3pro/suv",
+            "url": "https://spb.autospot.ru/brands/livan/x3pro/suv/offer/363556/?car=2424188",
+            "brand_id": "livan",
+            "brand_name": "Livan",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "X3 Pro",
+            "equipment_group": "Luxury",
+            "model_carcase_id": 19745,
+            "equipment_group_id": 4337,
+            "min_credit_pay": 11938,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Золотой металлик",
+            "color_code": "#b7a38a",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 103,
+            "engine_capacity": 1.5,
+            "count_options": 72,
+            "count_review": 0,
+            "review_url": "/brands/livan/4315/review/",
+            "count_cars": 9,
+            "offer_date_created": "14.07.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/livan/x3pro/suv/2424188",
+            "prices": {
+                "rrc_price": 1879900,
+                "price": 1250000,
+                "discount": 629900,
+                "retail": {
+                    "price": 1869900,
+                    "discount": 10000
+                },
+                "credit": {
+                    "price": 1550000,
+                    "discount": 329900
+                },
+                "trade_in": {
+                    "price": 1679900,
+                    "discount": 200000
+                },
+                "credit_trade_in": {
+                    "price": 1250000,
+                    "discount": 629900
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18450829,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6908323,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/9/6908323/origin/6908323.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2424194,
+            "offer_id": 363557,
+            "slug": "livan/x3pro/suv",
+            "url": "https://spb.autospot.ru/brands/livan/x3pro/suv/offer/363557/?car=2424194",
+            "brand_id": "livan",
+            "brand_name": "Livan",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "X3 Pro",
+            "equipment_group": "Luxury",
+            "model_carcase_id": 19745,
+            "equipment_group_id": 4337,
+            "min_credit_pay": 11938,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Белый",
+            "color_code": "#ffffff",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 103,
+            "engine_capacity": 1.5,
+            "count_options": 72,
+            "count_review": 0,
+            "review_url": "/brands/livan/4315/review/",
+            "count_cars": 10,
+            "offer_date_created": "14.07.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/livan/x3pro/suv/2424194",
+            "prices": {
+                "rrc_price": 1879900,
+                "price": 1250000,
+                "discount": 629900,
+                "retail": {
+                    "price": 1869900,
+                    "discount": 10000
+                },
+                "credit": {
+                    "price": 1550000,
+                    "discount": 329900
+                },
+                "trade_in": {
+                    "price": 1679900,
+                    "discount": 200000
+                },
+                "credit_trade_in": {
+                    "price": 1250000,
+                    "discount": 629900
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18450827,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6908322,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/9/6908322/origin/6908322.png"
+                }
+            ],
+            "is_parallel_import": false
+        },
+        {
+            "car_id": 2424201,
+            "offer_id": 363558,
+            "slug": "livan/x3pro/suv",
+            "url": "https://spb.autospot.ru/brands/livan/x3pro/suv/offer/363558/?car=2424201",
+            "brand_id": "livan",
+            "brand_name": "Livan",
+            "city_id": 10,
+            "city_name": "Санкт-Петербург",
+            "model_name": "X3 Pro",
+            "equipment_group": "Luxury",
+            "model_carcase_id": 19745,
+            "equipment_group_id": 4337,
+            "min_credit_pay": 11938,
+            "body_type": "KOMPAKTNY_KROSSOVER",
+            "body_type_name": "Внедорожник",
+            "year": 2023,
+            "color_name": "Красный",
+            "color_code": "#c40f1b",
+            "offer_badges": [
+                {
+                    "type": "available",
+                    "title": "Автомобиль в наличии",
+                    "description": {
+                        "title": null,
+                        "text": []
+                    },
+                    "badge_type": "standard"
+                }
+            ],
+            "engine_type": "AI",
+            "engine_type_name_noun": "Бензин",
+            "wheel_drive": "FWD",
+            "wheel_drive_name": "Передний",
+            "transmission_type": "CVT",
+            "transmission_type_name_noun": "Вариатор",
+            "engine_power": 103,
+            "engine_capacity": 1.5,
+            "count_options": 72,
+            "count_review": 0,
+            "review_url": "/brands/livan/4315/review/",
+            "count_cars": 10,
+            "offer_date_created": "14.07.23",
+            "count_page_views": 0,
+            "credit_url": "https://autospot.ru/credit/sravni/livan/x3pro/suv/2424201",
+            "prices": {
+                "rrc_price": 1879900,
+                "price": 1250000,
+                "discount": 629900,
+                "retail": {
+                    "price": 1869900,
+                    "discount": 10000
+                },
+                "credit": {
+                    "price": 1550000,
+                    "discount": 329900
+                },
+                "trade_in": {
+                    "price": 1679900,
+                    "discount": 200000
+                },
+                "credit_trade_in": {
+                    "price": 1250000,
+                    "discount": 629900
+                }
+            },
+            "slider": [
+                {
+                    "picture_id": 18450776,
+                    "app_id": 1,
+                    "storage_id": 2,
+                    "image_id": 6908275,
+                    "url": "https://image-server.autospot.ru/images/1/0/2/2/6/9/6908275/origin/6908275.png"
+                }
+            ],
+            "is_parallel_import": false
+        }
+    ]
+}
