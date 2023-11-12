@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "page_count": 48,
+        "page_size": 21,
+        "total_items": 100399,
+        "page": 1
+    },
+    "isCompanyListingPage": false,
+    "listType": "table",
+    "listingTypeId": 1,
+    "listingTypeSlug": "sale",
+    "listingTypeSlugCommon": "for-sale",
+    "listingTypeName": "Satılık",
+    "noResult": false,
+    "propertyTypeId": null,
+    "propertyTypeSlug": false,
+    "parentPropertyTypeId": null,
+    "parentPropertyTypeSlug": false,
+    "locationDistrictId": [],
+    "locationDistrictName": [],
+    "filterInitialParams": {
+        "page_size": 21,
+        "noLocation": "true",
+        "_": "1692213408069",
+        "propertyTypeId": null
+    }
+}
