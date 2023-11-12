@@ -1,0 +1,292 @@
+[
+    {
+        "id": 306,
+        "parent": null,
+        "name": "Женщинам",
+        "seo": null,
+        "url": "/catalog/zhenshchinam",
+        "shard": "presets/women_clothes",
+        "query": "preset=1001",
+        "landing": true
+    },
+    {
+        "id": 629,
+        "parent": null,
+        "name": "Обувь",
+        "seo": null,
+        "url": "/catalog/obuv",
+        "shard": "blackhole",
+        "query": "cat=629",
+        "landing": true
+    },
+    {
+        "id": 115,
+        "parent": null,
+        "name": "Детям",
+        "seo": "Детские товары",
+        "url": "/catalog/detyam",
+        "shard": "blackhole",
+        "query": "cat=115",
+        "landing": true
+    },
+    {
+        "id": 566,
+        "parent": null,
+        "name": "Мужчинам",
+        "seo": "Мужская одежда и аксессуары",
+        "url": "/catalog/muzhchinam",
+        "shard": "blackhole",
+        "query": "cat=566",
+        "landing": true
+    },
+    {
+        "id": 258,
+        "parent": null,
+        "name": "Дом",
+        "seo": "Товары для дома и дачи",
+        "url": "/catalog/dom-i-dacha",
+        "shard": "blackhole",
+        "query": "subject=1426",
+        "landing": true
+    },
+    {
+        "id": 543,
+        "parent": null,
+        "name": "Красота",
+        "seo": "Косметика для лица и тела",
+        "url": "/catalog/krasota",
+        "shard": "blackhole",
+        "query": "subject=3454",
+        "landing": true
+    },
+    {
+        "id": 1,
+        "parent": null,
+        "name": "Аксессуары",
+        "seo": null,
+        "url": "/catalog/aksessuary",
+        "shard": "blackhole",
+        "query": "cat=1",
+        "landing": true
+    },
+    {
+        "id": 4830,
+        "parent": null,
+        "name": "Электроника",
+        "seo": null,
+        "url": "/catalog/elektronika",
+        "shard": "blackhole",
+        "query": "subject=1152",
+        "landing": true
+    },
+    {
+        "id": 481,
+        "parent": null,
+        "name": "Игрушки",
+        "seo": null,
+        "url": "/catalog/igrushki",
+        "shard": "blackhole",
+        "query": "subject=4572",
+        "landing": true
+    },
+    {
+        "id": 62827,
+        "parent": null,
+        "name": "Мебель",
+        "seo": null,
+        "url": "/catalog/dom/mebel",
+        "shard": "rooms",
+        "query": "subject=7580",
+        "landing": true
+    },
+    {
+        "id": 62057,
+        "parent": null,
+        "name": "Товары для взрослых",
+        "seo": null,
+        "url": "/catalog/aksessuary/tovary-dlya-vzroslyh",
+        "shard": "blackhole",
+        "query": "cat=62057",
+        "landing": true
+    },
+    {
+        "id": 10296,
+        "parent": null,
+        "name": "Продукты",
+        "seo": "Продукты питания",
+        "url": "/catalog/pitanie",
+        "shard": "blackhole",
+        "query": "cat=10296",
+        "landing": true
+    },
+    {
+        "id": 16107,
+        "parent": null,
+        "name": "Бытовая техника",
+        "seo": null,
+        "url": "/catalog/bytovaya-tehnika",
+        "shard": "blackhole",
+        "query": "cat=16107",
+        "landing": true
+    },
+    {
+        "id": 6119,
+        "parent": null,
+        "name": "Зоотовары",
+        "seo": "Товары для животных",
+        "url": "/catalog/tovary-dlya-zhivotnyh",
+        "shard": "blackhole",
+        "query": "cat=6119",
+        "landing": true
+    },
+    {
+        "id": 784,
+        "parent": null,
+        "name": "Спорт",
+        "seo": "Спортивные товары",
+        "url": "/catalog/sport",
+        "shard": "blackhole",
+        "query": "cat=784",
+        "landing": true
+    },
+    {
+        "id": 6994,
+        "parent": null,
+        "name": "Автотовары",
+        "seo": null,
+        "url": "/catalog/aksessuary/avtotovary",
+        "shard": "blackhole",
+        "query": "subject=7100",
+        "landing": true
+    },
+    {
+        "id": 250,
+        "parent": null,
+        "name": "Школа",
+        "seo": "Школьные товары",
+        "url": "/catalog/detyam/shkola",
+        "shard": "blackhole",
+        "query": "cat=250",
+        "landing": true
+    },
+    {
+        "id": 519,
+        "parent": null,
+        "name": "Книги",
+        "seo": "Книги и диски",
+        "url": "/catalog/knigi",
+        "shard": "books5",
+        "query": "cat=519",
+        "landing": true
+    },
+    {
+        "id": 1023,
+        "parent": null,
+        "name": "Ювелирные изделия",
+        "seo": null,
+        "url": "/catalog/yuvelirnye-ukrasheniya",
+        "shard": "jewellery",
+        "query": "cat=1023",
+        "landing": true
+    },
+    {
+        "id": 17006,
+        "parent": null,
+        "name": "Для ремонта",
+        "seo": "Товары для ремонта",
+        "url": "/catalog/dom-i-dacha/instrumenty",
+        "shard": "blackhole",
+        "query": "subject=1387",
+        "landing": true
+    },
+    {
+        "id": 4863,
+        "parent": null,
+        "name": "Сад и дача",
+        "seo": "Товары для дачников",
+        "url": "/catalog/dachniy-sezon",
+        "shard": "blackhole",
+        "query": "subject=2240",
+        "landing": true
+    },
+    {
+        "id": 10326,
+        "parent": null,
+        "name": "Здоровье",
+        "seo": "Товары для здоровья",
+        "url": "/catalog/dom-i-dacha/zdorove",
+        "shard": "shealth8",
+        "query": "subject=5222",
+        "landing": true
+    },
+    {
+        "id": 5486,
+        "parent": null,
+        "name": "Канцтовары",
+        "seo": null,
+        "url": "/catalog/knigi-i-diski/kantstovary",
+        "shard": null,
+        "query": null,
+        "landing": true
+    },
+    {
+        "id": 12,
+        "parent": null,
+        "name": "Цифровые товары",
+        "seo": null,
+        "url": "https://digital.wildberries.ru/",
+        "shard": null,
+        "query": null,
+        "landing": null
+    },
+    {
+        "id": 2192,
+        "parent": null,
+        "name": "Акции",
+        "seo": null,
+        "url": "/promotions",
+        "shard": null,
+        "query": null,
+        "landing": null
+    },
+    {
+        "id": 130255,
+        "parent": null,
+        "name": "Сделано в Москве",
+        "seo": null,
+        "url": "/promotions/sdelano-v-moskve",
+        "shard": null,
+        "query": null,
+        "landing": null
+    },
+    {
+        "id": 61037,
+        "parent": null,
+        "name": "Путешествия",
+        "seo": null,
+        "url": "https://vmeste.wildberries.ru/",
+        "shard": null,
+        "query": null,
+        "landing": null
+    },
+    {
+        "id": 128313,
+        "parent": null,
+        "name": "Региональные товары",
+        "seo": null,
+        "url": "/catalog/regionalnye-tovary",
+        "shard": "regional",
+        "query": "subject=1;2;3;6;7;49;195;239;257;479;571;657;760;786;858;883;1284;1521;1590;3109;4834;5038&ext=383603;404444;404445;406368;406372",
+        "landing": null
+    },
+    {
+        "id": 128604,
+        "parent": null,
+        "name": "Вкусы России",
+        "seo": null,
+        "url": "/catalog/vkusy-rossii",
+        "shard": "product",
+        "query": "subject=3109&supplier=25959;29274;32523;48737;55688;56946;61633;61899;64351;65618;74801;82034;82434;96039",
+        "landing": null
+    }
+]

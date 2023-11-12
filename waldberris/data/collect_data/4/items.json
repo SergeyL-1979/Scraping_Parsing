@@ -1,0 +1,972 @@
+[
+    {
+        "id": 130773,
+        "parent": 130143,
+        "name": "Арт и абстракция",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/art-i-abstraktsiya",
+        "shard": "interior14",
+        "query": "cat=130773",
+        "landing": null
+    },
+    {
+        "id": 130819,
+        "parent": 130143,
+        "name": "Архитектура",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/arkxitektura",
+        "shard": "interior17",
+        "query": "cat=130819",
+        "landing": null
+    },
+    {
+        "id": 130774,
+        "parent": 130143,
+        "name": "Аниме",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/anime",
+        "shard": "interior15",
+        "query": "cat=130774",
+        "landing": null
+    },
+    {
+        "id": 130775,
+        "parent": 130143,
+        "name": "Города и страны",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/goroda-i-strany",
+        "shard": "interior15",
+        "query": "cat=130775",
+        "landing": null
+    },
+    {
+        "id": 130470,
+        "parent": 130143,
+        "name": "Детские",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/detskie",
+        "shard": "interior16",
+        "query": "cat=130470",
+        "landing": null
+    },
+    {
+        "id": 130776,
+        "parent": 130143,
+        "name": "Еда и напитки",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/eda-i-napitki",
+        "shard": "interior16",
+        "query": "cat=130776",
+        "landing": null
+    },
+    {
+        "id": 130777,
+        "parent": 130143,
+        "name": "Животные и птицы",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/zhivotnye-i-ptitsy",
+        "shard": "interior16",
+        "query": "cat=130777",
+        "landing": null
+    },
+    {
+        "id": 130796,
+        "parent": 130143,
+        "name": "Интерьеры",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/interery",
+        "shard": "interior16",
+        "query": "cat=130796",
+        "landing": null
+    },
+    {
+        "id": 130778,
+        "parent": 130143,
+        "name": "Карты",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/karty",
+        "shard": "interior16",
+        "query": "cat=130778",
+        "landing": null
+    },
+    {
+        "id": 130779,
+        "parent": 130143,
+        "name": "Кино и музыка",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/kino-i-muzyka",
+        "shard": "interior17",
+        "query": "cat=130779",
+        "landing": null
+    },
+    {
+        "id": 130780,
+        "parent": 130143,
+        "name": "Коллажи",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/kollazhi",
+        "shard": "interior18",
+        "query": "cat=130780",
+        "landing": null
+    },
+    {
+        "id": 130781,
+        "parent": 130143,
+        "name": "Комиксы",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/komiksy",
+        "shard": "interior18",
+        "query": "cat=130781",
+        "landing": null
+    },
+    {
+        "id": 130782,
+        "parent": 130143,
+        "name": "Компьютерные игры",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/kompyuternye-igry",
+        "shard": "interior18",
+        "query": "cat=130782",
+        "landing": null
+    },
+    {
+        "id": 130783,
+        "parent": 130143,
+        "name": "Космос",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/kosmos",
+        "shard": "interior18",
+        "query": "cat=130783",
+        "landing": null
+    },
+    {
+        "id": 130784,
+        "parent": 130143,
+        "name": "Люди",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/lyudi",
+        "shard": "interior18",
+        "query": "cat=130784",
+        "landing": null
+    },
+    {
+        "id": 130785,
+        "parent": 130143,
+        "name": "Надписи",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/nadpisi",
+        "shard": "interior19",
+        "query": "cat=130785",
+        "landing": null
+    },
+    {
+        "id": 130786,
+        "parent": 130143,
+        "name": "Натюрморты",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/natyurmorty",
+        "shard": "interior19",
+        "query": "cat=130786",
+        "landing": null
+    },
+    {
+        "id": 130787,
+        "parent": 130143,
+        "name": "Природа",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/priroda",
+        "shard": "interior19",
+        "query": "cat=130787",
+        "landing": null
+    },
+    {
+        "id": 130788,
+        "parent": 130143,
+        "name": "Праздники",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/prazdniki",
+        "shard": "interior18",
+        "query": "cat=130788",
+        "landing": null
+    },
+    {
+        "id": 130789,
+        "parent": 130143,
+        "name": "Религия",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/religiya",
+        "shard": "interior18",
+        "query": "cat=130789",
+        "landing": null
+    },
+    {
+        "id": 130475,
+        "parent": 130143,
+        "name": "Репродукции",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/reproduktsii",
+        "shard": "interior14",
+        "query": "cat=130475",
+        "landing": null
+    },
+    {
+        "id": 130790,
+        "parent": 130143,
+        "name": "Ретро",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/retro",
+        "shard": "interior18",
+        "query": "cat=130790",
+        "landing": null
+    },
+    {
+        "id": 130791,
+        "parent": 130143,
+        "name": "Спорт",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/sport",
+        "shard": "interior18",
+        "query": "cat=130791",
+        "landing": null
+    },
+    {
+        "id": 130795,
+        "parent": 130143,
+        "name": "Транспорт",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/transport",
+        "shard": "interior18",
+        "query": "cat=130795",
+        "landing": null
+    },
+    {
+        "id": 130792,
+        "parent": 130143,
+        "name": "Фотография",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/fotografiya",
+        "shard": "interior18",
+        "query": "cat=130792",
+        "landing": null
+    },
+    {
+        "id": 130793,
+        "parent": 130143,
+        "name": "Фэнтези",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/fentezi",
+        "shard": "interior18",
+        "query": "cat=130793",
+        "landing": null
+    },
+    {
+        "id": 130820,
+        "parent": 130143,
+        "name": "Цветы и растения",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/tsvety-i-rasteniya",
+        "shard": "interior17",
+        "query": "cat=130820",
+        "landing": null
+    },
+    {
+        "id": 130794,
+        "parent": 130143,
+        "name": "Юмор",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/yumor",
+        "shard": "interior18",
+        "query": "cat=130794",
+        "landing": null
+    },
+    {
+        "id": 130471,
+        "parent": 130143,
+        "name": "Гобелены",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/gobeleny",
+        "shard": "interior16",
+        "query": "cat=130471",
+        "landing": null
+    },
+    {
+        "id": 130474,
+        "parent": 130143,
+        "name": "Панно",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny/panno",
+        "shard": "interior15",
+        "query": "cat=130474",
+        "landing": null
+    },
+    {
+        "id": 130537,
+        "parent": 130148,
+        "name": "Арт и абстракция",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/art-i-abstraktsiya",
+        "shard": "interior11",
+        "query": "cat=130537",
+        "landing": null
+    },
+    {
+        "id": 130538,
+        "parent": 130148,
+        "name": "Аниме",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/anime",
+        "shard": "interior11",
+        "query": "cat=130538",
+        "landing": null
+    },
+    {
+        "id": 130540,
+        "parent": 130148,
+        "name": "Города и страны",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/goroda-i-strany",
+        "shard": "interior11",
+        "query": "cat=130540",
+        "landing": null
+    },
+    {
+        "id": 130542,
+        "parent": 130148,
+        "name": "Детская тематика",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/detskaya-tematika",
+        "shard": "interior11",
+        "query": "cat=130542",
+        "landing": null
+    },
+    {
+        "id": 130544,
+        "parent": 130148,
+        "name": "Еда и напитки",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/eda-i-napitki",
+        "shard": "interior11",
+        "query": "cat=130544",
+        "landing": null
+    },
+    {
+        "id": 130545,
+        "parent": 130148,
+        "name": "Животные и птицы",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/zhivotnye-i-ptitsy",
+        "shard": "interior11",
+        "query": "cat=130545",
+        "landing": null
+    },
+    {
+        "id": 130546,
+        "parent": 130148,
+        "name": "Интерьеры",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/interery",
+        "shard": "interior11",
+        "query": "cat=130546",
+        "landing": null
+    },
+    {
+        "id": 130547,
+        "parent": 130148,
+        "name": "Карты",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/karty",
+        "shard": "interior12",
+        "query": "cat=130547",
+        "landing": null
+    },
+    {
+        "id": 130548,
+        "parent": 130148,
+        "name": "Кино и музыка",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/kino-i-muzyka",
+        "shard": "interior12",
+        "query": "cat=130548",
+        "landing": null
+    },
+    {
+        "id": 130549,
+        "parent": 130148,
+        "name": "Коллажи",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/kollazhi",
+        "shard": "interior12",
+        "query": "cat=130549",
+        "landing": null
+    },
+    {
+        "id": 130550,
+        "parent": 130148,
+        "name": "Комиксы",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/komiksy",
+        "shard": "interior12",
+        "query": "cat=130550",
+        "landing": null
+    },
+    {
+        "id": 130551,
+        "parent": 130148,
+        "name": "Компьютерные игры",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/kompyuternye-igry",
+        "shard": "interior12",
+        "query": "cat=130551",
+        "landing": null
+    },
+    {
+        "id": 130552,
+        "parent": 130148,
+        "name": "Космос",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/kosmos",
+        "shard": "interior12",
+        "query": "cat=130552",
+        "landing": null
+    },
+    {
+        "id": 130553,
+        "parent": 130148,
+        "name": "Люди",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/lyudi",
+        "shard": "interior12",
+        "query": "cat=130553",
+        "landing": null
+    },
+    {
+        "id": 130554,
+        "parent": 130148,
+        "name": "Машины и техника",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/mashiny-i-tekxnika",
+        "shard": "interior12",
+        "query": "cat=130554",
+        "landing": null
+    },
+    {
+        "id": 130558,
+        "parent": 130148,
+        "name": "Наборы",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/nabory",
+        "shard": "interior13",
+        "query": "cat=130558",
+        "landing": null
+    },
+    {
+        "id": 130559,
+        "parent": 130148,
+        "name": "Надписи",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/nadpisi",
+        "shard": "interior13",
+        "query": "cat=130559",
+        "landing": null
+    },
+    {
+        "id": 130560,
+        "parent": 130148,
+        "name": "Натюрморты",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/natyurmorty",
+        "shard": "interior13",
+        "query": "cat=130560",
+        "landing": null
+    },
+    {
+        "id": 130561,
+        "parent": 130148,
+        "name": "Природа",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/priroda",
+        "shard": "interior13",
+        "query": "cat=130561",
+        "landing": null
+    },
+    {
+        "id": 130563,
+        "parent": 130148,
+        "name": "Праздники",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/prazdniki",
+        "shard": "interior13",
+        "query": "cat=130563",
+        "landing": null
+    },
+    {
+        "id": 130536,
+        "parent": 130148,
+        "name": "Религия",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/religiya",
+        "shard": "interior13",
+        "query": "cat=130536",
+        "landing": null
+    },
+    {
+        "id": 130539,
+        "parent": 130148,
+        "name": "Ретро",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/retro",
+        "shard": "interior13",
+        "query": "cat=130539",
+        "landing": null
+    },
+    {
+        "id": 130543,
+        "parent": 130148,
+        "name": "Спорт",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/sport",
+        "shard": "interior13",
+        "query": "cat=130543",
+        "landing": null
+    },
+    {
+        "id": 130564,
+        "parent": 130148,
+        "name": "Фотография",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/fotografiya",
+        "shard": "interior13",
+        "query": "cat=130564",
+        "landing": null
+    },
+    {
+        "id": 130565,
+        "parent": 130148,
+        "name": "Фэнтези",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/fentezi",
+        "shard": "interior13",
+        "query": "cat=130565",
+        "landing": null
+    },
+    {
+        "id": 130567,
+        "parent": 130148,
+        "name": "Юмор",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery/yumor",
+        "shard": "interior13",
+        "query": "cat=130567",
+        "landing": null
+    },
+    {
+        "id": 130585,
+        "parent": 61599,
+        "name": "Аксессуары",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/aksessuary",
+        "shard": "creativity13",
+        "query": "cat=130585",
+        "landing": null
+    },
+    {
+        "id": 130586,
+        "parent": 61599,
+        "name": "Бисер и бусины",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/biser-i-businy",
+        "shard": "creativity13",
+        "query": "cat=130586",
+        "landing": null
+    },
+    {
+        "id": 130587,
+        "parent": 61599,
+        "name": "Булавки",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/bulavki",
+        "shard": "creativity13",
+        "query": "subject=1754",
+        "landing": null
+    },
+    {
+        "id": 130588,
+        "parent": 61599,
+        "name": "Бумага",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/bumaga",
+        "shard": "creativity13",
+        "query": "subject=2746",
+        "landing": null
+    },
+    {
+        "id": 130589,
+        "parent": 61599,
+        "name": "Выкройки",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/vykroyki",
+        "shard": "creativity13",
+        "query": "subject=5984",
+        "landing": null
+    },
+    {
+        "id": 130590,
+        "parent": 61599,
+        "name": "Декор",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/dekor",
+        "shard": "creativity13",
+        "query": "cat=130590",
+        "landing": null
+    },
+    {
+        "id": 130591,
+        "parent": 61599,
+        "name": "Заготовки для поделок",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/zagotovki-dlya-podelok",
+        "shard": "creativity13",
+        "query": "subject=2557",
+        "landing": null
+    },
+    {
+        "id": 130592,
+        "parent": 61599,
+        "name": "Заплатки",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/zaplatki",
+        "shard": "creativity13",
+        "query": "subject=1751",
+        "landing": null
+    },
+    {
+        "id": 130815,
+        "parent": 61599,
+        "name": "Красители и жидкости",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/krasiteli-i-zhidkosti",
+        "shard": "creativity14",
+        "query": "cat=130815",
+        "landing": null
+    },
+    {
+        "id": 130593,
+        "parent": 61599,
+        "name": "Кожа",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/kozha",
+        "shard": "creativity13",
+        "query": "subject=5499",
+        "landing": null
+    },
+    {
+        "id": 130594,
+        "parent": 61599,
+        "name": "Ленты и шнуры",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/lenty-i-shnury",
+        "shard": "creativity13",
+        "query": "cat=130594",
+        "landing": null
+    },
+    {
+        "id": 130595,
+        "parent": 61599,
+        "name": "Наборы ниток и катушек",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/nabory-nitok-i-katushek",
+        "shard": "creativity13",
+        "query": "cat=130595",
+        "landing": null
+    },
+    {
+        "id": 130596,
+        "parent": 61599,
+        "name": "Основы для вышивания",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/osnovy-dlya-vyshivaniya",
+        "shard": "creativity14",
+        "query": "subject=3658",
+        "landing": null
+    },
+    {
+        "id": 130597,
+        "parent": 61599,
+        "name": "Проволока",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/provoloka",
+        "shard": "creativity14",
+        "query": "subject=6006",
+        "landing": null
+    },
+    {
+        "id": 130598,
+        "parent": 61599,
+        "name": "Пряжа",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/pryazha",
+        "shard": "creativity14",
+        "query": "subject=1904",
+        "landing": null
+    },
+    {
+        "id": 130599,
+        "parent": 61599,
+        "name": "Пуговицы",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/pugovitsy",
+        "shard": "creativity14",
+        "query": "subject=6009",
+        "landing": null
+    },
+    {
+        "id": 130600,
+        "parent": 61599,
+        "name": "Резинки",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/rezinki",
+        "shard": "creativity14",
+        "query": "subject=6010",
+        "landing": null
+    },
+    {
+        "id": 130601,
+        "parent": 61599,
+        "name": "Ткани",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/tkani",
+        "shard": "creativity14",
+        "query": "cat=130601",
+        "landing": null
+    },
+    {
+        "id": 130602,
+        "parent": 61599,
+        "name": "Фурнитура",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya/furnitura",
+        "shard": "creativity14",
+        "query": "cat=130602",
+        "landing": null
+    },
+    {
+        "id": 130803,
+        "parent": 129323,
+        "name": "iPhone X",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-apple/iphone-x",
+        "shard": "electronic24",
+        "query": "cat=130803",
+        "landing": null
+    },
+    {
+        "id": 130798,
+        "parent": 129323,
+        "name": "iPhone 11",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-apple/iphone-11",
+        "shard": "electronic23",
+        "query": "cat=130798",
+        "landing": null
+    },
+    {
+        "id": 130799,
+        "parent": 129323,
+        "name": "iPhone 12",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-apple/iphone-12",
+        "shard": "electronic24",
+        "query": "cat=130799",
+        "landing": null
+    },
+    {
+        "id": 130800,
+        "parent": 129323,
+        "name": "iPhone 13",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-apple/iphone-13",
+        "shard": "electronic23",
+        "query": "cat=130800",
+        "landing": null
+    },
+    {
+        "id": 130801,
+        "parent": 129323,
+        "name": "iPhone 14",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-apple/iphone-14",
+        "shard": "electronic24",
+        "query": "cat=130801",
+        "landing": null
+    },
+    {
+        "id": 130802,
+        "parent": 129323,
+        "name": "Прочие",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-apple/prochie",
+        "shard": "electronic23",
+        "query": "cat=130802",
+        "landing": null
+    },
+    {
+        "id": 130804,
+        "parent": 129324,
+        "name": "Серия Mi Note",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/mi-note",
+        "shard": "electronic25",
+        "query": "cat=130804",
+        "landing": null
+    },
+    {
+        "id": 130806,
+        "parent": 129324,
+        "name": "Серия Redmi",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/redmi",
+        "shard": "electronic26",
+        "query": "cat=130806",
+        "landing": null
+    },
+    {
+        "id": 130805,
+        "parent": 129324,
+        "name": "Серия Redmi Note",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/redmi-note",
+        "shard": "electronic25",
+        "query": "cat=130805",
+        "landing": null
+    },
+    {
+        "id": 130808,
+        "parent": 129324,
+        "name": "Серия Т",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/t",
+        "shard": "electronic27",
+        "query": "cat=130808",
+        "landing": null
+    },
+    {
+        "id": 130807,
+        "parent": 129324,
+        "name": "Серия MIX",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/mix",
+        "shard": "electronic27",
+        "query": "cat=130807",
+        "landing": null
+    },
+    {
+        "id": 130809,
+        "parent": 129324,
+        "name": "Прочие",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi/prochie",
+        "shard": "electronic27",
+        "query": "cat=130809",
+        "landing": null
+    },
+    {
+        "id": 130821,
+        "parent": 129325,
+        "name": "Серия Galaxy A",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-a",
+        "shard": "electronic34",
+        "query": "cat=130821",
+        "landing": null
+    },
+    {
+        "id": 130830,
+        "parent": 129325,
+        "name": "Серия Galaxy Ax0",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax0",
+        "shard": "electronic34",
+        "query": "cat=130830",
+        "landing": null
+    },
+    {
+        "id": 130826,
+        "parent": 129325,
+        "name": "Серия Galaxy Ax1",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax1",
+        "shard": "electronic33",
+        "query": "cat=130826",
+        "landing": null
+    },
+    {
+        "id": 130827,
+        "parent": 129325,
+        "name": "Серия Galaxy Ax2",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax2",
+        "shard": "electronic33",
+        "query": "cat=130827",
+        "landing": null
+    },
+    {
+        "id": 130828,
+        "parent": 129325,
+        "name": "Серия Galaxy Ax3",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax3",
+        "shard": "electronic34",
+        "query": "cat=130828",
+        "landing": null
+    },
+    {
+        "id": 130829,
+        "parent": 129325,
+        "name": "Серия Galaxy Ax4",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-ax4",
+        "shard": "electronic34",
+        "query": "cat=130829",
+        "landing": null
+    },
+    {
+        "id": 130822,
+        "parent": 129325,
+        "name": "Серия Galaxy S",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-s",
+        "shard": "electronic31",
+        "query": "cat=130822",
+        "landing": null
+    },
+    {
+        "id": 130823,
+        "parent": 129325,
+        "name": "Серия Galaxy Z Flip",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-z-flip",
+        "shard": "electronic34",
+        "query": "cat=130823",
+        "landing": null
+    },
+    {
+        "id": 130824,
+        "parent": 129325,
+        "name": "Серия Galaxy Z Fold",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/galaxy-z-fold",
+        "shard": "electronic34",
+        "query": "cat=130824",
+        "landing": null
+    },
+    {
+        "id": 130825,
+        "parent": 129325,
+        "name": "Прочие",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung/prochie",
+        "shard": "electronic32",
+        "query": "cat=130825",
+        "landing": null
+    }
+]

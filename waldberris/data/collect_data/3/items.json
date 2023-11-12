@@ -1,0 +1,2652 @@
+[
+    {
+        "id": 130266,
+        "parent": 8343,
+        "name": "Брюки и шорты",
+        "seo": null,
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/bryuki-i-shorty",
+        "shard": "children_boys4",
+        "query": "cat=130266",
+        "landing": null
+    },
+    {
+        "id": 130267,
+        "parent": 8343,
+        "name": "Джемперы и кардиганы",
+        "seo": null,
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/dzhempery-i-kardigany",
+        "shard": "children_boys4",
+        "query": "cat=130267",
+        "landing": null
+    },
+    {
+        "id": 130268,
+        "parent": 8343,
+        "name": "Жакеты и жилеты",
+        "seo": null,
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/zhakety-i-zhilety",
+        "shard": "children_boys4",
+        "query": "cat=130268",
+        "landing": null
+    },
+    {
+        "id": 130269,
+        "parent": 8343,
+        "name": "Костюмы и комбинезоны",
+        "seo": null,
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/kostyumy-i-kombinezony",
+        "shard": "children_boys4",
+        "query": "cat=130269",
+        "landing": null
+    },
+    {
+        "id": 130270,
+        "parent": 8343,
+        "name": "Пижамы",
+        "seo": "Домашние пижамы для мальчиков",
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/pizhamy",
+        "shard": "children_boys4",
+        "query": "cat=130270",
+        "landing": null
+    },
+    {
+        "id": 130271,
+        "parent": 8343,
+        "name": "Рубашки",
+        "seo": "Рубашки домашние для мальчиков",
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/rubashki",
+        "shard": "children_boys4",
+        "query": "cat=130271",
+        "landing": null
+    },
+    {
+        "id": 130272,
+        "parent": 8343,
+        "name": "Толстовки и лонгсливы",
+        "seo": null,
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/tolstovki-i-longslivy",
+        "shard": "children_boys4",
+        "query": "cat=130272",
+        "landing": null
+    },
+    {
+        "id": 130273,
+        "parent": 8343,
+        "name": "Футболки",
+        "seo": "Домашние футболки для мальчиков",
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/futbolki",
+        "shard": "children_boys4",
+        "query": "cat=130273",
+        "landing": null
+    },
+    {
+        "id": 130274,
+        "parent": 8343,
+        "name": "Халаты",
+        "seo": null,
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/odezhda-dlya-doma/kxalaty",
+        "shard": "children_boys4",
+        "query": "cat=130274",
+        "landing": null
+    },
+    {
+        "id": 11780,
+        "parent": 8096,
+        "name": "Автокресла и аксессуары",
+        "seo": "Автокресла детские",
+        "url": "/catalog/detyam/tovary-dlya-malysha/peredvizhenie/avtokresla-detskie",
+        "shard": "children_things2",
+        "query": "cat=11780",
+        "landing": null
+    },
+    {
+        "id": 11781,
+        "parent": 8096,
+        "name": "Коляски и аксессуары",
+        "seo": "Аксессуары в коляску",
+        "url": "/catalog/detyam/tovary-dlya-malysha/peredvizhenie/aksessuary-v-kolyasku",
+        "shard": "children_things2",
+        "query": "cat=11781",
+        "landing": null
+    },
+    {
+        "id": 11795,
+        "parent": 8096,
+        "name": "Слинги и переноски",
+        "seo": "Слинг-шарфы",
+        "url": "/catalog/detyam/tovary-dlya-malysha/peredvizhenie/sling-sharfy",
+        "shard": "children_things2",
+        "query": "cat=11795",
+        "landing": null
+    },
+    {
+        "id": 130076,
+        "parent": 8712,
+        "name": "Для глинтвейна",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/dlya-glintveyna",
+        "shard": "kitchen9",
+        "query": "cat=130076",
+        "landing": null
+    },
+    {
+        "id": 130077,
+        "parent": 8712,
+        "name": "Для детей",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/dlya-detey",
+        "shard": "kitchen9",
+        "query": "cat=130077",
+        "landing": null
+    },
+    {
+        "id": 130078,
+        "parent": 8712,
+        "name": "Для кофе",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/dlya-kofe",
+        "shard": "kitchen9",
+        "query": "cat=130078",
+        "landing": null
+    },
+    {
+        "id": 130079,
+        "parent": 8712,
+        "name": "Для чая",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/dlya-chaya",
+        "shard": "kitchen10",
+        "query": "cat=130079",
+        "landing": null
+    },
+    {
+        "id": 130080,
+        "parent": 8712,
+        "name": "Заварочные",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/zavarochnye",
+        "shard": "kitchen9",
+        "query": "cat=130080",
+        "landing": null
+    },
+    {
+        "id": 130081,
+        "parent": 8712,
+        "name": "Именные",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/imennye",
+        "shard": "kitchen11",
+        "query": "cat=130081",
+        "landing": null
+    },
+    {
+        "id": 130508,
+        "parent": 8712,
+        "name": "Керамические",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/keramicheskie",
+        "shard": "kitchen12",
+        "query": "cat=130508",
+        "landing": null
+    },
+    {
+        "id": 130084,
+        "parent": 8712,
+        "name": "Пивные",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/pivnye",
+        "shard": "kitchen9",
+        "query": "cat=130084",
+        "landing": null
+    },
+    {
+        "id": 130082,
+        "parent": 8712,
+        "name": "С двойными стенками",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/s-dvoynymi-stenkami",
+        "shard": "kitchen9",
+        "query": "cat=130082",
+        "landing": null
+    },
+    {
+        "id": 130507,
+        "parent": 8712,
+        "name": "Стеклянные",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/steklyannye",
+        "shard": "kitchen9",
+        "query": "cat=130507",
+        "landing": null
+    },
+    {
+        "id": 130083,
+        "parent": 8712,
+        "name": "Наборы",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/nabory",
+        "shard": "kitchen9",
+        "query": "cat=130083",
+        "landing": null
+    },
+    {
+        "id": 130505,
+        "parent": 8712,
+        "name": "Фарфоровые",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/farforovye",
+        "shard": "kitchen9",
+        "query": "cat=130505",
+        "landing": null
+    },
+    {
+        "id": 130506,
+        "parent": 8712,
+        "name": "Хамелеон",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/kxameleon",
+        "shard": "kitchen13",
+        "query": "cat=130506",
+        "landing": null
+    },
+    {
+        "id": 130510,
+        "parent": 8712,
+        "name": "Эмалированные",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/emalirovannye",
+        "shard": "kitchen9",
+        "query": "cat=130510",
+        "landing": null
+    },
+    {
+        "id": 130481,
+        "parent": 8712,
+        "name": "Прочие",
+        "seo": null,
+        "url": "/catalog/kuhnya/posuda/bokaly-i-kruzhki/kruzhki/prochie",
+        "shard": "kitchen14",
+        "query": "cat=130481",
+        "landing": null
+    },
+    {
+        "id": 130073,
+        "parent": 8721,
+        "name": "Грелки для посуды",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/grelki-dlya-posudy",
+        "shard": "kitchen7",
+        "query": "subject=2291",
+        "landing": null
+    },
+    {
+        "id": 130074,
+        "parent": 8721,
+        "name": "Дорожки кухонные",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/dorozhki-kukxonnye",
+        "shard": "kitchen7",
+        "query": "subject=5146",
+        "landing": null
+    },
+    {
+        "id": 130072,
+        "parent": 8721,
+        "name": "Плейсматы",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/pleysmaty",
+        "shard": "kitchen7",
+        "query": "subject=1795",
+        "landing": null
+    },
+    {
+        "id": 130066,
+        "parent": 8721,
+        "name": "Прихватки",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/prikxvatki",
+        "shard": "kitchen7",
+        "query": "subject=401",
+        "landing": null
+    },
+    {
+        "id": 130070,
+        "parent": 8721,
+        "name": "Подушки на стул",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/podushki-na-stul",
+        "shard": "kitchen7",
+        "query": "subject=1136",
+        "landing": null
+    },
+    {
+        "id": 130071,
+        "parent": 8721,
+        "name": "Полотенца кухонные",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/polotentsa-kukxonnye",
+        "shard": "kitchen7",
+        "query": "subject=1626",
+        "landing": null
+    },
+    {
+        "id": 130069,
+        "parent": 8721,
+        "name": "Рушники",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/rushniki",
+        "shard": "kitchen7",
+        "query": "subject=1073",
+        "landing": null
+    },
+    {
+        "id": 130065,
+        "parent": 8721,
+        "name": "Скатерти",
+        "seo": "Скатерти для кухни",
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/skaterti",
+        "shard": "kitchen7",
+        "query": "subject=231",
+        "landing": null
+    },
+    {
+        "id": 130068,
+        "parent": 8721,
+        "name": "Салфетки",
+        "seo": "Салфетки для кухни",
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/salfetki",
+        "shard": "kitchen8",
+        "query": "subject=509",
+        "landing": null
+    },
+    {
+        "id": 130067,
+        "parent": 8721,
+        "name": "Фартуки кухонные",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/fartuki-kukxonnye",
+        "shard": "kitchen8",
+        "query": "subject=402",
+        "landing": null
+    },
+    {
+        "id": 130075,
+        "parent": 8721,
+        "name": "Чехлы для ручек холодильников",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/kuhnya/kuhonniy-tekstil/chekxly-dlya-ruchek-kxolodilnikov",
+        "shard": "kitchen8",
+        "query": "subject=7551",
+        "landing": null
+    },
+    {
+        "id": 130146,
+        "parent": 8467,
+        "name": "Доски для записей",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/doski-dlya-zapisey",
+        "shard": "interior5",
+        "query": "subject=1360",
+        "landing": null
+    },
+    {
+        "id": 130143,
+        "parent": 8467,
+        "name": "Картины",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny",
+        "shard": "blackhole",
+        "query": "subject=374",
+        "landing": null
+    },
+    {
+        "id": 130797,
+        "parent": 8467,
+        "name": "Картины 3D",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny-3d",
+        "shard": "interior14",
+        "query": "subject=8470",
+        "landing": null
+    },
+    {
+        "id": 130760,
+        "parent": 8467,
+        "name": "Картины в рамах",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/kartiny-v-ramakx",
+        "shard": "interior14",
+        "query": "subject=8461",
+        "landing": null
+    },
+    {
+        "id": 130758,
+        "parent": 8467,
+        "name": "Модульные картины",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/modulnye-kartiny",
+        "shard": "interior5",
+        "query": "subject=8144",
+        "landing": null
+    },
+    {
+        "id": 130148,
+        "parent": 8467,
+        "name": "Постеры",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery",
+        "shard": "blackhole",
+        "query": "subject=5866",
+        "landing": null
+    },
+    {
+        "id": 130149,
+        "parent": 8467,
+        "name": "Постеры в рамах",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/postery-v-ramakx",
+        "shard": "interior5",
+        "query": "subject=5867",
+        "landing": null
+    },
+    {
+        "id": 130144,
+        "parent": 8467,
+        "name": "Рамы багетные",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/ramy-bagetnye",
+        "shard": "interior5",
+        "query": "subject=967",
+        "landing": null
+    },
+    {
+        "id": 130147,
+        "parent": 8467,
+        "name": "Рамы для постеров",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/ramy-dlya-posterov",
+        "shard": "interior5",
+        "query": "subject=5865",
+        "landing": null
+    },
+    {
+        "id": 130145,
+        "parent": 8467,
+        "name": "Таблички информационные",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/kartiny/tablichki-informatsionnye",
+        "shard": "interior5",
+        "query": "subject=968",
+        "landing": null
+    },
+    {
+        "id": 130136,
+        "parent": 130133,
+        "name": "Держатели для фотографий",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/fotoramki-i-fotoalbomy/derzhateli-dlya-fotografiy",
+        "shard": "interior5",
+        "query": "subject=1441",
+        "landing": null
+    },
+    {
+        "id": 130137,
+        "parent": 130133,
+        "name": "Фотоальбомы",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/fotoramki-i-fotoalbomy/fotoalbomy",
+        "shard": "interior5",
+        "query": "subject=235",
+        "landing": null
+    },
+    {
+        "id": 130134,
+        "parent": 130133,
+        "name": "Фоторамки",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/fotoramki-i-fotoalbomy/fotoramki",
+        "shard": "interior5",
+        "query": "cat=130134",
+        "landing": null
+    },
+    {
+        "id": 130135,
+        "parent": 130133,
+        "name": "Фоторамки магнитные",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/fotoramki-i-fotoalbomy/fotoramki-magnitnye",
+        "shard": "interior5",
+        "query": "subject=2002",
+        "landing": null
+    },
+    {
+        "id": 130138,
+        "parent": 130133,
+        "name": "Фотофоны",
+        "seo": null,
+        "url": "/catalog/dlya-doma/predmety-interera/fotoramki-i-fotoalbomy/fotofony",
+        "shard": "interior5",
+        "query": "subject=3072",
+        "landing": null
+    },
+    {
+        "id": 130088,
+        "parent": 287,
+        "name": "Держатели для простыни",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/derzhateli-dlya-prostyni",
+        "shard": "bedding2",
+        "query": "subject=4747",
+        "landing": null
+    },
+    {
+        "id": 130090,
+        "parent": 287,
+        "name": "Матрасы",
+        "seo": null,
+        "url": "/catalog/mebel/mebel-dlya-spalni/matrasy",
+        "shard": "rooms",
+        "query": "cat=129073",
+        "landing": null
+    },
+    {
+        "id": 130509,
+        "parent": 287,
+        "name": "Матрасы-топперы",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/matrasy-toppery",
+        "shard": "bedding2",
+        "query": "subject=5240",
+        "landing": null
+    },
+    {
+        "id": 130091,
+        "parent": 287,
+        "name": "Наволочки",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/navolochki",
+        "shard": "bedding2",
+        "query": "cat=130091",
+        "landing": null
+    },
+    {
+        "id": 130092,
+        "parent": 287,
+        "name": "Наматрасники",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/namatrasniki",
+        "shard": "bedding2",
+        "query": "subject=743",
+        "landing": null
+    },
+    {
+        "id": 130094,
+        "parent": 287,
+        "name": "Одеяла",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/odeyala",
+        "shard": "bedding2",
+        "query": "subject=319",
+        "landing": null
+    },
+    {
+        "id": 130096,
+        "parent": 287,
+        "name": "Пледы",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/pledy",
+        "shard": "bedding2",
+        "query": "subject=321",
+        "landing": null
+    },
+    {
+        "id": 130098,
+        "parent": 287,
+        "name": "Пододеяльники",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/pododeyalniki",
+        "shard": "bedding2",
+        "query": "subject=1045",
+        "landing": null
+    },
+    {
+        "id": 130100,
+        "parent": 287,
+        "name": "Подушки",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/podushki",
+        "shard": "bedding2",
+        "query": "cat=130100",
+        "landing": null
+    },
+    {
+        "id": 130102,
+        "parent": 287,
+        "name": "Покрывала",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/pokryvala",
+        "shard": "bedding3",
+        "query": "subject=1182",
+        "landing": null
+    },
+    {
+        "id": 130104,
+        "parent": 287,
+        "name": "Постельное белье",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/postelnoe-bele",
+        "shard": "bedding3",
+        "query": "subject=197",
+        "landing": null
+    },
+    {
+        "id": 130105,
+        "parent": 287,
+        "name": "Простыни",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/prostyni",
+        "shard": "bedding3",
+        "query": "cat=130105",
+        "landing": null
+    },
+    {
+        "id": 130108,
+        "parent": 287,
+        "name": "Фиксаторы для одеяла",
+        "seo": null,
+        "url": "/catalog/dlya-doma/postelnye-prinadlezhnosti/fiksatory-dlya-odeyala",
+        "shard": "bedding2",
+        "query": "subject=2776",
+        "landing": null
+    },
+    {
+        "id": 62159,
+        "parent": 62079,
+        "name": "Для детей",
+        "seo": null,
+        "url": "/catalog/dom/detskaya/postelnye-prinadlezhnosti-detskie/postelnoe-bele",
+        "shard": "children_room6",
+        "query": "cat=62159",
+        "landing": null
+    },
+    {
+        "id": 60546,
+        "parent": 62079,
+        "name": "Для малышей",
+        "seo": "Постельные принадлежности для новорожденных",
+        "url": "/catalog/detyam/tovary-dlya-malysha/postelnye-prinadlezhnosti",
+        "shard": "children_things2",
+        "query": "cat=9627",
+        "landing": null
+    },
+    {
+        "id": 61599,
+        "parent": 8054,
+        "name": "Аксессуары и материалы для рукоделия",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/aksessuary-i-materialy-dlya-rukodeliya",
+        "shard": "blackhole",
+        "query": "cat=61599",
+        "landing": null
+    },
+    {
+        "id": 61602,
+        "parent": 8054,
+        "name": "Аппликация",
+        "seo": "Товары для аппликаций",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/applikatsiya",
+        "shard": "creativity19",
+        "query": "cat=61602",
+        "landing": null
+    },
+    {
+        "id": 61609,
+        "parent": 8054,
+        "name": "Бисероплетение",
+        "seo": "Товары для бисероплетения",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/biseropletenie",
+        "shard": "creativity19",
+        "query": "cat=61609",
+        "landing": null
+    },
+    {
+        "id": 61708,
+        "parent": 8054,
+        "name": "Валяние",
+        "seo": "Товары для валяния",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/valyanie",
+        "shard": "creativity19",
+        "query": "cat=61708",
+        "landing": null
+    },
+    {
+        "id": 61613,
+        "parent": 8054,
+        "name": "Выжигание",
+        "seo": "Товары для выжигания",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/vyzhiganie",
+        "shard": "creativity6",
+        "query": "cat=61613",
+        "landing": null
+    },
+    {
+        "id": 61616,
+        "parent": 8054,
+        "name": "Вышивание",
+        "seo": "Товары для вышивания",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/vyshivanie",
+        "shard": "creativity6",
+        "query": "cat=61616",
+        "landing": null
+    },
+    {
+        "id": 61623,
+        "parent": 8054,
+        "name": "Вязание",
+        "seo": "Товары для вязания",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/vyazanie",
+        "shard": "creativity6",
+        "query": "cat=61623",
+        "landing": null
+    },
+    {
+        "id": 61736,
+        "parent": 8054,
+        "name": "Гравюра",
+        "seo": "Товары для гравировки",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/gravyura",
+        "shard": "creativity7",
+        "query": "cat=61736",
+        "landing": null
+    },
+    {
+        "id": 61643,
+        "parent": 8054,
+        "name": "Декупаж",
+        "seo": "Товары для декупажа",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/dekupazh",
+        "shard": "creativity7",
+        "query": "cat=61643",
+        "landing": null
+    },
+    {
+        "id": 61699,
+        "parent": 8054,
+        "name": "Изготовление аксессуаров для дома",
+        "seo": "Товары для изготовления аксессуаров для дома",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/izgotovlenie-aksessuarov-dlya-doma",
+        "shard": "creativity7",
+        "query": "cat=61699",
+        "landing": null
+    },
+    {
+        "id": 61687,
+        "parent": 8054,
+        "name": "Изготовление кукол и игрушек",
+        "seo": "Товары для изготовления кукол и игрушек",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/izgotovlenie-kukol-i-igrushek",
+        "shard": "creativity15",
+        "query": "cat=61687",
+        "landing": null
+    },
+    {
+        "id": 61719,
+        "parent": 8054,
+        "name": "Изготовление свечей",
+        "seo": "Товары для изготовления свечей",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/izgotovlenie-svechey",
+        "shard": "creativity15",
+        "query": "cat=61719",
+        "landing": null
+    },
+    {
+        "id": 61696,
+        "parent": 8054,
+        "name": "Изготовление украшений",
+        "seo": "Товары для изготовления украшений",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/izgotovlenie-ukrasheniy",
+        "shard": "creativity15",
+        "query": "cat=61696",
+        "landing": null
+    },
+    {
+        "id": 61601,
+        "parent": 8054,
+        "name": "Инструменты для рукоделия",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/instrumenty-dlya-rukodeliya",
+        "shard": "creativity9",
+        "query": "cat=61601",
+        "landing": null
+    },
+    {
+        "id": 61723,
+        "parent": 8054,
+        "name": "Квиллинг",
+        "seo": "Товары для квиллинга",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/kvilling",
+        "shard": "creativity9",
+        "query": "cat=61723",
+        "landing": null
+    },
+    {
+        "id": 130816,
+        "parent": 8054,
+        "name": "Кожевенное дело",
+        "seo": null,
+        "url": "/catalog/dom-i-dacha/tvorchestvo-rukodelie/kozhevennoe-delo",
+        "shard": "creativity9",
+        "query": "cat=130816",
+        "landing": null
+    },
+    {
+        "id": 61731,
+        "parent": 8054,
+        "name": "Макраме",
+        "seo": "Товары для макраме",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/makrame",
+        "shard": "creativity9",
+        "query": "cat=61731",
+        "landing": null
+    },
+    {
+        "id": 61639,
+        "parent": 8054,
+        "name": "Мозайка",
+        "seo": "Товары для мозаики",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/mozayka",
+        "shard": "creativity9",
+        "query": "cat=61639",
+        "landing": null
+    },
+    {
+        "id": 61716,
+        "parent": 8054,
+        "name": "Мыловарение",
+        "seo": "Товары для мыловарения",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/mylovarenie",
+        "shard": "creativity9",
+        "query": "cat=61716",
+        "landing": null
+    },
+    {
+        "id": 61598,
+        "parent": 8054,
+        "name": "Наборы для творчества",
+        "seo": null,
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/nabory-dlya-tvorchestva",
+        "shard": "creativity10",
+        "query": "cat=61598",
+        "landing": null
+    },
+    {
+        "id": 61712,
+        "parent": 8054,
+        "name": "Оригами",
+        "seo": "Товары для оригами",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/origami",
+        "shard": "creativity16",
+        "query": "cat=61712",
+        "landing": null
+    },
+    {
+        "id": 61681,
+        "parent": 8054,
+        "name": "Пэчворк",
+        "seo": "Товары для пэчворка",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/pechvork",
+        "shard": "creativity16",
+        "query": "cat=61681",
+        "landing": null
+    },
+    {
+        "id": 130695,
+        "parent": 8054,
+        "name": "Рисование и лепка",
+        "seo": "Товары для рисования и лепки",
+        "url": "/catalog/knigi-i-kantstovary/kantstovary/risovanie-i-lepka",
+        "shard": "creativity17",
+        "query": "cat=17164",
+        "landing": null
+    },
+    {
+        "id": 61649,
+        "parent": 8054,
+        "name": "Скрапбукинг",
+        "seo": "Товары для скрапбукинга",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/skrapbuking",
+        "shard": "creativity18",
+        "query": "cat=61649",
+        "landing": null
+    },
+    {
+        "id": 61597,
+        "parent": 8054,
+        "name": "Чехлы и органайзеры",
+        "seo": "Чехлы и органайзеры для творчества",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/chehly-i-organayzery-dlya-rukodeliya",
+        "shard": "creativity18",
+        "query": "cat=61597",
+        "landing": null
+    },
+    {
+        "id": 61657,
+        "parent": 8054,
+        "name": "Шитье",
+        "seo": "Товары для шитья",
+        "url": "/catalog/dom/dosug-i-tvorchestvo/tvorchestvo-i-rukodelie/shite",
+        "shard": "creativity18",
+        "query": "cat=61657",
+        "landing": null
+    },
+    {
+        "id": 130726,
+        "parent": 8054,
+        "name": "Швейное оборудование и аксессуары",
+        "seo": null,
+        "url": "/catalog/elektronika/tehnika-dlya-doma/shveynoe-oborudovanie",
+        "shard": "appliances2",
+        "query": "cat=130723",
+        "landing": null
+    },
+    {
+        "id": 9734,
+        "parent": 9695,
+        "name": "Освежители и аксессуары",
+        "seo": "Освежители и аксессуары для ванной и туалета",
+        "url": "/catalog/dlya-doma/hozyaystvennye-tovary/vannaya/osvezhiteli-i-aksessuary",
+        "shard": "housecraft8",
+        "query": "cat=9734",
+        "landing": null
+    },
+    {
+        "id": 9735,
+        "parent": 9695,
+        "name": "Чистящие средства",
+        "seo": "Чистящие средства для ванной и туалета",
+        "url": "/catalog/dlya-doma/hozyaystvennye-tovary/vannaya/chistyashchie-sredstva",
+        "shard": "housecraft8",
+        "query": "cat=9735",
+        "landing": null
+    },
+    {
+        "id": 9733,
+        "parent": 9694,
+        "name": "Аксессуары",
+        "seo": "Аксессуары для кухни",
+        "url": "/catalog/dlya-doma/hozyaystvennye-tovary/kuhnya/aksessuary",
+        "shard": "housecraft8",
+        "query": "cat=9733",
+        "landing": null
+    },
+    {
+        "id": 9730,
+        "parent": 9694,
+        "name": "Для посудомоечных машин",
+        "seo": "Средства для посудомоечных машин",
+        "url": "/catalog/dlya-doma/bytovaya-himiya/sredstva-dlya-posudomoechnyh-mashin",
+        "shard": "housecraft8",
+        "query": "cat=9730",
+        "landing": null
+    },
+    {
+        "id": 9731,
+        "parent": 9694,
+        "name": "Против накипи",
+        "seo": "Средства для удаления накипи",
+        "url": "/catalog/dlya-doma/bytovaya-himiya/sredstva-ot-nakipi",
+        "shard": "housecraft8",
+        "query": "subject=2697",
+        "landing": null
+    },
+    {
+        "id": 9727,
+        "parent": 9694,
+        "name": "Чистящие средства",
+        "seo": "Чистящие средства для кухни",
+        "url": "/catalog/dlya-doma/hozyaystvennye-tovary/kuhnya/chistyashchie-sredstva",
+        "shard": "housecraft8",
+        "query": "cat=9727",
+        "landing": null
+    },
+    {
+        "id": 128301,
+        "parent": 9694,
+        "name": "Средства для посуды, продуктов",
+        "seo": null,
+        "url": "/catalog/dom/hozyaystvennye-tovary/kuhnya/sredstva-dlya-posudy-produktov",
+        "shard": "housecraft8",
+        "query": "cat=128301",
+        "landing": null
+    },
+    {
+        "id": 9715,
+        "parent": 9692,
+        "name": "Для мебели",
+        "seo": "Косметика для мебели",
+        "url": "/catalog/dlya-doma/bytovaya-himiya/kosmetika-dlya-mebeli",
+        "shard": "housecraft8",
+        "query": "cat=9715",
+        "landing": null
+    },
+    {
+        "id": 9713,
+        "parent": 9692,
+        "name": "Для очистки труб",
+        "seo": "Средства для чистки труб",
+        "url": "/catalog/dlya-doma/hozyaystvennye-tovary/tovary-dlya-uborki/dlya-ochistki-trub",
+        "shard": "housecraft8",
+        "query": "cat=9713",
+        "landing": null
+    },
+    {
+        "id": 13149,
+        "parent": 9692,
+        "name": "Ведра хозяйственные",
+        "seo": null,
+        "url": "/catalog/dlya-doma/tovary-dlya-uborki/vedra-hozyaystvennye",
+        "shard": "housecraft8",
+        "query": "subject=1436",
+        "landing": null
+    },
+    {
+        "id": 128302,
+        "parent": 9692,
+        "name": "Губки",
+        "seo": null,
+        "url": "/catalog/dom/hozyaystvennye-tovary/tovary-dlya-uborki/gubki",
+        "shard": "housecraft8",
+        "query": "cat=128302",
+        "landing": null
+    },
+    {
+        "id": 63064,
+        "parent": 9692,
+        "name": "Мытье окон",
+        "seo": null,
+        "url": "/catalog/dom/hozyaystvennye-tovary/myte-okon",
+        "shard": "housecraft8",
+        "query": "cat=63064",
+        "landing": null
+    },
+    {
+        "id": 13152,
+        "parent": 9692,
+        "name": "Насадки для швабр",
+        "seo": null,
+        "url": "/catalog/dlya-doma/tovary-dlya-uborki/nasadki-dlya-shvabr",
+        "shard": "housecraft8",
+        "query": "subject=2257",
+        "landing": null
+    },
+    {
+        "id": 9716,
+        "parent": 9692,
+        "name": "Освежители воздуха",
+        "seo": null,
+        "url": "/catalog/dlya-doma/hozyaystvennye-tovary/tovary-dlya-uborki/osvezhiteli-vozduha",
+        "shard": "housecraft8",
+        "query": "cat=9716",
+        "landing": null
+    },
+    {
+        "id": 13154,
+        "parent": 9692,
+        "name": "Перчатки хозяйственные",
+        "seo": null,
+        "url": "/catalog/dlya-doma/bytovaya-himiya/perchatki-hozyaystvennye",
+        "shard": "housecraft8",
+        "query": "subject=913",
+        "landing": null
+    },
+    {
+        "id": 13156,
+        "parent": 9692,
+        "name": "Салфетки для уборки",
+        "seo": null,
+        "url": "/catalog/dlya-doma/tovary-dlya-uborki/salfetki-dlya-uborki",
+        "shard": "housecraft8",
+        "query": "subject=1202",
+        "landing": null
+    },
+    {
+        "id": 13157,
+        "parent": 9692,
+        "name": "Совки",
+        "seo": "Совки для мусора",
+        "url": "/catalog/dlya-doma/tovary-dlya-uborki/sovki",
+        "shard": "housecraft8",
+        "query": "subject=590",
+        "landing": null
+    },
+    {
+        "id": 9704,
+        "parent": 9692,
+        "name": "Чистящие средства",
+        "seo": null,
+        "url": "/catalog/dlya-doma/bytovaya-himiya/sredstva-dlya-uborki",
+        "shard": "housecraft8",
+        "query": "cat=9704",
+        "landing": null
+    },
+    {
+        "id": 13158,
+        "parent": 9692,
+        "name": "Швабры",
+        "seo": null,
+        "url": "/catalog/dlya-doma/tovary-dlya-uborki/shvabry",
+        "shard": "housecraft8",
+        "query": "subject=1594",
+        "landing": null
+    },
+    {
+        "id": 13161,
+        "parent": 9692,
+        "name": "Щетки для уборки",
+        "seo": null,
+        "url": "/catalog/dlya-doma/tovary-dlya-uborki/shchetki-dlya-uborki",
+        "shard": "housecraft8",
+        "query": "subject=481",
+        "landing": null
+    },
+    {
+        "id": 9478,
+        "parent": 9477,
+        "name": "Apple",
+        "seo": "Планшеты Apple",
+        "url": "/catalog/elektronika/planshety/apple",
+        "shard": "electronic22",
+        "query": "cat=9478",
+        "landing": null
+    },
+    {
+        "id": 9479,
+        "parent": 9477,
+        "name": "Samsung",
+        "seo": "Планшеты Samsung",
+        "url": "/catalog/elektronika/planshety/samsung",
+        "shard": "electronic22",
+        "query": "cat=9479",
+        "landing": null
+    },
+    {
+        "id": 9480,
+        "parent": 9477,
+        "name": "Планшеты на Android",
+        "seo": null,
+        "url": "/catalog/elektronika/planshety/android",
+        "shard": "electronic22",
+        "query": "cat=9480",
+        "landing": null
+    },
+    {
+        "id": 63080,
+        "parent": 9477,
+        "name": "Аксессуары для планшетов",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/planshety/aksessuary-dlya-planshetov",
+        "shard": "electronic22",
+        "query": "cat=63080",
+        "landing": null
+    },
+    {
+        "id": 129323,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Apple",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-apple",
+        "shard": "blackhole",
+        "query": "cat=129323",
+        "landing": null
+    },
+    {
+        "id": 129324,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Xiaomi",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-xiaomi",
+        "shard": "blackhole",
+        "query": "cat=129324",
+        "landing": null
+    },
+    {
+        "id": 129325,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Samsung",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-samsung",
+        "shard": "blackhole",
+        "query": "cat=129325",
+        "landing": null
+    },
+    {
+        "id": 129326,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Huawei",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-huawei",
+        "shard": "electronic10",
+        "query": "cat=129326",
+        "landing": null
+    },
+    {
+        "id": 129327,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Honor",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-honor",
+        "shard": "electronic11",
+        "query": "cat=129327",
+        "landing": null
+    },
+    {
+        "id": 130811,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Infinix",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-infinix",
+        "shard": "electronic29",
+        "query": "cat=130811",
+        "landing": null
+    },
+    {
+        "id": 129328,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Oppo",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-oppo",
+        "shard": "electronic11",
+        "query": "cat=129328",
+        "landing": null
+    },
+    {
+        "id": 129329,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Philips",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-philips",
+        "shard": "electronic11",
+        "query": "cat=129329",
+        "landing": null
+    },
+    {
+        "id": 130810,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Realme",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-realme",
+        "shard": "electronic28",
+        "query": "cat=130810",
+        "landing": null
+    },
+    {
+        "id": 129330,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Sony",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-sony",
+        "shard": "electronic11",
+        "query": "cat=129330",
+        "landing": null
+    },
+    {
+        "id": 129331,
+        "parent": 9466,
+        "name": "Чехлы для телефонов Nokia",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-nokia",
+        "shard": "electronic11",
+        "query": "cat=129331",
+        "landing": null
+    },
+    {
+        "id": 130812,
+        "parent": 9466,
+        "name": "Чехлы для телефонов TECNO",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-telefonov-tecno",
+        "shard": "electronic29",
+        "query": "cat=130812",
+        "landing": null
+    },
+    {
+        "id": 129332,
+        "parent": 9466,
+        "name": "Чехлы для прочих телефонов",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-prochikx-telefonov",
+        "shard": "electronic30",
+        "query": "cat=129332",
+        "landing": null
+    },
+    {
+        "id": 129322,
+        "parent": 9466,
+        "name": "Чехлы для аксессуаров",
+        "seo": null,
+        "url": "/catalog/elektronika/smartfony-i-telefony/chehly/chekxly-dlya-aksessuarov",
+        "shard": "electronic11",
+        "query": "cat=129322",
+        "landing": null
+    },
+    {
+        "id": 130375,
+        "parent": 5016,
+        "name": "Аккумуляторы для камер",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/akkumulyatory-dlya-kamer",
+        "shard": "electronic13",
+        "query": "subject=542",
+        "landing": null
+    },
+    {
+        "id": 130401,
+        "parent": 5016,
+        "name": "Вспышки для камер",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/vspyshki-dlya-kamer",
+        "shard": "electronic13",
+        "query": "subject=2138",
+        "landing": null
+    },
+    {
+        "id": 130379,
+        "parent": 5016,
+        "name": "Защитные пленки и стекла",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/zashchitnye-plenki-i-stekla",
+        "shard": "electronic13",
+        "query": "cat=130379",
+        "landing": null
+    },
+    {
+        "id": 130376,
+        "parent": 5016,
+        "name": "Кабели и зарядные устройства",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/kabeli-i-zaryadnye-ustroystva",
+        "shard": "electronic13",
+        "query": "cat=130376",
+        "landing": null
+    },
+    {
+        "id": 130377,
+        "parent": 5016,
+        "name": "Карты памяти и картридеры",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/karty-pamyati-i-kartridery",
+        "shard": "electronic13",
+        "query": "cat=130377",
+        "landing": null
+    },
+    {
+        "id": 130403,
+        "parent": 5016,
+        "name": "Крепления для камер",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/krepleniya-dlya-kamer",
+        "shard": "electronic13",
+        "query": "cat=130403",
+        "landing": null
+    },
+    {
+        "id": 130400,
+        "parent": 5016,
+        "name": "Крышки для камер",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/kryshki-dlya-kamer",
+        "shard": "electronic13",
+        "query": "subject=1240",
+        "landing": null
+    },
+    {
+        "id": 130402,
+        "parent": 5016,
+        "name": "Линзы и фильтры",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/linzy-i-filtry",
+        "shard": "electronic13",
+        "query": "cat=130402",
+        "landing": null
+    },
+    {
+        "id": 130393,
+        "parent": 5016,
+        "name": "Пульты для камер",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/akkumulyatory-dlya-kamer/pulty",
+        "shard": "electronic13",
+        "query": "subject=2104",
+        "landing": null
+    },
+    {
+        "id": 130394,
+        "parent": 5016,
+        "name": "Средства для чистки оптики",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/sredstva-dlya-chistki-optiki",
+        "shard": "electronic13",
+        "query": "cat=130394",
+        "landing": null
+    },
+    {
+        "id": 130378,
+        "parent": 5016,
+        "name": "Фотопленка",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/fotoplenka",
+        "shard": "electronic13",
+        "query": "subject=4042",
+        "landing": null
+    },
+    {
+        "id": 130392,
+        "parent": 5016,
+        "name": "Штативы и моноподы",
+        "seo": null,
+        "url": "/catalog/elektronika/foto-i-video-tehnika/aksessuary/shtativy-i-monopody",
+        "shard": "electronic13",
+        "query": "cat=130392",
+        "landing": null
+    },
+    {
+        "id": 7381,
+        "parent": 7379,
+        "name": "Для крупных пород",
+        "seo": "Одежда для собак крупных пород",
+        "url": "/catalog/aksessuary/tovary-dlya-zhivotnyh/odezhda/dlya-krupnyh-porod",
+        "shard": "zoo2",
+        "query": "cat=7381",
+        "landing": null
+    },
+    {
+        "id": 128734,
+        "parent": 7379,
+        "name": "Вешалки для одежды",
+        "seo": null,
+        "url": "/catalog/zootovary/dlya-sobak/odezhda/veshalki-dlya-odezhdy",
+        "shard": "zoo2",
+        "query": "cat=128734",
+        "landing": null
+    },
+    {
+        "id": 7380,
+        "parent": 7379,
+        "name": "Для мелких и средних пород",
+        "seo": "Одежда для собак мелких пород",
+        "url": "/catalog/aksessuary/tovary-dlya-zhivotnyh/odezhda/dlya-melkih-i-srednih-porod",
+        "shard": "zoo2",
+        "query": "cat=7380",
+        "landing": null
+    },
+    {
+        "id": 7447,
+        "parent": 7379,
+        "name": "Обувь и носки",
+        "seo": "Обувь и носки для собак",
+        "url": "/catalog/aksessuary/tovary-dlya-zhivotnyh/odezhda/obuv-i-noski",
+        "shard": "zoo2",
+        "query": "cat=7447",
+        "landing": null
+    },
+    {
+        "id": 62661,
+        "parent": 905,
+        "name": "Баланс",
+        "seo": null,
+        "url": "/catalog/sport/fitnes-i-trenazhery/inventar/platformy-i-balansbordy",
+        "shard": "sport13",
+        "query": "cat=62661",
+        "landing": null
+    },
+    {
+        "id": 62662,
+        "parent": 905,
+        "name": "Силовая тренировка",
+        "seo": null,
+        "url": "/catalog/sport/fitnes-i-trenazhery/fitnes/silovaya-trenirovka",
+        "shard": "sport13",
+        "query": "cat=62662",
+        "landing": null
+    },
+    {
+        "id": 62666,
+        "parent": 905,
+        "name": "Коврики и маты",
+        "seo": null,
+        "url": "/catalog/sport/fitnes-i-trenazhery/fitnes/kovriki-i-maty",
+        "shard": "sport13",
+        "query": "cat=62666",
+        "landing": null
+    },
+    {
+        "id": 58640,
+        "parent": 905,
+        "name": "Кроссовки",
+        "seo": "Кроссовки для фитнеса",
+        "url": "/catalog/sport/vidy-sporta/fitnes/obuv/krossovki",
+        "shard": "sport13",
+        "query": "cat=58640",
+        "landing": null
+    },
+    {
+        "id": 914,
+        "parent": 905,
+        "name": "Одежда",
+        "seo": "Одежда и белье для фитнеса",
+        "url": "/catalog/sport/vidy-sporta/fitnes/odezhda-i-bele",
+        "shard": "sport13",
+        "query": "cat=914",
+        "landing": null
+    },
+    {
+        "id": 60811,
+        "parent": 905,
+        "name": "Одежда и пояса для похудения",
+        "seo": null,
+        "url": "/catalog/sport/fitnes/fitnes/odezhda-i-poyasa-dlya-pohudeniya",
+        "shard": "sport13",
+        "query": "cat=60811",
+        "landing": null
+    },
+    {
+        "id": 58639,
+        "parent": 905,
+        "name": "Сумки и рюкзаки",
+        "seo": null,
+        "url": "/catalog/sport/fitnes-i-trenazhery/fitnes/sumki-i-ryukzaki",
+        "shard": "sport13",
+        "query": "cat=58639",
+        "landing": null
+    },
+    {
+        "id": 62667,
+        "parent": 905,
+        "name": "Функционал",
+        "seo": null,
+        "url": "/catalog/sport/fitnes-i-trenazhery/fitnes/funktsional",
+        "shard": "sport13",
+        "query": "cat=62667",
+        "landing": null
+    },
+    {
+        "id": 59355,
+        "parent": 905,
+        "name": "Кросс-тренинг",
+        "seo": "Товары для кроссфита",
+        "url": "/catalog/sport/vidy-sporta/kross-trening",
+        "shard": "sport13",
+        "query": "cat=59355",
+        "landing": null
+    },
+    {
+        "id": 10062,
+        "parent": 9242,
+        "name": "Аксессуары",
+        "seo": "Аксессуары и инвентарь для тяжелой атлетики",
+        "url": "/catalog/sport/vidy-sporta/tyazhelaya-atletika/aksessuary",
+        "shard": "sport13",
+        "query": "cat=10062",
+        "landing": null
+    },
+    {
+        "id": 62653,
+        "parent": 9242,
+        "name": "Инвентарь",
+        "seo": null,
+        "url": "/catalog/sport/fitnes-i-trenazhery/tyazhelaya-atletika/inventar",
+        "shard": "sport13",
+        "query": "cat=62653",
+        "landing": null
+    },
+    {
+        "id": 10065,
+        "parent": 9242,
+        "name": "Одежда и штангетки",
+        "seo": "Одежда для тяжелой атлетики",
+        "url": "/catalog/sport/vidy-sporta/tyazhelaya-atletika/odezhda",
+        "shard": "sport13",
+        "query": "cat=10065",
+        "landing": null
+    },
+    {
+        "id": 62170,
+        "parent": 61998,
+        "name": "Лодки и аксессуары",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/rybalka/lodki-i-aksessuary",
+        "shard": "sport21",
+        "query": "cat=62170",
+        "landing": null
+    },
+    {
+        "id": 62165,
+        "parent": 61998,
+        "name": "Одежда, обувь",
+        "seo": "Одежда и белье для охоты и рыбалки",
+        "url": "/catalog/sport/vidy-sporta/ohota-i-rybolovstvo/odezhda-i-bele",
+        "shard": "sport21",
+        "query": "cat=62165",
+        "landing": null
+    },
+    {
+        "id": 128404,
+        "parent": 61998,
+        "name": "Приманки и прикормки",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybalka/rybalka/primanki-i-prikormki",
+        "shard": "sport21",
+        "query": "cat=128404",
+        "landing": null
+    },
+    {
+        "id": 62108,
+        "parent": 61998,
+        "name": "Рыболовные аксессуары",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/rybalka/rybolovnye-aksessuary",
+        "shard": "sport21",
+        "query": "cat=62108",
+        "landing": null
+    },
+    {
+        "id": 62156,
+        "parent": 61998,
+        "name": "Рыболовный лагерь",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/rybalka/rybolovniy-lager",
+        "shard": "sport21",
+        "query": "cat=62156",
+        "landing": null
+    },
+    {
+        "id": 62000,
+        "parent": 61998,
+        "name": "Удилища",
+        "seo": "Удочки",
+        "url": "/catalog/sport/vidy-sporta/ohota-i-rybolovstvo/sportivniy-tovar/udochki",
+        "shard": "sport21",
+        "query": "subject=2508",
+        "landing": null
+    },
+    {
+        "id": 62154,
+        "parent": 61998,
+        "name": "Хранение и транспортировка",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/rybalka/hranenie-i-transportirovka",
+        "shard": "sport21",
+        "query": "cat=62154",
+        "landing": null
+    },
+    {
+        "id": 62183,
+        "parent": 62095,
+        "name": "Одежда и обувь",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/zimnyaya-rybalka/odezhda-i-obuv",
+        "shard": "sport20",
+        "query": "cat=62183",
+        "landing": null
+    },
+    {
+        "id": 62096,
+        "parent": 62095,
+        "name": "Снаряжение",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/zimnyaya-rybalka/snyaryazhenie",
+        "shard": "sport20",
+        "query": "cat=62096",
+        "landing": null
+    },
+    {
+        "id": 62146,
+        "parent": 62095,
+        "name": "Экипировка",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/zimnyaya-rybalka/ekipirovka",
+        "shard": "sport20",
+        "query": "cat=62146",
+        "landing": null
+    },
+    {
+        "id": 62188,
+        "parent": 62187,
+        "name": "Обувь",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/ohota/obuv",
+        "shard": "sport20",
+        "query": "cat=62188",
+        "landing": null
+    },
+    {
+        "id": 62228,
+        "parent": 62187,
+        "name": "Одежда",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/ohota/odezhda",
+        "shard": "sport20",
+        "query": "cat=62228",
+        "landing": null
+    },
+    {
+        "id": 62192,
+        "parent": 62187,
+        "name": "Снаряжение",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/ohota/snyaryazhenie",
+        "shard": "sport20",
+        "query": "cat=62192",
+        "landing": null
+    },
+    {
+        "id": 130373,
+        "parent": 62187,
+        "name": "Термобелье и носки",
+        "seo": null,
+        "url": "/catalog/sport/ohota-i-rybolovstvo/ohota/termobele-i-noski",
+        "shard": "sport20",
+        "query": "cat=130373",
+        "landing": null
+    },
+    {
+        "id": 801,
+        "parent": 800,
+        "name": "Аксессуары",
+        "seo": "Аксессуары для бега",
+        "url": "/catalog/sport/vidy-sporta/beg/aksessuary",
+        "shard": "sport24",
+        "query": "cat=801",
+        "landing": null
+    },
+    {
+        "id": 60062,
+        "parent": 800,
+        "name": "Белье",
+        "seo": "Белье для бега",
+        "url": "/catalog/sport/vidy-sporta/beg/hodba/beg/bele",
+        "shard": "sport24",
+        "query": "cat=60062",
+        "landing": null
+    },
+    {
+        "id": 60068,
+        "parent": 800,
+        "name": "Обувь",
+        "seo": "Обувь для бега",
+        "url": "/catalog/sport/vidy-sporta/beg/obuv",
+        "shard": "sport23",
+        "query": "cat=60068",
+        "landing": null
+    },
+    {
+        "id": 809,
+        "parent": 800,
+        "name": "Одежда",
+        "seo": "Одежда для бега",
+        "url": "/catalog/sport/vidy-sporta/beg/odezda-i-bele",
+        "shard": "sport23",
+        "query": "cat=809",
+        "landing": null
+    },
+    {
+        "id": 63055,
+        "parent": 9431,
+        "name": "Одежда и обувь",
+        "seo": null,
+        "url": "/catalog/sport/beg/hodba/hodba/odezhda-i-obuv",
+        "shard": "sport23",
+        "query": "cat=63055",
+        "landing": null
+    },
+    {
+        "id": 63056,
+        "parent": 9431,
+        "name": "Снаряжение",
+        "seo": null,
+        "url": "/catalog/sport/beg/hodba/hodba/snaryazhenie",
+        "shard": "sport23",
+        "query": "cat=63056",
+        "landing": null
+    },
+    {
+        "id": 8410,
+        "parent": 786,
+        "name": "Аксессуары и инвентарь",
+        "seo": "Аксессуары для баскетбола",
+        "url": "/catalog/sport/vidy-sporta/basketbol/aksessuary",
+        "shard": "sport28",
+        "query": "cat=8410",
+        "landing": null
+    },
+    {
+        "id": 15975,
+        "parent": 786,
+        "name": "Кроссовки",
+        "seo": "Кроссовки для баскетбола",
+        "url": "/catalog/sport/vidy-sporta/basketbol/obuv/krossovki",
+        "shard": "sport28",
+        "query": "cat=15975",
+        "landing": null
+    },
+    {
+        "id": 8414,
+        "parent": 786,
+        "name": "Мячи",
+        "seo": "Баскетбольные мячи",
+        "url": "/catalog/sport/vidy-sporta/basketbol/myachi",
+        "shard": "sport28",
+        "query": "cat=8414",
+        "landing": null
+    },
+    {
+        "id": 8413,
+        "parent": 786,
+        "name": "Форма",
+        "seo": "Одежда и белье для баскетбола",
+        "url": "/catalog/sport/vidy-sporta/basketbol/odezhda-i-bele",
+        "shard": "sport28",
+        "query": "cat=8413",
+        "landing": null
+    },
+    {
+        "id": 938,
+        "parent": 926,
+        "name": "Бутсы",
+        "seo": "Бутсы и футзалки для футбола",
+        "url": "/catalog/sport/komandnye-vidy-sporta/futbol/obuv",
+        "shard": "sport28",
+        "query": "subject=128",
+        "landing": null
+    },
+    {
+        "id": 14705,
+        "parent": 926,
+        "name": "Вратарские перчатки",
+        "seo": null,
+        "url": "/catalog/sport/vidy-sporta/futbol/inventar/vratarskie-perchatki",
+        "shard": "sport28",
+        "query": "subject=274",
+        "landing": null
+    },
+    {
+        "id": 16015,
+        "parent": 926,
+        "name": "Защита",
+        "seo": "Защита для футбола",
+        "url": "/catalog/sport/vidy-sporta/futbol/zashchita",
+        "shard": "sport28",
+        "query": "cat=16015",
+        "landing": null
+    },
+    {
+        "id": 937,
+        "parent": 926,
+        "name": "Мячи",
+        "seo": "Футбольные мячи",
+        "url": "/catalog/sport/vidy-sporta/futbol/myachi",
+        "shard": "sport28",
+        "query": "cat=937",
+        "landing": null
+    },
+    {
+        "id": 58668,
+        "parent": 926,
+        "name": "Сумки и рюкзаки",
+        "seo": "Сумки и рюкзаки для футбола",
+        "url": "/catalog/sport/vidy-sporta/futbol/aksessuary/sumki-i-ryukzaki",
+        "shard": "sport28",
+        "query": "cat=58668",
+        "landing": null
+    },
+    {
+        "id": 936,
+        "parent": 926,
+        "name": "Тренировочный инвентарь",
+        "seo": "Футбольный инвентарь",
+        "url": "/catalog/sport/vidy-sporta/futbol/inventar",
+        "shard": "sport28",
+        "query": "cat=936",
+        "landing": null
+    },
+    {
+        "id": 942,
+        "parent": 926,
+        "name": "Форма",
+        "seo": "Футбольная форма",
+        "url": "/catalog/sport/vidy-sporta/futbol/odezhda",
+        "shard": "sport28",
+        "query": "cat=942",
+        "landing": null
+    },
+    {
+        "id": 16164,
+        "parent": 955,
+        "name": "Аксессуары",
+        "seo": "Спортивный инвентарь для хоккея",
+        "url": "/catalog/sport/vidy-sporta/hokkey/inventar",
+        "shard": "sport28",
+        "query": "cat=16164",
+        "landing": null
+    },
+    {
+        "id": 16166,
+        "parent": 955,
+        "name": "Форма",
+        "seo": "Хоккейная одежда",
+        "url": "/catalog/sport/vidy-sporta/hokkey/odezhda",
+        "shard": "sport28",
+        "query": "cat=16166",
+        "landing": null
+    },
+    {
+        "id": 63060,
+        "parent": 955,
+        "name": "Инвентарь",
+        "seo": null,
+        "url": "/catalog/sport/komandnye-vidy-sporta/hokkey/inventar",
+        "shard": "sport28",
+        "query": "cat=63060",
+        "landing": null
+    },
+    {
+        "id": 63061,
+        "parent": 955,
+        "name": "Экипировка",
+        "seo": null,
+        "url": "/catalog/sport/komandnye-vidy-sporta/hokkey/ekipirovka",
+        "shard": "sport28",
+        "query": "cat=63061",
+        "landing": null
+    },
+    {
+        "id": 8687,
+        "parent": 58836,
+        "name": "Аксессуары",
+        "seo": "Аксессуары и инвентарь для лыж",
+        "url": "/catalog/sport/vidy-sporta/lyzhnyy-sport/aksessuary",
+        "shard": "sport17",
+        "query": "cat=8687",
+        "landing": null
+    },
+    {
+        "id": 130657,
+        "parent": 58836,
+        "name": "Белье",
+        "seo": "Белье для беговых лыж",
+        "url": "/catalog/sport/vidy-sporta/zimnie-vidy-sporta/begovye-lyzhi/bele",
+        "shard": "sport17",
+        "query": "cat=130657",
+        "landing": null
+    },
+    {
+        "id": 60081,
+        "parent": 58836,
+        "name": "Инструменты",
+        "seo": "Инструменты и запчасти для беговых лыж",
+        "url": "/catalog/sport/vidy-sporta/zimnie-vidy-sporta/begovye-lyzhi/aksessuary-i-inventar/instrumenty",
+        "shard": "sport17",
+        "query": "cat=60081",
+        "landing": null
+    },
+    {
+        "id": 59737,
+        "parent": 58836,
+        "name": "Мази лыжные",
+        "seo": "Лыжные мази",
+        "url": "/catalog/sport/vidy-sporta/zimnie-vidy-sporta/begovye-lyzhi/aksessuary-i-inventar/mazi-lyzhnye",
+        "shard": "sport17",
+        "query": "cat=59737",
+        "landing": null
+    },
+    {
+        "id": 8688,
+        "parent": 58836,
+        "name": "Одежда",
+        "seo": "Одежда для беговых лыж",
+        "url": "/catalog/sport/vidy-sporta/lyzhnyy-sport/odezhda",
+        "shard": "sport17",
+        "query": "cat=8688",
+        "landing": null
+    },
+    {
+        "id": 63087,
+        "parent": 58836,
+        "name": "Снаряжение",
+        "seo": null,
+        "url": "/catalog/sport/zimnie-vidy-sporta/begovye-lyzhi/snaryazhenie",
+        "shard": "sport17",
+        "query": "cat=63087",
+        "landing": null
+    },
+    {
+        "id": 62050,
+        "parent": 58836,
+        "name": "Лыжероллеры и комплектующие",
+        "seo": null,
+        "url": "/catalog/sport/zimnie-vidy-sporta/begovye-lyzhi/lyzherollery",
+        "shard": "sport17",
+        "query": "cat=62050",
+        "landing": null
+    },
+    {
+        "id": 60481,
+        "parent": 58837,
+        "name": "Аксессуары",
+        "seo": "Аксессуары для горных лыж",
+        "url": "/catalog/sport/vidy-sporta/zimnie-vidy-sporta/gornye-lyzhi/aksessuary",
+        "shard": "sport17",
+        "query": "cat=60481",
+        "landing": null
+    },
+    {
+        "id": 63091,
+        "parent": 58837,
+        "name": "Горнолыжное снаряжение",
+        "seo": null,
+        "url": "/catalog/sport/zimnie-vidy-sporta/gornye-lyzhi/gornolyzhnoe-snaryazhenie",
+        "shard": "sport17",
+        "query": "cat=63091",
+        "landing": null
+    },
+    {
+        "id": 58403,
+        "parent": 58837,
+        "name": "Защита",
+        "seo": "Горнолыжная защита",
+        "url": "/catalog/sport/vidy-sporta/lyzhnyy-sport/aksessuary/zashchita",
+        "shard": "sport17",
+        "query": "cat=58403",
+        "landing": null
+    },
+    {
+        "id": 60467,
+        "parent": 58837,
+        "name": "Одежда и белье",
+        "seo": "Одежда для горных лыж",
+        "url": "/catalog/sport/vidy-sporta/zimnie-vidy-sporta/gornye-lyzhi/odezhda",
+        "shard": "sport17",
+        "query": "cat=60467",
+        "landing": null
+    },
+    {
+        "id": 847,
+        "parent": 842,
+        "name": "Защита",
+        "seo": "Защита для сноуборда",
+        "url": "/catalog/sport/vidy-sporta/snoubording-snouskeyting/inventar",
+        "shard": "sport17",
+        "query": "cat=847",
+        "landing": null
+    },
+    {
+        "id": 848,
+        "parent": 842,
+        "name": "Одежда и белье",
+        "seo": "Одежда для сноубордистов",
+        "url": "/catalog/sport/vidy-sporta/snoubording-snouskeyting/odezhda",
+        "shard": "sport17",
+        "query": "cat=848",
+        "landing": null
+    },
+    {
+        "id": 843,
+        "parent": 842,
+        "name": "Аксессуары",
+        "seo": "Аксессуары для сноубордистов",
+        "url": "/catalog/sport/vidy-sporta/snoubording-snouskeyting/aksessuary",
+        "shard": "sport17",
+        "query": "cat=843",
+        "landing": null
+    },
+    {
+        "id": 845,
+        "parent": 842,
+        "name": "Сумки, рюкзаки, чехлы",
+        "seo": "Сумки и рюкзаки для сноуборда",
+        "url": "/catalog/sport/vidy-sporta/snoubording-snouskeyting/aksessuary/sumki-ryukzaki",
+        "shard": "sport17",
+        "query": "cat=845",
+        "landing": null
+    },
+    {
+        "id": 63093,
+        "parent": 842,
+        "name": "Снаряжение",
+        "seo": null,
+        "url": "/catalog/sport/zimnie-vidy-sporta/snoubord/snaryazhenie",
+        "shard": "sport17",
+        "query": "cat=63093",
+        "landing": null
+    },
+    {
+        "id": 59529,
+        "parent": 59525,
+        "name": "Тренировочные аксессуары",
+        "seo": "Аксессуары для гимнастики",
+        "url": "/catalog/sport/vidy-sporta/fitnes/gimnastika/aksessuary",
+        "shard": "sport17",
+        "query": "cat=59529",
+        "landing": null
+    },
+    {
+        "id": 59526,
+        "parent": 59525,
+        "name": "Одежда и чешки",
+        "seo": "Одежда для гимнастики",
+        "url": "/catalog/sport/vidy-sporta/fitnes/gimnastika/odezhda",
+        "shard": "sport17",
+        "query": "cat=59526",
+        "landing": null
+    },
+    {
+        "id": 856,
+        "parent": 855,
+        "name": "Аксессуары",
+        "seo": "Аксессуары для танцев",
+        "url": "/catalog/sport/vidy-sporta/tantsy-gimnastika/aksessuary",
+        "shard": "sport17",
+        "query": "cat=856",
+        "landing": null
+    },
+    {
+        "id": 858,
+        "parent": 855,
+        "name": "Обувь",
+        "seo": "Обувь для танцев",
+        "url": "/catalog/sport/vidy-sporta/tantsy-gimnastika/obuv",
+        "shard": "sport17",
+        "query": "cat=858",
+        "landing": null
+    },
+    {
+        "id": 859,
+        "parent": 855,
+        "name": "Одежда",
+        "seo": "Одежда для танцев",
+        "url": "/catalog/sport/vidy-sporta/tantsy-gimnastika/odezhda-i-bele",
+        "shard": "sport17",
+        "query": "cat=859",
+        "landing": null
+    },
+    {
+        "id": 9056,
+        "parent": 8437,
+        "name": "Брюки и шорты",
+        "seo": "Детские спортивные брюки и шорты",
+        "url": "/catalog/sport/dlya-detey/odezhda/bryuki-i-shorty",
+        "shard": "sport27",
+        "query": "cat=9056",
+        "landing": null
+    },
+    {
+        "id": 9057,
+        "parent": 8437,
+        "name": "Верхняя одежда",
+        "seo": "Верхняя спортивная одежда детская",
+        "url": "/catalog/sport/dlya-detey/odezhda/verhnyaya-odezhda",
+        "shard": "sport27",
+        "query": "cat=9057",
+        "landing": null
+    },
+    {
+        "id": 9058,
+        "parent": 8437,
+        "name": "Джемперы и толстовки",
+        "seo": "Детские спортивные джемперы и толстовки",
+        "url": "/catalog/sport/dlya-detey/odezhda/dzhempery-i-tolstovki",
+        "shard": "sport27",
+        "query": "cat=9058",
+        "landing": null
+    },
+    {
+        "id": 9059,
+        "parent": 8437,
+        "name": "Костюмы и комбинезоны",
+        "seo": "Детские спортивные костюмы и комбинезоны",
+        "url": "/catalog/sport/dlya-detey/odezhda/kostyumy-i-kombinezony",
+        "shard": "sport27",
+        "query": "cat=9059",
+        "landing": null
+    },
+    {
+        "id": 9055,
+        "parent": 8437,
+        "name": "Плавки и купальники",
+        "seo": "Детские боди и купальники",
+        "url": "/catalog/sport/dlya-detey/odezhda/bodi-i-kupalniki",
+        "shard": "sport27",
+        "query": "cat=9055",
+        "landing": null
+    },
+    {
+        "id": 9061,
+        "parent": 8437,
+        "name": "Платья и юбки",
+        "seo": "Детские спортивные платья",
+        "url": "/catalog/sport/dlya-detey/odezhda/platya",
+        "shard": "sport27",
+        "query": "cat=9061",
+        "landing": null
+    },
+    {
+        "id": 9060,
+        "parent": 8437,
+        "name": "Топы и футболки",
+        "seo": "Детские топы и футболки",
+        "url": "/catalog/sport/dlya-detey/odezhda/topy-i-futbolki",
+        "shard": "sport27",
+        "query": "cat=9060",
+        "landing": null
+    },
+    {
+        "id": 9043,
+        "parent": 8431,
+        "name": "Боди и купальники",
+        "seo": "Женские спортивные боди и купальники",
+        "url": "/catalog/sport/dlya-zhenshchin/odezhda/bodi-i-kupalniki",
+        "shard": "sport19",
+        "query": "cat=9043",
+        "landing": null
+    },
+    {
+        "id": 9044,
+        "parent": 8431,
+        "name": "Брюки и шорты",
+        "seo": "Женские спортивные брюки и шорты",
+        "url": "/catalog/sport/dlya-zhenshchin/odezhda/bryuki-i-shorty",
+        "shard": "sport19",
+        "query": "cat=9044",
+        "landing": null
+    },
+    {
+        "id": 129309,
+        "parent": 8431,
+        "name": "Рубашки",
+        "seo": "Женские спортивные рубашки",
+        "url": "/catalog/sport/dlya-zhenshchin/odezhda/rubashki",
+        "shard": "sport19",
+        "query": "cat=129309",
+        "landing": null
+    },
+    {
+        "id": 9045,
+        "parent": 8431,
+        "name": "Верхняя одежда",
+        "seo": "Женская верхняя спортивная одежда",
+        "url": "/catalog/sport/dlya-zhenshchin/odezhda/verhnyaya-odezhda",
+        "shard": "sport19",
+        "query": "cat=9045",
+        "landing": null
+    },
+    {
+        "id": 9046,
+        "parent": 8431,
+        "name": "Джемперы и толстовки",
+        "seo": "Женские спортивные джемперы и толстовки",
+        "url": "/catalog/sport/dlya-zhenshchin/odezhda/dzhempery-i-tolstovki",
+        "shard": "sport19",
+        "query": "cat=9046",
+        "landing": null
+    },
+    {
+        "id": 9047,
+        "parent": 8431,
+        "name": "Костюмы и комбинезоны",
+        "seo": "Женские спортивные костюмы и комбинезоны",
+        "url": "/catalog/sport/dlya-zhenshchin/odezhda/kostyumy-i-kombinezony",
+        "shard": "sport19",
+        "query": "cat=9047",
+        "landing": null
+    },
+    {
+        "id": 9049,
+        "parent": 8431,
+        "name": "Платья",
+        "seo": "Женские спортивные платья",
+        "url": "/catalog/sport/dlya-zhenshchin/odezhda/platya",
+        "shard": "sport19",
+        "query": "cat=9049",
+        "landing": null
+    },
+    {
+        "id": 9048,
+        "parent": 8431,
+        "name": "Топы и футболки",
+        "seo": "Женские спортивные топы и футболки",
+        "url": "/catalog/sport/dlya-zhenshchin/odezhda/topy-i-futbolki",
+        "shard": "sport19",
+        "query": "cat=9048",
+        "landing": null
+    },
+    {
+        "id": 9050,
+        "parent": 8434,
+        "name": "Брюки и шорты",
+        "seo": "Мужские спортивные брюки и шорты",
+        "url": "/catalog/sport/dlya-muzhchin/odezhda/bryuki-i-shorty",
+        "shard": "sport16",
+        "query": "cat=9050",
+        "landing": null
+    },
+    {
+        "id": 9051,
+        "parent": 8434,
+        "name": "Верхняя одежда",
+        "seo": "Мужская спортивная верхняя одежда",
+        "url": "/catalog/sport/dlya-muzhchin/odezhda/verhnyaya-odezhda",
+        "shard": "sport16",
+        "query": "cat=9051",
+        "landing": null
+    },
+    {
+        "id": 129312,
+        "parent": 8434,
+        "name": "Рубашки",
+        "seo": "Мужские спортивные рубашки",
+        "url": "/catalog/sport/dlya-muzhchin/odezhda/rubashki",
+        "shard": "sport16",
+        "query": "cat=129312",
+        "landing": null
+    },
+    {
+        "id": 9052,
+        "parent": 8434,
+        "name": "Джемперы и толстовки",
+        "seo": "Мужские джемперы и толстовки",
+        "url": "/catalog/sport/dlya-muzhchin/odezhda/dzhempery-i-tolstovki",
+        "shard": "sport16",
+        "query": "cat=9052",
+        "landing": null
+    },
+    {
+        "id": 9053,
+        "parent": 8434,
+        "name": "Костюмы и комбинезоны",
+        "seo": "Мужские спортивные костюмы и комбинезоны",
+        "url": "/catalog/sport/dlya-muzhchin/odezhda/kostyumy-i-kombinezony",
+        "shard": "sport16",
+        "query": "cat=9053",
+        "landing": null
+    },
+    {
+        "id": 9054,
+        "parent": 8434,
+        "name": "Футболки",
+        "seo": "Спортивные футболки мужские",
+        "url": "/catalog/sport/dlya-muzhchin/odezhda/futbolki",
+        "shard": "sport16",
+        "query": "cat=9054",
+        "landing": null
+    },
+    {
+        "id": 130109,
+        "parent": 129100,
+        "name": "Lada/ВАЗ",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/lada/vaz",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130109",
+        "landing": null
+    },
+    {
+        "id": 130110,
+        "parent": 129100,
+        "name": "Hyundai/Kia",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/hyundai/kia",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130110",
+        "landing": null
+    },
+    {
+        "id": 130111,
+        "parent": 129100,
+        "name": "Renault",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/renault",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130111",
+        "landing": null
+    },
+    {
+        "id": 130112,
+        "parent": 129100,
+        "name": "VAG",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/vag",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130112",
+        "landing": null
+    },
+    {
+        "id": 130113,
+        "parent": 129100,
+        "name": "Toyota",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/toyota",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130113",
+        "landing": null
+    },
+    {
+        "id": 130114,
+        "parent": 129100,
+        "name": "Nissan",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/nissan",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130114",
+        "landing": null
+    },
+    {
+        "id": 130115,
+        "parent": 129100,
+        "name": "ГАЗ",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/gaz",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130115",
+        "landing": null
+    },
+    {
+        "id": 130116,
+        "parent": 129100,
+        "name": "BMW",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/bmw",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130116",
+        "landing": null
+    },
+    {
+        "id": 130117,
+        "parent": 129100,
+        "name": "Mercedes-Benz",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/mercedes-benz",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130117",
+        "landing": null
+    },
+    {
+        "id": 130118,
+        "parent": 129100,
+        "name": "УАЗ",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/uaz",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130118",
+        "landing": null
+    },
+    {
+        "id": 130119,
+        "parent": 129100,
+        "name": "Mitsubishi",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/mitsubishi",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130119",
+        "landing": null
+    },
+    {
+        "id": 130120,
+        "parent": 129100,
+        "name": "Mazda",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/mazda",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130120",
+        "landing": null
+    },
+    {
+        "id": 130121,
+        "parent": 129100,
+        "name": "Ford",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/ford",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130121",
+        "landing": null
+    },
+    {
+        "id": 130122,
+        "parent": 129100,
+        "name": "Lexus",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/lexus",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130122",
+        "landing": null
+    },
+    {
+        "id": 130123,
+        "parent": 129100,
+        "name": "Volvo",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/volvo",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130123",
+        "landing": null
+    },
+    {
+        "id": 130124,
+        "parent": 129100,
+        "name": "Haval",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/haval",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130124",
+        "landing": null
+    },
+    {
+        "id": 130125,
+        "parent": 129100,
+        "name": "Geely",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/geely",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130125",
+        "landing": null
+    },
+    {
+        "id": 130126,
+        "parent": 129100,
+        "name": "Land Rover",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/land-rover",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130126",
+        "landing": null
+    },
+    {
+        "id": 130127,
+        "parent": 129100,
+        "name": "Chery",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/chery",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130127",
+        "landing": null
+    },
+    {
+        "id": 130128,
+        "parent": 129100,
+        "name": "Suzuki",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/suzuki",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130128",
+        "landing": null
+    },
+    {
+        "id": 130129,
+        "parent": 129100,
+        "name": "Datsun",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/datsun",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130129",
+        "landing": null
+    },
+    {
+        "id": 130130,
+        "parent": 129100,
+        "name": "Прочие марки",
+        "seo": null,
+        "url": "/catalog/avtotovary/zapchasti-na-legkovye-avtomobili/avtozapchasti/prochie-marki",
+        "shard": "autoproduct7_bigroot",
+        "query": "cat=130130",
+        "landing": null
+    },
+    {
+        "id": 9115,
+        "parent": 129288,
+        "name": "Обучение письму",
+        "seo": "Книги для обучения письму",
+        "url": "/catalog/knigi/detyam-i-roditelyam/obuchenie-pismu",
+        "shard": "books_children",
+        "query": "cat=9115",
+        "landing": null
+    },
+    {
+        "id": 9116,
+        "parent": 129288,
+        "name": "Обучение счету",
+        "seo": "Книги для обучения счету",
+        "url": "/catalog/knigi/detyam-i-roditelyam/obuchenie-schetu",
+        "shard": "books_children",
+        "query": "cat=9116",
+        "landing": null
+    },
+    {
+        "id": 9117,
+        "parent": 129288,
+        "name": "Обучение чтению",
+        "seo": "Книги для обучения чтению",
+        "url": "/catalog/knigi/detyam-i-roditelyam/obuchenie-chteniyu",
+        "shard": "books_children",
+        "query": "cat=9117",
+        "landing": null
+    },
+    {
+        "id": 129270,
+        "parent": 9150,
+        "name": "Обучение рисованию",
+        "seo": null,
+        "url": "/catalog/knigi/risovanie/obuchenie-risovaniyu",
+        "shard": "books5",
+        "query": "cat=129270",
+        "landing": null
+    },
+    {
+        "id": 129271,
+        "parent": 9150,
+        "name": "Раскраски",
+        "seo": null,
+        "url": "/catalog/knigi/risovanie/raskraski",
+        "shard": "books5",
+        "query": "subject=338",
+        "landing": null
+    }
+]
