@@ -1,6 +1,21 @@
 # from selenium import webdriver
 # from bs4 import BeautifulSoup
 #
+# from selenium.webdriver.support.select import Select
+# from selenium.webdriver.chrome.options import Options
+# from selenium.webdriver.chrome.service import Service
+#
+# stealth(driver,
+#         user_agent=ua.random,
+#         languages=["en-US", "en"],
+#         # vendor="Google Inc.",
+#         platform="Win32",
+#         webgl_vendor="Intel Inc.",
+#         renderer="Intel Iris OpenGL Engine",
+#         fix_hairline=False,
+#         run_on_insecure_origins=False,
+#         )
+#
 # driver = webdriver.Chrome()
 # driver.get('https://gias.by/gias/')
 #
