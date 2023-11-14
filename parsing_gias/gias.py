@@ -1,6 +1,4 @@
-import requests
 import csv
-import json
 import time
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -8,17 +6,14 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.select import Select
+
 from selenium_stealth import stealth
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
 
 from fake_useragent import UserAgent
 
 from parsing_gias.model import Result
 
 ua = UserAgent()
-
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
@@ -43,16 +38,7 @@ options.add_argument('--disable-dev-shm-usage')
 
 driver = webdriver.Chrome(options=options, )
 driver.execute_cdp_cmd('Network.setUserAgentOverride', {"userAgent": ua.random})
-# stealth(driver,
-#         user_agent=ua.random,
-#         languages=["en-US", "en"],
-#         # vendor="Google Inc.",
-#         platform="Win32",
-#         webgl_vendor="Intel Inc.",
-#         renderer="Intel Iris OpenGL Engine",
-#         fix_hairline=False,
-#         run_on_insecure_origins=False,
-#         )
+
 stealth(driver,
         user_agent=ua.random,
         languages=["en-US", "en"],
@@ -71,7 +57,7 @@ def get_data_json():
         print("Вызов URL")
         driver.get(url="https://gias.by/gias/#/purchase/current?extended")
         # time.sleep(5)
-        # # driver.implicitly_wait(60)
+        # driver.implicitly_wait(60)
         # driver.find_element(By.XPATH,
         #                     '//*[@id="root"]/div/section/section/main/div/div/div/div/div/div[1]/div/a[2]/span').click()
         time.sleep(5)
@@ -86,7 +72,7 @@ def get_data_json():
         time.sleep(5)
 
         # ================================= ВЫБОР ОТРАСЛИ И ЕЕ ВИДЫ ===================================================
-        # 1 выбрать Виды отрасли
+        # 1 !!!!!!!выбрать Виды отрасли
         clickable = driver.find_element(By.XPATH,
                                         '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/form/div['
                                         '3]/div[6]/div/div[2]/div/span/span/span/ul')
@@ -94,27 +80,27 @@ def get_data_json():
         time.sleep(5)
         # driver.implicitly_wait(10)
 
-        # 2 выбрать отрасль МЕДИЦИНА
+        # 2 !!!!!!!выбрать отрасль МЕДИЦИНА
         industry_selection = driver.find_element(By.XPATH, '//*[@id="rc-tree-select-list_1"]/ul/li[19]/span[1]')
         ActionChains(driver).click(industry_selection).perform()
         time.sleep(5)
         # driver.implicitly_wait(10)
 
-        # 3 выбрать Медицинский инструмент
+        # 3 !!!!!!!выбрать Медицинский инструмент
         medical_instrument = driver.find_element(By.XPATH,
                                                  '//*[@id="rc-tree-select-list_1"]/ul/li[19]/ul/li[5]/span[2]')
         ActionChains(driver).click(medical_instrument).perform()
         time.sleep(5)
         # driver.implicitly_wait(15)
 
-        # 4 выбрать Медицинское оборудование / комплектующие
+        # 4 !!!!!!!выбрать Медицинское оборудование / комплектующие
         medical_equipment = driver.find_element(By.XPATH,
                                                 '//*[@id="rc-tree-select-list_1"]/ul/li[19]/ul/li[6]/span[2]/span')
         ActionChains(driver).click(medical_equipment).perform()
         time.sleep(5)
         # driver.implicitly_wait(15)
 
-        # 5 выбрать Расходные материалы
+        # 5 !!!!!!!выбрать Расходные материалы
         consumables = driver.find_element(By.XPATH,
                                           '//*[@id="rc-tree-select-list_1"]/ul/li[19]/ul/li[7]/span[2]/span')
         ActionChains(driver).click(consumables).perform()
@@ -128,7 +114,6 @@ def get_data_json():
         time.sleep(5)
 
         contract_is_signed = driver.find_element(By.XPATH, '//span[text()="Договор подписан"]')
-        # contract_is_signed.send_keys('Договор подписан')
         ActionChains(driver).click(contract_is_signed).perform()
         time.sleep(5)
         # =============================================================================================================
@@ -137,7 +122,6 @@ def get_data_json():
         # =========================================== ПАГИНАЦИЯ ========================================================
         page = driver.find_element(By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div['
                                              '2]/div/div/ul/li[11]/div[1]/div/div/div')
-        # page = driver.find_element(By.XPATH, '//*[@id="b23b68aa-e0db-41fd-b4c2-3de0957d8c4b"]/ul/li[4]')
         ActionChains(driver).click(page).perform()
         time.sleep(5)
 
