@@ -146,21 +146,12 @@ def get_data_json():
         time.sleep(5)
         # =============================================================================================================
 
-        # ======================================= СБОР ДАННЫХ СО СТРАНИЦ ==============================================
+        # ============================ СБОР ДАННЫХ СО СТРАНИЦ ЗАПИСЬ ДАННЫХ В ФАЙЛ CSV ================================
         html = driver.page_source
         soup = BeautifulSoup(html, 'lxml')
 
         # with open(f'page.html', 'w', encoding='utf-8') as file:
         #     file.write(soup.prettify())
-        # =============================================================================================================
-
-        page_next = driver.find_element(
-            By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[10]'
-        )
-        ActionChains(driver).click(page_next).perform()
-        time.sleep(15)
-
-        # ================================= ЗАПИСЬ ДАННЫХ В ФАЙЛ CSV ====================================
 
         data = []
         tbody = soup.find_all('tbody', class_='ant-table-tbody')
@@ -183,6 +174,14 @@ def get_data_json():
                                     closing_date_for_proposals=i[5],
                                     region=i[2]))
         write_csv(data_rows)
+        # =============================================================================================================
+
+        # TODO ========== Реализовать сбор данный со страниц. Так же определить их количество ========================
+        page_next = driver.find_element(
+            By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[10]'
+        )
+        ActionChains(driver).click(page_next).perform()
+        time.sleep(15)
 
     except Exception as ex:
         print(ex)
