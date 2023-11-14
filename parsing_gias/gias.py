@@ -50,7 +50,7 @@ stealth(driver,
         )
 
 
-def get_data_json():
+def get_data_selenium():
     try:
         create_csv()
         # driver.implicitly_wait(5)
@@ -211,7 +211,7 @@ def write_csv(result: list[Result]):
 
 
 def main():
-    get_data_json()
+    get_data_selenium()
     # create_csv()
     # read_file()
 
