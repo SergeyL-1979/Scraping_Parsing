@@ -131,42 +131,46 @@ def get_data_selenium():
         # =============================================================================================================
 
         # ============================ СБОР ДАННЫХ СО СТРАНИЦ ЗАПИСЬ ДАННЫХ В ФАЙЛ CSV ================================
-        html = driver.page_source
-        soup = BeautifulSoup(html, 'lxml')
+        list_data_result = []
+        for i in range(1, 5):
+            html = driver.page_source
+            soup = BeautifulSoup(html, 'lxml')
 
-        # with open(f'page.html', 'w', encoding='utf-8') as file:
-        #     file.write(soup.prettify())
+            # with open(f'page.html', 'w', encoding='utf-8') as file:
+            #     file.write(soup.prettify())
 
-        data = []
-        tbody = soup.find_all('tbody', class_='ant-table-tbody')
-        for tb in tbody:
-            rows = tb.find_all('tr')
-            for row in rows:
-                row_data = []
-                cols = row.find_all('td')
-                for col in cols:
-                    row_data.append(col.text.strip())
-                data.append(row_data)
+            data = []
+            tbody = soup.find_all('tbody', class_='ant-table-tbody')
+            for tb in tbody:
+                rows = tb.find_all('tr')
+                for row in rows:
+                    row_data = []
+                    cols = row.find_all('td')
+                    for col in cols:
+                        row_data.append(col.text.strip())
+                    data.append(row_data)
 
-        data_rows = []
-        for i in data:
-            data_rows.append(Result(subject_of_purchase=i[0],
-                                    customer_name=i[1],
-                                    location=i[2],
-                                    item=i[3],
-                                    estimated_cost=i[4],
-                                    closing_date_for_proposals=i[5],
-                                    region=i[2]))
-        write_csv(data_rows)
-        # =============================================================================================================
+            data_rows = []
+            for i in data:
+                data_rows.append(Result(subject_of_purchase=i[0],
+                                        customer_name=i[1],
+                                        location=i[2],
+                                        item=i[3],
+                                        estimated_cost=i[4],
+                                        closing_date_for_proposals=i[5],
+                                        region=i[2]))
+            print(data_rows)
+            list_data_result.extend(data_rows)
+            # =============================================================================================================
 
-        # TODO ========== Реализовать сбор данный со страниц. Так же определить их количество ========================
-        page_next = driver.find_element(
-            By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[10]'
-        )
-        ActionChains(driver).click(page_next).perform()
-        time.sleep(15)
+            # TODO ======= Реализовать сбор данный со страниц. Так же определить их количество ========================
+            page_next = driver.find_element(
+                By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[10]'
+            )
+            ActionChains(driver).click(page_next).perform()
+            time.sleep(15)
 
+        write_csv(list_data_result)
     except Exception as ex:
         print(ex)
     finally:
