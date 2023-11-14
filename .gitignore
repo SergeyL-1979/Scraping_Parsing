@@ -164,3 +164,4 @@ chromedriver
 *.txt
 *.html
 !req.txt
+!requirements.txt
