@@ -1,7 +1,7 @@
 import requests
-import requests_cache
 import csv
 import json
+import time
 from datetime import datetime
 from bs4 import BeautifulSoup
 
@@ -10,24 +10,22 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 from selenium_stealth import stealth
-import time
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
+
 from fake_useragent import UserAgent
 
-from parsing.model import Result
+from parsing_gias.model import Result
 
 ua = UserAgent()
 
+
 options = webdriver.ChromeOptions()
-# options = Options()
-# options.add_argument("start-maximized")
-# options.add_argument("--headless")
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
 # options.add_argument('--disable-blink-features=AutomationControlled')
 
-# run in headless mode
+# run in headless mode = фоновый режим запуска браузера
 # options.add_argument("--headless")
 # disable the AutomationControlled feature of Blink rendering engine
 options.add_argument('--disable-blink-features=AutomationControlled')
@@ -69,6 +67,7 @@ stealth(driver,
 def get_data_json():
     try:
         # driver.implicitly_wait(5)
+        print("Вызов URL")
         driver.get(url="https://gias.by/gias/#/purchase/current?extended")
         # time.sleep(5)
         # # driver.implicitly_wait(60)
@@ -76,6 +75,7 @@ def get_data_json():
         #                     '//*[@id="root"]/div/section/section/main/div/div/div/div/div/div[1]/div/a[2]/span').click()
         time.sleep(5)
 
+        print("Запрос в поисковике")
         search = driver.find_element(
             By.XPATH, '//*[@id="contextTextSearch"]')
         search.send_keys('ультразвуковой')
@@ -114,9 +114,9 @@ def get_data_json():
         # driver.implicitly_wait(15)
 
         # 5 выбрать Расходные материалы
-        сonsumables = driver.find_element(By.XPATH,
+        consumables = driver.find_element(By.XPATH,
                                           '//*[@id="rc-tree-select-list_1"]/ul/li[19]/ul/li[7]/span[2]/span')
-        ActionChains(driver).click(сonsumables).perform()
+        ActionChains(driver).click(consumables).perform()
         time.sleep(5)
         # driver.implicitly_wait(15)
         # =============================================================================================================
@@ -132,6 +132,7 @@ def get_data_json():
         time.sleep(5)
         # =============================================================================================================
 
+        print("Выбор количества записей на страницу")
         # =========================================== ПАГИНАЦИЯ ========================================================
         page = driver.find_element(By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div['
                                              '2]/div/div/ul/li[11]/div[1]/div/div/div')
@@ -149,33 +150,34 @@ def get_data_json():
         # soup = BeautifulSoup(count_pages, 'lxml')
 
         # page_item = soup.find(class_='ant-pagination-total-text').text
-        page_item = driver.find_element(
-            By.XPATH,
-            '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[1]/span'
-        ).text[5:9:1]
+        # page_item = driver.find_element(
+        #     By.XPATH,
+        #     '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[1]/span'
+        # ).text[5:9:1]
+        #
+        # print(page_item)
 
-        print(page_item)
+        # TODO где-то тут ошибка
+        # ======================================= СБОР ДАННЫХ СО СТРАНИЦ ==============================================
+        # page_next = driver.find_element(
+        #     By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[10]'
+        # )
+        # ActionChains(driver).click(page_next).perform()
+        # time.sleep(15)
 
-        # ============================================== СБОР ДАННЫХ ==================================================
         html = driver.page_source
         soup = BeautifulSoup(html, 'lxml')
 
-        with open('page_1.html', 'w', encoding='utf-8') as file:
+        with open(f'page.html', 'w', encoding='utf-8') as file:
             file.write(soup.prettify())
         # =============================================================================================================
 
-        # ======================================= СБОР ДАННЫХ СО СТРАНИЦ ==============================================
-        page_next = driver.find_element(
-            By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[10]'
-        )
-        ActionChains(driver).click(page_next).perform()
-        time.sleep(15)
-
-        html = driver.page_source
-        soup = BeautifulSoup(html, 'lxml')
-
-        with open('page_2.html', 'w', encoding='utf-8') as file:
-            file.write(soup.prettify())
+        # ============================================== СБОР ДАННЫХ ==================================================
+        # html = driver.page_source
+        # soup = BeautifulSoup(html, 'lxml')
+        #
+        # with open('page_1.html', 'w', encoding='utf-8') as file:
+        #     file.write(soup.prettify())
         # =============================================================================================================
 
 
@@ -188,10 +190,45 @@ def get_data_json():
         driver.quit()
 
 
+def read_file():
+    with open(f'page_1.html', 'r', encoding='utf-8') as file:
+        data_html = file.read()
+    links = []
+    soup = BeautifulSoup(data_html, 'lxml')
+
+    for link in soup.find('tbody', class_='ant-table-tbody').find_all('a'):
+        href = link.get('href')
+        links.append({'href': href})
+
+    data = []
+    tbody = soup.find_all('tbody', class_='ant-table-tbody')
+    for tb in tbody:
+        rows = tb.find_all('tr')
+        for row in rows:
+            row_data = []
+            cols = row.find_all('td')
+            for col in cols:
+                row_data.append(col.text.strip())
+            data.append(row_data)
+    print(data)
+
+    data_rows = []
+    for i in data:
+        data_rows.append(Result(subject_of_purchase=i[0],
+                                customer_name=i[1],
+                                location=i[2],
+                                item=i[3],
+                                estimated_cost=i[4],
+                                closing_date_for_proposals=i[5],
+                                region=i[2]))
+    print(data_rows)
+    write_csv(data_rows)
+
+
 def create_csv():
     t_date = datetime.now().strftime('%d_%m_%Y')
 
-    with open(f'result_{t_date}.csv', 'a', encoding='utf-8', newline='') as file:
+    with open(f'result_{t_date}.csv', 'w', encoding='utf-8', newline='') as file:
         writer = csv.writer(file, delimiter=";")
 
         writer.writerow(
@@ -226,7 +263,8 @@ def write_csv(result: list[Result]):
 
 def main():
     get_data_json()
-    # get_csv()
+    # create_csv()
+    # read_file()
 
 
 if __name__ == '__main__':
