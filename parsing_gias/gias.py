@@ -6,6 +6,9 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+# from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 from selenium_stealth import stealth
 
@@ -132,7 +135,7 @@ def get_data_selenium():
 
         # ============================ СБОР ДАННЫХ СО СТРАНИЦ ЗАПИСЬ ДАННЫХ В ФАЙЛ CSV ================================
         list_data_result = []
-        for i in range(1, 5):
+        for i in range(1, 4):
             html = driver.page_source
             soup = BeautifulSoup(html, 'lxml')
 
