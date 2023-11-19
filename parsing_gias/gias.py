@@ -68,6 +68,7 @@ def get_data_selenium():
         print("Запрос в поисковике")
         search = driver.find_element(
             By.XPATH, '//*[@id="contextTextSearch"]')
+        # TODO ==== сделать универсальную возможность ввода текста в поиск
         search.send_keys('ультразвуковой')
         driver.find_element(By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/form/div['
                                       '1]/div/div/span/span/span/span/button').click()
@@ -75,6 +76,7 @@ def get_data_selenium():
         time.sleep(5)
 
         # ================================= ВЫБОР ОТРАСЛИ И ЕЕ ВИДЫ ===================================================
+        # TODO === сделать возможность выбора отрасли и ее видов
         # 1 !!!!!!!выбрать Виды отрасли
         clickable = driver.find_element(By.XPATH,
                                         '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/form/div['
@@ -112,6 +114,7 @@ def get_data_selenium():
         # =============================================================================================================
 
         # ================= ВЫБОР. В поле «Статус закупки (лота)» выбрать статус «Договор подписан» ===================
+        # TODO === сделать возможность выбора из поля «Статус закупки (лота)»
         procurement_status = driver.find_element(By.XPATH, '//*[@id="purchaseState"]/div/div')
         ActionChains(driver).click(procurement_status).perform()
         time.sleep(5)
@@ -134,6 +137,7 @@ def get_data_selenium():
         # =============================================================================================================
 
         # ============================ СБОР ДАННЫХ СО СТРАНИЦ ЗАПИСЬ ДАННЫХ В ФАЙЛ CSV ================================
+        # TODO ==== сделать цикл и условие при котором будет окончен сбор данных при разном количестве страниц
         list_data_result = []
         for i in range(1, 22):
             html = driver.page_source
