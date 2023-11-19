@@ -135,7 +135,7 @@ def get_data_selenium():
 
         # ============================ СБОР ДАННЫХ СО СТРАНИЦ ЗАПИСЬ ДАННЫХ В ФАЙЛ CSV ================================
         list_data_result = []
-        for i in range(1, 4):
+        for i in range(1, 22):
             html = driver.page_source
             soup = BeautifulSoup(html, 'lxml')
 
@@ -164,14 +164,14 @@ def get_data_selenium():
                                         region=i[2]))
             print(data_rows)
             list_data_result.extend(data_rows)
-            # =============================================================================================================
+            # ========================================================================================================
 
-            # TODO ======= Реализовать сбор данный со страниц. Так же определить их количество ========================
+            # =========== Реализовать сбор данный со страниц. Так же определить их количество ========================
             page_next = driver.find_element(
-                By.XPATH, '//*[@id="root"]/div/section/section/main/div/div[2]/div/div/div/div[2]/div/div/ul/li[10]'
+                By.CSS_SELECTOR, 'li[title="Вперед"]'
             )
             ActionChains(driver).click(page_next).perform()
-            time.sleep(15)
+            time.sleep(10)
 
         write_csv(list_data_result)
     except Exception as ex:
@@ -219,8 +219,6 @@ def write_csv(result: list[Result]):
 
 def main():
     get_data_selenium()
-    # create_csv()
-    # read_file()
 
 
 if __name__ == '__main__':
