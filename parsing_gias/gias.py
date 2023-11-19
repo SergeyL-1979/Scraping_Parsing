@@ -143,9 +143,6 @@ def get_data_selenium():
             html = driver.page_source
             soup = BeautifulSoup(html, 'lxml')
 
-            # with open(f'page.html', 'w', encoding='utf-8') as file:
-            #     file.write(soup.prettify())
-
             data = []
             tbody = soup.find_all('tbody', class_='ant-table-tbody')
             for tb in tbody:
