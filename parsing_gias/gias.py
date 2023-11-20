@@ -164,7 +164,7 @@ def get_data_selenium():
                                         item=i[3],
                                         estimated_cost=i[4],
                                         closing_date_for_proposals=i[5],
-                                        region=i[2]))
+                                        region=i[2].split(', ')[1]))
 
             list_data_result.extend(data_rows)
             # ========================================================================================================
