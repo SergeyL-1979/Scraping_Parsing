@@ -1,5 +1,6 @@
 import csv
 import time
+import pandas as pd
 from datetime import datetime
 from bs4 import BeautifulSoup
 
@@ -136,6 +137,7 @@ def get_data_selenium():
         time.sleep(5)
         # =============================================================================================================
 
+        print("Начинаем сбор данных со страниц")
         # ============================ СБОР ДАННЫХ СО СТРАНИЦ ЗАПИСЬ ДАННЫХ В ФАЙЛ CSV ================================
         # TODO ==== сделать цикл и условие при котором будет окончен сбор данных при разном количестве страниц
         list_data_result = []
@@ -143,7 +145,7 @@ def get_data_selenium():
             html = driver.page_source
             soup = BeautifulSoup(html, 'lxml')
 
-            data = []
+            data_html_pages = []
             tbody = soup.find_all('tbody', class_='ant-table-tbody')
             for tb in tbody:
                 rows = tb.find_all('tr')
@@ -152,10 +154,10 @@ def get_data_selenium():
                     cols = row.find_all('td')
                     for col in cols:
                         row_data.append(col.text.strip())
-                    data.append(row_data)
+                    data_html_pages.append(row_data)
 
             data_rows = []
-            for i in data:
+            for i in data_html_pages:
                 data_rows.append(Result(subject_of_purchase=i[0],
                                         customer_name=i[1],
                                         location=i[2],
@@ -163,7 +165,7 @@ def get_data_selenium():
                                         estimated_cost=i[4],
                                         closing_date_for_proposals=i[5],
                                         region=i[2]))
-            print(data_rows)
+
             list_data_result.extend(data_rows)
             # ========================================================================================================
 
@@ -174,12 +176,14 @@ def get_data_selenium():
             ActionChains(driver).click(page_next).perform()
             time.sleep(10)
 
+        print(list_data_result)
         write_csv(list_data_result)
     except Exception as ex:
         print(ex)
     finally:
         driver.close()
         driver.quit()
+        print("Сбор закончен")
 
 
 def create_csv():
