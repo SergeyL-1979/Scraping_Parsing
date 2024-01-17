@@ -10,3 +10,4 @@ jmespath
 pydantic
 pandas
 pytest-playwright
+pyTelegramBotAPI

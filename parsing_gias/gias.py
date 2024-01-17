@@ -142,6 +142,8 @@ def get_data_selenium():
         # TODO ==== сделать цикл и условие при котором будет окончен сбор данных при разном количестве страниц
         list_data_result = []
         for i in range(1, 22):
+        # while driver.find_elements(By.CSS_SELECTOR, 'li[title="Вперед"]'):
+
             html = driver.page_source
             soup = BeautifulSoup(html, 'lxml')
 
