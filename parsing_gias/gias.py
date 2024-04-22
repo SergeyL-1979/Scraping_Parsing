@@ -40,7 +40,10 @@ options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 # options.add_argument(f'user-agent={ua.random}')
 
-driver = webdriver.Chrome(options=options, )
+# service = webdriver.ChromeService(service_args=['--log-level=DEBUG'], log_output=subprocess.STDOUT)
+service = webdriver.ChromeService(service_args=['--append-log', '--readable-timestamp'], log_output='log_path.log')
+
+driver = webdriver.Chrome(options=options, service=service)
 driver.execute_cdp_cmd('Network.setUserAgentOverride', {"userAgent": ua.random})
 
 stealth(driver,
