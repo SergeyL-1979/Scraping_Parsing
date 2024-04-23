@@ -1,0 +1,30 @@
+cookies = {
+    'cf_chl_3': '6f93adc01fe492b',
+    'cf_clearance': 'PWP8juSj1WQK9pE1Zx65StFfhXGT8Z6vthmzqvQztqw-1713866436-1.0.1.1-BwcDJInrKblBOW1ZUUn8zZnmIvcJy6t31qwN504KUzq_HBX6c3dovQHu2bFAQGjECvejrJO5XERnrmkh1NSx4Q',
+}
+
+headers = {
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'accept-language': 'ru-RU,ru;q=0.9,en;q=0.8,zh-CN;q=0.7,zh;q=0.6',
+    'cache-control': 'no-cache',
+    # 'cookie': 'cf_chl_3=6f93adc01fe492b; cf_clearance=PWP8juSj1WQK9pE1Zx65StFfhXGT8Z6vthmzqvQztqw-1713866436-1.0.1.1-BwcDJInrKblBOW1ZUUn8zZnmIvcJy6t31qwN504KUzq_HBX6c3dovQHu2bFAQGjECvejrJO5XERnrmkh1NSx4Q',
+    'dnt': '1',
+    'pragma': 'no-cache',
+    'priority': 'u=0, i',
+    'referer': 'https://www.zingat.com/en/for-sale?__cf_chl_tk=ge9plKcZx0mVA5vYSZRdQztklzViNdmWQL0nH.xuLro-1713866430-0.0.1.1-1599',
+    'sec-ch-ua': '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+    'sec-ch-ua-arch': '"x86"',
+    'sec-ch-ua-bitness': '"64"',
+    'sec-ch-ua-full-version': '"124.0.6367.60"',
+    'sec-ch-ua-full-version-list': '"Chromium";v="124.0.6367.60", "Google Chrome";v="124.0.6367.60", "Not-A.Brand";v="99.0.0.0"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-model': '""',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-ch-ua-platform-version': '"15.0.0"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'same-origin',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+}
